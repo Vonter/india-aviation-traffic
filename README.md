@@ -10,7 +10,7 @@ Browse the dataset using the below links:
 
 ## Dataset
 
-The complete dataset is available as CSV files under the [csv/](csv) folder in this repository. The CSV files include details on passenger, freight and mail traffic depending on availability of data in a particular timeframe:
+The complete dataset is available as CSV files under the [aggregated/](aggregated) folder in this repository. The CSV files include details on passenger, freight and mail traffic depending on availability of data in a particular timeframe:
 - [Domestic City-wise](aggregated/domestic/city.csv?raw=1)
 - [International City-wise](aggregated/international/city.csv?raw=1)
 - [International Country-wise](aggregated/international/country.csv?raw=1)
