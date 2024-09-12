@@ -38,8 +38,17 @@ def csv_to_dataframe(csv_file, date_parsing):
 
         if date_parsing:
             date = map_string_to_date(filename)
-            df['Year'] = "20{}".format(date.split("/")[0])
-            df['Month'] = date.split("/")[1]
+            year = "20{}".format(date.split("/")[0])
+            month = date.split("/")[1]
+
+            # Edge case for August 2015
+            if year == '2015' and month == '08':
+                df.columns = [int(col) + 1 for col in df.columns[0:4]]
+                df.insert(0, 0, 1, True)
+                df = df.iloc[2:]
+
+            df['Year'] = year
+            df['Month'] = month
         else:
             year = filename[0:2]
             quarter = filename[3]
