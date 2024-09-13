@@ -1,32 +1,78 @@
 # india-aviation-traffic
 
-Dataset of Indian aviation traffic, by carrier and city. Sourced from [DGCA](https://www.dgca.gov.in/).
+Dataset of Indian aviation traffic. Sourced from [DGCA](https://www.dgca.gov.in/) and [Ministry of Civil Aviation](https://www.civilaviation.gov.in/).
 
 Browse the dataset using the below links:
-- Domestic City-wise: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/domestic/city.csv&stickyColumnName=City1>
-- International City-wise: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/city.csv&stickyColumnName=City1>
-- International Country-wise: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/country.csv&stickyColumnName=Country>
-- International Carrier-wise: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/carrier.csv&stickyColumnName=Airline>
+- Ministry of Civil Aviation Daily Reports: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/daily.csv&stickyColumnName=Date>
+- Monthly Domestic City-wise: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/domestic/city.csv&stickyColumnName=City1>
+- Quarterly International City-wise: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/city.csv&stickyColumnName=City1>
+- Quarterly International Country-wise: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/country.csv&stickyColumnName=Country>
+- Monthly International Carrier-wise: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/carrier.csv&stickyColumnName=Airline>
 
 ## Dataset
 
-The complete dataset is available as CSV files under the [aggregated/](aggregated) folder in this repository. The CSV files include details on passenger, freight and mail traffic depending on availability of data in a particular timeframe:
-- [Domestic City-wise](aggregated/domestic/city.csv?raw=1)
-- [International City-wise](aggregated/international/city.csv?raw=1)
-- [International Country-wise](aggregated/international/country.csv?raw=1)
-- [International Carrier-wise](aggregated/international/carrier.csv?raw=1)
+The complete dataset is available as CSV files under the [aggregated/](aggregated) folder in this repository:
+
+#### Ministry of Civil Aviation Daily Reports
+
+Data: [daily.csv](aggregated/daily.csv?raw=1)
+
+- Sourced from [Ministry of Civil Aviation](https://www.civilaviation.gov.in/)
+    - Daily reports are fetched from historical site snapshots available on [Wayback Machine](https://archive.org/)
+- Domestic, international, cargo, on time performance, passenger load factor, grievances and more data points reported on the Ministry of Civil Aviation site
+- Mid-2022 to 2024
+    - Report update frequency on the Ministry of Civil Aviation is irregular, and not daily. Many days in between the start and end date have no data points.
+
+#### Monthly Domestic City-wise
+
+Data: [domestic/city.csv](aggregated/domestic/city.csv?raw=1)
+
+- Sourced from the Monthly Statistics (Domestic Air Transport) page in the [DGCA](https://www.dgca.gov.in/) site
+- Monthly city-pair wise passenger, freight and mail traffic
+- Mid-2015 to 2024
+
+#### Quarterly International City-wise
+
+Data: [international/city.csv](aggregated/international/city.csv?raw=1)
+
+- Sourced from the Table 4 reports under the Quarterly Statistics (International Air Transport) page in the [DGCA](https://www.dgca.gov.in/) site
+- Quarterly city-pair wise passenger and freight traffic
+- 2015 to 2024
+
+#### Quarterly International Country-wise
+
+Data: [international/country.csv](aggregated/international/country.csv?raw=1)
+
+- Sourced from the Table 3 reports under the Quarterly Statistics (International Air Transport) page in the [DGCA](https://www.dgca.gov.in/) site
+- Quarterly country-pair wise passenger and freight traffic
+- 2015 to 2024
+
+#### Monthly International Carrier-wise
+
+Data: [international/carrier.csv](aggregated/international/carrier.csv?raw=1)
+
+- Sourced from [DGCA](https://www.dgca.gov.in/)
+- Monthly carrier wise passenger and freight traffic. M1, M2 and M3 correspond to the 1st, 2nd and 3rd month of the quarter.
+- 2015 to 2024
 
 ## Scripts
 
-- [initialize.sh](initialize.sh): Initializes the list of XLSX URLs to be fetched
-- [fetch.sh](fetch.sh): Fetches the raw XLSX files from [DGCA](https://www.dgca.gov.in/)
-- [parse.sh](parse.sh): Parses the raw XLSX files, and save them as equivalent CSV files
-- [aggregate.py](aggregate.py): Parses the individual CSV files, and aggregates them into combined CSV files
+### DGCA
+
+- [initialize.sh](dgca/initialize.sh): Initializes the list of XLSX URLs to be fetched
+- [fetch.sh](dgca/fetch.sh): Fetches the raw XLSX files from [DGCA](https://www.dgca.gov.in/)
+- [parse.sh](dgca/parse.sh): Parses the raw XLSX files, and save them as equivalent CSV files
+- [aggregate.py](dgca/aggregate.py): Parses the individual CSV files, and aggregates them into combined CSV files
+
+### Ministry of Civil Aviation
+
+- [fetch.sh](mca/fetch.sh): Fetches historical HTML files of the [Ministry of Civil Aviation](https://www.dgca.gov.in/) site from [Wayback Machine](https://archive.org/)
+- [parse.py](mca/parse.py): Parses the HTML files, and aggregates the reports into a CSV file
 
 ## License
 
 This india-aviation-traffic dataset is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. 
-Users of this data should attribute DGCA: https://www.dgca.gov.in/digigov-portal/
+Users of this data should attribute DGCA (https://www.dgca.gov.in/digigov-portal/) and Ministry of Civil Aviation (https://www.civilaviation.gov.in/)
 
 You are free:
 
@@ -41,6 +87,8 @@ As long as you:
 * **Keep open**: If you redistribute the database, or an adapted version of it, then you may use technological measures that restrict the work (such as DRM) as long as you also redistribute a version without such measures.
 
 ## Generating
+
+### DGCA
 
 Ensure you have `bash`, `curl`, `python` and `ssconvert` installed
 
@@ -60,9 +108,23 @@ python aggregate.py
 
 The fetch script sources data from DGCA (https://www.dgca.gov.in/)
 
+### Ministry of Civil Aviation
+
+Ensure you have `bash`, `python` and `waybackpack` installed
+
+```
+# Fetch the HTML
+bash fetch.sh
+
+# Generate the CSV
+python parse.py
+```
+
+The fetch script sources data from Wayback Machine (https://archive.org/)
+
 ## TODO
 
-- Automatically fetch new data every month
+- Automatically fetch new data regularly
 - Parse carrier-wise domestic data tables
 - Additional aggregations by city, region, carrier, date
 - Visualizations of datasets
@@ -74,3 +136,4 @@ Found an error in the data processing or have a question? Create an [issue](http
 ## Credits
 
 - [DGCA](https://www.dgca.gov.in/)
+- [Ministry of Civil Aviation](https://www.civilaviation.gov.in/)
