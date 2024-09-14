@@ -16,7 +16,7 @@ def international_table(table):
     # Read CSV files into a single dataframe
     dataframes = []
     for csv_file in csv_files:
-        df = csv_to_dataframe(csv_file, date_parsing=False)
+        df = csv_to_dataframe(csv_file, domestic=False, table='')
         if df is not None:
             dataframes.append(df)
 
@@ -64,4 +64,4 @@ def international_table(table):
 
     combined_df = combined_df.reindex(columns=columns)
 
-    combined_df.to_csv('aggregated/international/{}.csv'.format(filename), index=False, float_format=float_format)
+    combined_df.to_csv('../aggregated/international/{}.csv'.format(filename), index=False, float_format=float_format)

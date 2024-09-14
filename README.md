@@ -5,6 +5,7 @@ Dataset of Indian aviation traffic. Sourced from [DGCA](https://www.dgca.gov.in/
 Browse the dataset using the below links:
 - Ministry of Civil Aviation Daily Reports: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/daily.csv&stickyColumnName=Date>
 - Monthly Domestic City-wise: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/domestic/city.csv&stickyColumnName=City1>
+- Monthly Domestic Carrier-wise: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/domestic/carrier.csv&stickyColumnName=Airline>
 - Quarterly International City-wise: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/city.csv&stickyColumnName=City1>
 - Quarterly International Country-wise: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/country.csv&stickyColumnName=Country>
 - Monthly International Carrier-wise: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/carrier.csv&stickyColumnName=Airline>
@@ -29,6 +30,14 @@ Data: [domestic/city.csv](aggregated/domestic/city.csv?raw=1)
 
 - Sourced from the Monthly Statistics (Domestic Air Transport) page in the [DGCA](https://www.dgca.gov.in/) site
 - Monthly city-pair wise passenger, freight and mail traffic
+- Mid-2015 to 2024
+
+#### Monthly Domestic Carrier-wise
+
+Data: [domestic/carrier.csv](aggregated/domestic/carrier.csv?raw=1)
+
+- Sourced from the Monthly Statistics (Domestic Air Transport) page in the [DGCA](https://www.dgca.gov.in/) site
+- Monthly carrier-pair wise passenger, freight and mail traffic
 - Mid-2015 to 2024
 
 #### Quarterly International City-wise
@@ -125,7 +134,6 @@ The fetch script sources data from Wayback Machine (https://archive.org/)
 ## TODO
 
 - Automatically fetch new data regularly
-- Parse carrier-wise domestic data tables
 - Additional aggregations by city, region, carrier, date
 - Visualizations of datasets
 
