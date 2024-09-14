@@ -2,13 +2,11 @@
 
 Dataset of Indian aviation traffic. Sourced from [DGCA](https://www.dgca.gov.in/) and [Ministry of Civil Aviation](https://www.civilaviation.gov.in/).
 
-Browse the dataset using the below links:
-- Ministry of Civil Aviation Daily Reports: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/daily.csv&stickyColumnName=Date>
-- Monthly Domestic City-wise: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/domestic/city.csv&stickyColumnName=City1>
-- Monthly Domestic Carrier-wise: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/domestic/carrier.csv&stickyColumnName=Airline>
-- Quarterly International City-wise: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/city.csv&stickyColumnName=City1>
-- Quarterly International Country-wise: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/country.csv&stickyColumnName=Country>
-- Monthly International Carrier-wise: <https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/carrier.csv&stickyColumnName=Airline>
+Explore the dataset using the below links:
+- [Daily Summary](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/daily.csv&stickyColumnName=Date) (Ministry of Civil Aviation)
+- Carrier-wise: [Domestic](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/domestic/carrier.csv&stickyColumnName=Airline&sort=Year%2Cdesc) or [International](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/carrier.csv&stickyColumnName=Airline&sort=Year%2Cdesc) (DGCA)
+- City-wise: [Domestic](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/domestic/city.csv&stickyColumnName=City1&sort=Year%2Cdesc) or [International](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/city.csv&stickyColumnName=City1&sort=Year%2Cdesc) (DGCA)
+- [Country-wise](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/country.csv&stickyColumnName=Country) (DGCA)
 
 ## Dataset
 
