@@ -14,11 +14,12 @@ def domestic_table_city():
 
     dataframes = []
     for csv_file in csv_files:
-        df = csv_to_dataframe(csv_file, date_parsing=True)
+        df = csv_to_dataframe(csv_file, domestic=True, table='city')
         if df is not None:
             dataframes.append(df)
 
     combined_df = pd.concat(dataframes)
+
     combined_df = combined_df.iloc[:, :11]
     combined_df = combined_df[~combined_df.map(lambda x: isinstance(x, str) and "NAME OF THE AIRLINE" in x)]
     combined_df = combined_df[~combined_df.map(lambda x: isinstance(x, str) and "TO CITY" in x)]
@@ -60,7 +61,7 @@ def domestic_table_city():
 
     combined_df = combined_df.reindex(columns=columns)
 
-    combined_df.to_csv('aggregated/domestic/city.csv', index=False, float_format=float_format)
+    combined_df.to_csv('../aggregated/domestic/city.csv', index=False, float_format=float_format)
 
 def domestic_table_carrier():
     directory_path = './raw/csv/domestic'
@@ -70,7 +71,54 @@ def domestic_table_carrier():
 
     dataframes = []
     for csv_file in csv_files:
-        df = csv_to_dataframe(csv_file, date_parsing=False)
+        df = csv_to_dataframe(csv_file, domestic=True, table='carrier')
         if df is not None:
             dataframes.append(df)
-            return True
+
+    combined_df = pd.concat(dataframes)
+
+    # Filter rows where the first column contains any month name
+    months = ['january', 'february', 'march', 'april', 'may', 'june',
+              'july', 'august', 'september', 'october', 'november', 'december',
+              'JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN'
+              'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC',
+              'JUNE', 'JULY']
+    combined_df = combined_df[combined_df[combined_df.columns[0]].str.contains('|'.join(months), na=False)]
+
+    combined_df = combined_df.iloc[:, :20]
+    fingerprint_columns = combined_df.columns[:4].tolist()
+    combined_df = combined_df.dropna(subset=fingerprint_columns, how='any')
+
+    combined_df.columns = ['Month', 'Aircraft Number', 'Aircraft Hours', 'Aircraft Kilometres', 'Passenger Number', 'Passenger Kilometers', 'Seat Kilometers', 'Passenger Load Factor', 'Freight', 'Mail', 'Total Cargo', 'Passenger Tonne Kilometer', 'Mail Tonne Kilometer', 'Freight Tonne Kilometer', 'Total Tonne Kilometer', 'Available Tonne Kilometer', 'Weight Load Factor', 'Year', 'Airline', 'Type']
+
+    combined_df['Month'] = combined_df['Month'].str.rstrip()
+    combined_df['Month'] = combined_df['Month'].replace(month_mapping)
+    combined_df['Airline'] = combined_df['Airline'].str.replace('\d+', '', regex=True)
+    combined_df['Airline'] = combined_df['Airline'].replace(airline_mapping)
+
+    combined_df.sort_values(by=['Type', 'Airline', 'Year', 'Month'], inplace=True)
+    combined_df = combined_df.map(lambda x: '0' if isinstance(x, str) and x == '-' else x)
+
+    columns = list(combined_df.columns)
+
+    columns.remove('Type')
+    columns.insert(0, 'Type')
+
+    columns.remove('Airline')
+    columns.insert(1, 'Airline')
+
+    columns.remove('Year')
+    columns.insert(2, 'Year')
+
+    columns.remove('Month')
+    columns.insert(3, 'Month')
+
+    combined_df = combined_df.reindex(columns=columns)
+
+    float_format = '{:.3f}'.format
+    for col in combined_df.columns[4:20]:
+        combined_df[col] = pd.to_numeric(combined_df[col], errors='coerce')
+
+    print(combined_df)
+
+    combined_df.to_csv('../aggregated/domestic/carrier.csv', index=False, float_format=float_format)

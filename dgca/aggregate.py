@@ -18,7 +18,7 @@ def dump_domestic():
     os.makedirs("aggregated/domestic", exist_ok=True)
 
     domestic_table_city()
-    #domestic_table_carrier()
+    domestic_table_carrier()
 
 def dump():
     dump_international()
