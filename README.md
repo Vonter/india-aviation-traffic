@@ -8,6 +8,30 @@ Explore the dataset using the below links:
 - City-wise: [Domestic](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/domestic/city.csv&stickyColumnName=City1&sort=Year%2Cdesc) or [International](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/city.csv&stickyColumnName=City1&sort=Year%2Cdesc) (DGCA)
 - [Country-wise](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/country.csv&stickyColumnName=Country) (DGCA)
 
+## Visualizations
+
+Visualizations and related R code are available under the [viz/](viz) folder in this repository:
+
+#### Domestic Airlines
+
+![](viz/airlines_domestic.png)
+
+#### International Airlines
+
+![](viz/airlines_international.png)
+
+#### Domestic Airports
+
+![](viz/airports_domestic.png)
+
+#### International Airports
+
+![](viz/airports_international.png)
+
+#### Passenger Flows
+
+![](viz/passenger_flows.png)
+
 ## Dataset
 
 The complete dataset is available as CSV files under the [aggregated/](aggregated) folder in this repository:
@@ -129,15 +153,11 @@ python parse.py
 
 The fetch script sources data from Wayback Machine (https://archive.org/)
 
-## TODO
-
-- Automatically fetch new data regularly
-- Additional aggregations by city, region, carrier, date
-- Visualizations of datasets
-
 ## Issues
 
-Found an error in the data processing or have a question? Create an [issue](https://github.com/Vonter/india-aviation-traffic/issues) with the details.
+Found an error in the data processing, have a question, or looking for data aggregated differently? Create an [issue](https://github.com/Vonter/india-aviation-traffic/issues) with the details.
+
+The information in this repository is intended to be updated regularly. In case the data has not been updated for multiple months, create an [issue](https://github.com/Vonter/india-aviation-traffic/issues)
 
 ## Credits
 
