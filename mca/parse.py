@@ -71,6 +71,9 @@ def parse_html_type2(soup, html_file):
                 pass
 
             divs = col.find_all('div')
+            for div in divs:
+                if 'field--name-field-hintdi-text' in div['class']:
+                    divs.remove(div)
             divs_data = [divs[0].get_text(strip=True).title(), divs[1].get_text(strip=True)]
             daily_data["{} ({})".format(category, divs_data[0])] = divs_data[1]
         except:
