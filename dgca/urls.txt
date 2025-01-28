@@ -54,16 +54,19 @@ https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/av
 https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM CITYPAIR DATA, NOVEMBER  2019 .xlsx
 https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM CITYPAIR DATA, NOVEMBER 2021.xlsx
 https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM CITYPAIR DATA, NOVEMBER 2023.xlsx
+https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM CITYPAIR DATA, NOVEMBER 2024.xlsx
 https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM CITYPAIR DATA, November  2020.xlsx
 https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM CITYPAIR DATA, November 2022.xlsx
 https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM CITYPAIR DATA, OCTOBER 2019 .xlsx
 https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM CITYPAIR DATA, OCTOBER 2021.xlsx
 https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM CITYPAIR DATA, OCTOBER 2023.xlsx
+https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM CITYPAIR DATA, OCTOBER 2024.xlsx
 https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM CITYPAIR DATA, October  2020.xlsx
 https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM CITYPAIR DATA, October 2022.xlsx
 https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM CITYPAIR DATA, SEPTEMBER 2019.xlsx
 https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM CITYPAIR DATA, SEPTEMBER 2021.xlsx
 https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM CITYPAIR DATA, SEPTEMBER 2023.xlsx
+https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM CITYPAIR DATA, SEPTEMBER 2024.xlsx
 https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM CITYPAIR DATA, September  2020.xlsx
 https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM CITYPAIR DATA, September 2022.xlsx
 https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/domestic/monthly/DOM%20CITYPAIR%20%20DATA%20DEC,%202016.xlsx
