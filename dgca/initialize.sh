@@ -20,7 +20,7 @@ for file in $(ls "urls" | grep json); do cat "urls/${file}" | grep -Po "jsp[[:al
 # International list
 for table in {1..4};
 do
-  for year in {15..24};
+  for year in {15..25};
   do
     for quarter in {1..4};
     do
