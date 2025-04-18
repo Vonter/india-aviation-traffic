@@ -117,7 +117,7 @@ create_chord_diagram <- function() {
     bg.border = NA
   )
   
-  title("City pairs with cumulative ridership above 15 million (2015-2024)",
+  title("City pairs with cumulative ridership above 15 million (2015-2025)",
         cex.main = 1)
 }
 
