@@ -30,7 +30,7 @@ The source code for the dataset visualization tool is in the [viz](viz) director
 
 [![Ridership by International Airport](viz/airports_international.png)](http://india-aviation-traffic.pages.dev/)
 
-#### Airport Pairs
+#### Airport Pairs (Ridership split from Bengaluru in 2024)
 
 [![Ridership by Airport Pair for Bengaluru](viz/airport_pairs.png)](http://india-aviation-traffic.pages.dev/)
 
