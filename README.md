@@ -2,7 +2,9 @@
 
 Dataset of Indian aviation traffic. Sourced from [DGCA](https://www.dgca.gov.in/) and [Ministry of Civil Aviation](https://www.civilaviation.gov.in/).
 
-Explore the dataset using the below links:
+Visualize the data on [India Aviation Traffic](https://india-aviation-traffic.pages.dev/).
+
+Explore the raw data:
 - [Daily Summary](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/daily.csv&stickyColumnName=Date) (Ministry of Civil Aviation)
 - Carrier-wise: [Domestic](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/domestic/carrier.csv&stickyColumnName=Airline&sort=Year%2Cdesc) or [International](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/carrier.csv&stickyColumnName=Airline&sort=Year%2Cdesc) (DGCA)
 - City-wise: [Domestic](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/domestic/city.csv&stickyColumnName=City1&sort=Year%2Cdesc) or [International](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/city.csv&stickyColumnName=City1&sort=Year%2Cdesc) (DGCA)
@@ -10,27 +12,27 @@ Explore the dataset using the below links:
 
 ## Visualizations
 
-Visualizations and related R code are available under the [viz/](viz) folder in this repository:
+The source code for the dataset visualization tool is in the [viz](viz) directory.
 
 #### Domestic Airlines
 
-![](viz/airlines_domestic.png)
+[![Ridership by Domestic Airline](viz/airlines_domestic.png)](http://india-aviation-traffic.pages.dev/)
 
 #### International Airlines
 
-![](viz/airlines_international.png)
+[![Ridership by International Airline](viz/airlines_international.png)](http://india-aviation-traffic.pages.dev/)
 
 #### Domestic Airports
 
-![](viz/airports_domestic.png)
+[![Ridership by Domestic Airport](viz/airports_domestic.png)](http://india-aviation-traffic.pages.dev/)
 
 #### International Airports
 
-![](viz/airports_international.png)
+[![Ridership by International Airport](viz/airports_international.png)](http://india-aviation-traffic.pages.dev/)
 
-#### Passenger Flows
+#### Airport Pairs
 
-![](viz/passenger_flows.png)
+[![Ridership by Airport Pair for Bengaluru](viz/airport_pairs.png)](http://india-aviation-traffic.pages.dev/)
 
 ## Dataset
 
@@ -43,7 +45,7 @@ Data: [daily.csv](aggregated/daily.csv?raw=1)
 - Sourced from [Ministry of Civil Aviation](https://www.civilaviation.gov.in/)
     - Daily reports are fetched from historical site snapshots available on [Wayback Machine](https://archive.org/)
 - Domestic, international, cargo, on time performance, passenger load factor, grievances and more data points reported on the Ministry of Civil Aviation site
-- Mid-2022 to 2025
+- Mid-2022 onwards
     - Report update frequency on the Ministry of Civil Aviation is irregular, and not daily. Many days in between the start and end date have no data points.
 
 #### Monthly Domestic City-wise
@@ -52,7 +54,7 @@ Data: [domestic/city.csv](aggregated/domestic/city.csv?raw=1)
 
 - Sourced from the Monthly Statistics (Domestic Air Transport) page in the [DGCA](https://www.dgca.gov.in/) site
 - Monthly city-pair wise passenger, freight and mail traffic
-- Mid-2015 to 2025
+- Mid-2015 onwards
 
 #### Monthly Domestic Carrier-wise
 
@@ -60,7 +62,7 @@ Data: [domestic/carrier.csv](aggregated/domestic/carrier.csv?raw=1)
 
 - Sourced from the Monthly Statistics (Domestic Air Transport) page in the [DGCA](https://www.dgca.gov.in/) site
 - Monthly carrier-pair wise passenger, freight and mail traffic
-- Mid-2015 to 2025
+- Mid-2015 onwards
 
 #### Quarterly International City-wise
 
@@ -68,7 +70,7 @@ Data: [international/city.csv](aggregated/international/city.csv?raw=1)
 
 - Sourced from the Table 4 reports under the Quarterly Statistics (International Air Transport) page in the [DGCA](https://www.dgca.gov.in/) site
 - Quarterly city-pair wise passenger and freight traffic
-- 2015 to 2025
+- 2015 onwards
 
 #### Quarterly International Country-wise
 
@@ -84,13 +86,13 @@ Data: [international/carrier.csv](aggregated/international/carrier.csv?raw=1)
 
 - Sourced from [DGCA](https://www.dgca.gov.in/)
 - Monthly carrier wise passenger and freight traffic. M1, M2 and M3 correspond to the 1st, 2nd and 3rd month of the quarter.
-- 2015 to 2025
+- 2015 onwards
 
 ## Scripts
 
 ### DGCA
 
-- [initialize.sh](dgca/initialize.sh): Initializes the list of XLSX URLs to be fetched
+- [initialize.py](dgca/initialize.py): Initializes the list of XLSX URLs to be fetched
 - [fetch.sh](dgca/fetch.sh): Fetches the raw XLSX files from [DGCA](https://www.dgca.gov.in/)
 - [parse.sh](dgca/parse.sh): Parses the raw XLSX files, and save them as equivalent CSV files
 - [aggregate.py](dgca/aggregate.py): Parses the individual CSV files, and aggregates them into combined CSV files
@@ -125,7 +127,7 @@ Ensure you have `bash`, `curl`, `python` and `ssconvert` installed
 
 ```
 # Initialize list of URLs to scrape
-bash initialize.sh
+python initialize.py
 
 # Fetch the data
 bash fetch.sh
