@@ -120,6 +120,16 @@
     "freightTotal": 20.18
   },
   {
+    "date": "2025-10-01",
+    "airline": "AERO NOMAD",
+    "paxTo": 629.0,
+    "paxFrom": 1986.0,
+    "paxTotal": 2615.0,
+    "freightTo": 0.0,
+    "freightFrom": 4.68,
+    "freightTotal": 4.68
+  },
+  {
     "date": "2015-01-01",
     "airline": "AEROFLOT",
     "paxTo": 15213.0,
@@ -540,6 +550,16 @@
     "freightTotal": 242.34
   },
   {
+    "date": "2025-10-01",
+    "airline": "AEROFLOT",
+    "paxTo": 39940.0,
+    "paxFrom": 38093.0,
+    "paxTotal": 78033.0,
+    "freightTo": 123.9,
+    "freightFrom": 408.79,
+    "freightTotal": 532.69
+  },
+  {
     "date": "2015-01-01",
     "airline": "AEROLOGIC",
     "paxTo": 0.0,
@@ -958,6 +978,16 @@
     "freightTo": 19719.18,
     "freightFrom": 20718.48,
     "freightTotal": 40437.66
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "AEROLOGIC",
+    "paxTo": 0.0,
+    "paxFrom": 0.0,
+    "paxTotal": 0.0,
+    "freightTo": 17689.21,
+    "freightFrom": 15282.970000000001,
+    "freightTotal": 32972.18
   },
   {
     "date": "2015-01-01",
@@ -1390,6 +1420,16 @@
     "freightTotal": 3314.44
   },
   {
+    "date": "2025-10-01",
+    "airline": "AIR ARABIA",
+    "paxTo": 243969.0,
+    "paxFrom": 245275.0,
+    "paxTotal": 489244.0,
+    "freightTo": 306.63,
+    "freightFrom": 3107.49,
+    "freightTotal": 3414.12
+  },
+  {
     "date": "2021-10-01",
     "airline": "AIR ARABIA-ABU DHABI",
     "paxTo": 15977.0,
@@ -1548,6 +1588,16 @@
     "freightTo": 97.89,
     "freightFrom": 2293.84,
     "freightTotal": 2391.73
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "AIR ARABIA-ABU DHABI",
+    "paxTo": 146402.0,
+    "paxFrom": 146539.0,
+    "paxTotal": 292941.0,
+    "freightTo": 200.66,
+    "freightFrom": 1770.2600000000002,
+    "freightTotal": 1970.9200000000003
   },
   {
     "date": "2015-01-01",
@@ -1898,6 +1948,16 @@
     "freightTo": 277.03,
     "freightFrom": 1246.86,
     "freightTotal": 1523.8899999999999
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "AIR ASIA BERHAD",
+    "paxTo": 168947.0,
+    "paxFrom": 144162.0,
+    "paxTotal": 313109.0,
+    "freightTo": 193.52,
+    "freightFrom": 1351.86,
+    "freightTotal": 1545.3799999999999
   },
   {
     "date": "2016-01-01",
@@ -2268,6 +2328,16 @@
     "freightTo": 559.55,
     "freightFrom": 714.47,
     "freightTotal": 1274.02
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "AIR ASIA X",
+    "paxTo": 15485.0,
+    "paxFrom": 15288.0,
+    "paxTotal": 30773.0,
+    "freightTo": 458.28,
+    "freightFrom": 715.96,
+    "freightTotal": 1174.24
   },
   {
     "date": "2015-01-01",
@@ -2660,6 +2730,16 @@
     "freightTotal": 166.51
   },
   {
+    "date": "2025-10-01",
+    "airline": "AIR ASTANA",
+    "paxTo": 20893.0,
+    "paxFrom": 22628.0,
+    "paxTotal": 43521.0,
+    "freightTo": 1.24,
+    "freightFrom": 138.14,
+    "freightTotal": 139.38
+  },
+  {
     "date": "2015-01-01",
     "airline": "AIR AUSTRAL",
     "paxTo": 0.0,
@@ -2918,6 +2998,16 @@
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "AIR CAMBODIA",
+    "paxTo": 2855.0,
+    "paxFrom": 2810.0,
+    "paxTotal": 5665.0,
+    "freightTo": 22.67,
+    "freightFrom": 1.1,
+    "freightTotal": 23.770000000000003
   },
   {
     "date": "2015-10-01",
@@ -3278,6 +3368,16 @@
     "freightTo": 338.44,
     "freightFrom": 841.9399999999999,
     "freightTotal": 1180.3799999999999
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "AIR CANADA",
+    "paxTo": 46475.0,
+    "paxFrom": 39985.0,
+    "paxTotal": 86460.0,
+    "freightTo": 326.82,
+    "freightFrom": 944.28,
+    "freightTotal": 1271.1
   },
   {
     "date": "2015-01-01",
@@ -3910,6 +4010,16 @@
     "freightTotal": 4604.1
   },
   {
+    "date": "2025-10-01",
+    "airline": "AIR FRANCE",
+    "paxTo": 85616.0,
+    "paxFrom": 73984.0,
+    "paxTotal": 159600.0,
+    "freightTo": 3476.23,
+    "freightFrom": 4962.81,
+    "freightTotal": 8439.04
+  },
+  {
     "date": "2015-01-01",
     "airline": "AIR INDIA",
     "paxTo": 709825.0,
@@ -4340,6 +4450,16 @@
     "freightTotal": 80603.04
   },
   {
+    "date": "2025-10-01",
+    "airline": "AIR INDIA",
+    "paxTo": 1378279.0,
+    "paxFrom": 1217090.0,
+    "paxTotal": 2595369.0,
+    "freightTo": 58911.69,
+    "freightFrom": 65382.79,
+    "freightTotal": 124294.48000000001
+  },
+  {
     "date": "2015-01-01",
     "airline": "AIR INDIA EXPRESS",
     "paxTo": 263463.0,
@@ -4768,6 +4888,16 @@
     "freightTo": 4367.33,
     "freightFrom": 13030.52,
     "freightTotal": 17397.85
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "AIR INDIA EXPRESS",
+    "paxTo": 819930.0,
+    "paxFrom": 826053.0,
+    "paxTotal": 1645983.0,
+    "freightTo": 2710.11,
+    "freightFrom": 9216.57,
+    "freightTotal": 11926.68
   },
   {
     "date": "2015-01-01",
@@ -5340,6 +5470,16 @@
     "freightTotal": 772.0
   },
   {
+    "date": "2025-10-01",
+    "airline": "AIR MAURITIUS",
+    "paxTo": 15848.0,
+    "paxFrom": 15378.0,
+    "paxTotal": 31226.0,
+    "freightTo": 32.72,
+    "freightFrom": 703.87,
+    "freightTotal": 736.59
+  },
+  {
     "date": "2015-01-01",
     "airline": "AIR SEYCHELLES",
     "paxTo": 3374.0,
@@ -5850,6 +5990,16 @@
     "freightTotal": 299.09999999999997
   },
   {
+    "date": "2025-10-01",
+    "airline": "AIR TANZANIA",
+    "paxTo": 8383.0,
+    "paxFrom": 6821.0,
+    "paxTotal": 15204.0,
+    "freightTo": 61.9,
+    "freightFrom": 363.73,
+    "freightTotal": 425.63
+  },
+  {
     "date": "2024-04-01",
     "airline": "AKASA AIR",
     "paxTo": 9979.0,
@@ -5908,6 +6058,16 @@
     "freightTo": 0.5,
     "freightFrom": 573.27,
     "freightTotal": 573.77
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "AKASA AIR",
+    "paxTo": 139408.0,
+    "paxFrom": 143472.0,
+    "paxTotal": 282880.0,
+    "freightTo": 30.48,
+    "freightFrom": 667.24,
+    "freightTotal": 697.72
   },
   {
     "date": "2015-01-01",
@@ -6330,6 +6490,16 @@
     "freightTotal": 2450.53
   },
   {
+    "date": "2025-10-01",
+    "airline": "ALL NIPPON AIRWAYS",
+    "paxTo": 18435.0,
+    "paxFrom": 19057.0,
+    "paxTotal": 37492.0,
+    "freightTo": 766.46,
+    "freightFrom": 1099.92,
+    "freightTotal": 1866.38
+  },
+  {
     "date": "2019-10-01",
     "airline": "ALLIANCE AIR",
     "paxTo": 868.0,
@@ -6578,6 +6748,16 @@
     "freightTo": 189.74,
     "freightFrom": 167.48,
     "freightTotal": 357.22
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "AMERICAN AIRLINES",
+    "paxTo": 23112.0,
+    "paxFrom": 17071.0,
+    "paxTotal": 40183.0,
+    "freightTo": 228.12,
+    "freightFrom": 451.31,
+    "freightTotal": 679.4300000000001
   },
   {
     "date": "2015-01-01",
@@ -6968,6 +7148,16 @@
     "freightTo": 798.02,
     "freightFrom": 255.49,
     "freightTotal": 1053.51
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "ARIANA AFGHAN",
+    "paxTo": 423.0,
+    "paxFrom": 481.0,
+    "paxTotal": 904.0,
+    "freightTo": 768.69,
+    "freightFrom": 291.12,
+    "freightTotal": 1059.81
   },
   {
     "date": "2015-01-01",
@@ -7420,6 +7610,16 @@
     "freightTotal": 103.94999999999999
   },
   {
+    "date": "2025-10-01",
+    "airline": "AZERBAIJAN AIRLINES",
+    "paxTo": 19147.0,
+    "paxFrom": 17692.0,
+    "paxTotal": 36839.0,
+    "freightTo": 0.17,
+    "freightFrom": 246.69,
+    "freightTotal": 246.85999999999999
+  },
+  {
     "date": "2015-01-01",
     "airline": "BANGKOK AIRWAYS",
     "paxTo": 10736.0,
@@ -7770,6 +7970,16 @@
     "freightTotal": 20.6
   },
   {
+    "date": "2025-10-01",
+    "airline": "BELAVIA AIRLINES",
+    "paxTo": 1738.0,
+    "paxFrom": 1516.0,
+    "paxTotal": 3254.0,
+    "freightTo": 5.19,
+    "freightFrom": 13.14,
+    "freightTotal": 18.330000000000002
+  },
+  {
     "date": "2015-01-01",
     "airline": "BHUTAN AIRLINES",
     "paxTo": 0.0,
@@ -8085,6 +8295,16 @@
     "paxTo": 4090.0,
     "paxFrom": 4705.0,
     "paxTotal": 8795.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "BHUTAN AIRLINES",
+    "paxTo": 6281.0,
+    "paxFrom": 5514.0,
+    "paxTotal": 11795.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -8498,6 +8718,16 @@
     "freightTo": 1.77,
     "freightFrom": 143.74,
     "freightTotal": 145.51000000000002
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "BIMAN BANGLADESH",
+    "paxTo": 15277.0,
+    "paxFrom": 13288.0,
+    "paxTotal": 28565.0,
+    "freightTo": 5.1,
+    "freightFrom": 188.79,
+    "freightTotal": 193.89
   },
   {
     "date": "2020-04-01",
@@ -8970,6 +9200,16 @@
     "freightTotal": 13484.89
   },
   {
+    "date": "2025-10-01",
+    "airline": "BRITISH AIRWAYS",
+    "paxTo": 168366.0,
+    "paxFrom": 136563.0,
+    "paxTotal": 304929.0,
+    "freightTo": 3419.96,
+    "freightFrom": 9678.02,
+    "freightTotal": 13097.98
+  },
+  {
     "date": "2017-01-01",
     "airline": "BRUSSELS AIRLINES",
     "paxTo": 465.0,
@@ -9335,6 +9575,16 @@
     "paxTo": 922.0,
     "paxFrom": 846.0,
     "paxTotal": 1768.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "BUDDHA AIR",
+    "paxTo": 3989.0,
+    "paxFrom": 3729.0,
+    "paxTotal": 7718.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -9900,6 +10150,16 @@
     "freightTotal": 31564.640000000003
   },
   {
+    "date": "2025-10-01",
+    "airline": "CATHAY PACIFIC",
+    "paxTo": 164420.0,
+    "paxFrom": 158525.0,
+    "paxTotal": 322945.0,
+    "freightTo": 23543.19,
+    "freightFrom": 9894.76,
+    "freightTotal": 33437.95
+  },
+  {
     "date": "2015-01-01",
     "airline": "CHINA AIRLINES LTD",
     "paxTo": 3714.0,
@@ -10298,6 +10558,16 @@
     "freightTo": 479.98,
     "freightFrom": 664.47,
     "freightTotal": 1144.45
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "CHINA AIRLINES LTD",
+    "paxTo": 0.0,
+    "paxFrom": 0.0,
+    "paxTotal": 0.0,
+    "freightTo": 837.23,
+    "freightFrom": 656.7,
+    "freightTotal": 1493.93
   },
   {
     "date": "2015-01-01",
@@ -11410,6 +11680,16 @@
     "freightTotal": 19.25
   },
   {
+    "date": "2025-10-01",
+    "airline": "DRUK AIR",
+    "paxTo": 13693.0,
+    "paxFrom": 12749.0,
+    "paxTotal": 26442.0,
+    "freightTo": 1.78,
+    "freightFrom": 21.240000000000002,
+    "freightTotal": 23.020000000000003
+  },
+  {
     "date": "2015-01-01",
     "airline": "EGYPT AIR",
     "paxTo": 2427.0,
@@ -11778,6 +12058,16 @@
     "freightTo": 170.22,
     "freightFrom": 1040.25,
     "freightTotal": 1210.47
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "EGYPT AIR",
+    "paxTo": 20568.0,
+    "paxFrom": 17638.0,
+    "paxTotal": 38206.0,
+    "freightTo": 174.09,
+    "freightFrom": 1043.04,
+    "freightTotal": 1217.1299999999999
   },
   {
     "date": "2015-01-01",
@@ -12470,6 +12760,16 @@
     "freightTotal": 54455.590000000004
   },
   {
+    "date": "2025-10-01",
+    "airline": "EMIRATES AIRLINE",
+    "paxTo": 754726.0,
+    "paxFrom": 724837.0,
+    "paxTotal": 1479563.0,
+    "freightTo": 17916.38,
+    "freightFrom": 31084.9,
+    "freightTotal": 49001.28
+  },
+  {
     "date": "2015-01-01",
     "airline": "ETHIOPIAN AIRLINES",
     "paxTo": 27175.0,
@@ -12900,6 +13200,16 @@
     "freightTotal": 6371.99
   },
   {
+    "date": "2025-10-01",
+    "airline": "ETHIOPIAN AIRLINES",
+    "paxTo": 109271.0,
+    "paxFrom": 97075.0,
+    "paxTotal": 206346.0,
+    "freightTo": 1827.33,
+    "freightFrom": 4758.6,
+    "freightTotal": 6585.93
+  },
+  {
     "date": "2015-01-01",
     "airline": "ETIHAD AIRLINES",
     "paxTo": 211303.0,
@@ -13328,6 +13638,16 @@
     "freightTo": 5046.1900000000005,
     "freightFrom": 8156.620000000001,
     "freightTotal": 13202.810000000001
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "ETIHAD AIRLINES",
+    "paxTo": 444468.0,
+    "paxFrom": 432659.0,
+    "paxTotal": 877127.0,
+    "freightTo": 4396.87,
+    "freightFrom": 7985.7699999999995,
+    "freightTotal": 12382.64
   },
   {
     "date": "2015-01-01",
@@ -13860,6 +14180,16 @@
     "freightTotal": 14904.36
   },
   {
+    "date": "2025-10-01",
+    "airline": "FEDERAL EXPRESS",
+    "paxTo": 0.0,
+    "paxFrom": 0.0,
+    "paxTotal": 0.0,
+    "freightTo": 4753.91,
+    "freightFrom": 9650.11,
+    "freightTotal": 14404.02
+  },
+  {
     "date": "2015-01-01",
     "airline": "FINN AIR",
     "paxTo": 13673.0,
@@ -14208,6 +14538,16 @@
     "freightTo": 693.37,
     "freightFrom": 1122.52,
     "freightTotal": 1815.8899999999999
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "FINN AIR",
+    "paxTo": 21358.0,
+    "paxFrom": 17218.0,
+    "paxTotal": 38576.0,
+    "freightTo": 691.3299999999999,
+    "freightFrom": 898.38,
+    "freightTotal": 1589.71
   },
   {
     "date": "2024-07-01",
@@ -14660,6 +15000,16 @@
     "freightTotal": 535.08
   },
   {
+    "date": "2025-10-01",
+    "airline": "FLY DUBAI",
+    "paxTo": 64718.0,
+    "paxFrom": 63948.0,
+    "paxTotal": 128666.0,
+    "freightTo": 48.59,
+    "freightFrom": 459.73,
+    "freightTotal": 508.32000000000005
+  },
+  {
     "date": "2018-10-01",
     "airline": "FLYNAS",
     "paxTo": 2383.0,
@@ -14898,6 +15248,16 @@
     "freightTo": 20.97,
     "freightFrom": 479.90999999999997,
     "freightTotal": 500.88
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "FLYNAS",
+    "paxTo": 70189.0,
+    "paxFrom": 70050.0,
+    "paxTotal": 140239.0,
+    "freightTo": 22.45,
+    "freightFrom": 565.4,
+    "freightTotal": 587.85
   },
   {
     "date": "2017-01-01",
@@ -15610,6 +15970,16 @@
     "freightTotal": 1305.9199999999998
   },
   {
+    "date": "2025-10-01",
+    "airline": "GULF AIR",
+    "paxTo": 158016.0,
+    "paxFrom": 156198.0,
+    "paxTotal": 314214.0,
+    "freightTo": 27.07,
+    "freightFrom": 1326.67,
+    "freightTotal": 1353.74
+  },
+  {
     "date": "2015-01-01",
     "airline": "INDIGO",
     "paxTo": 182116.0,
@@ -16040,6 +16410,16 @@
     "freightTotal": 14846.32
   },
   {
+    "date": "2025-10-01",
+    "airline": "INDIGO",
+    "paxTo": 2310054.0,
+    "paxFrom": 2134552.0,
+    "paxTotal": 4444606.0,
+    "freightTo": 4978.21,
+    "freightFrom": 12556.89,
+    "freightTotal": 17535.1
+  },
+  {
     "date": "2017-07-01",
     "airline": "INDONESIA AIRASIA X",
     "paxTo": 12780.0,
@@ -16438,6 +16818,16 @@
     "freightTo": 24.0,
     "freightFrom": 27.7,
     "freightTotal": 51.7
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "IRAN AIR",
+    "paxTo": 2294.0,
+    "paxFrom": 2425.0,
+    "paxTotal": 4719.0,
+    "freightTo": 43.64,
+    "freightFrom": 30.92,
+    "freightTotal": 74.56
   },
   {
     "date": "2015-01-01",
@@ -16860,6 +17250,16 @@
     "freightTotal": 6.92
   },
   {
+    "date": "2025-10-01",
+    "airline": "IRAQI AIRWAYS",
+    "paxTo": 7558.0,
+    "paxFrom": 7424.0,
+    "paxTotal": 14982.0,
+    "freightTo": 0.4,
+    "freightFrom": 5.8,
+    "freightTotal": 6.2
+  },
+  {
     "date": "2015-01-01",
     "airline": "ISLAND AVIATION SERVICES",
     "paxTo": 12328.0,
@@ -17280,6 +17680,16 @@
     "freightTotal": 133.21
   },
   {
+    "date": "2025-10-01",
+    "airline": "ISLAND AVIATION SERVICES",
+    "paxTo": 14758.0,
+    "paxFrom": 12259.0,
+    "paxTotal": 27017.0,
+    "freightTo": 1.46,
+    "freightFrom": 133.07,
+    "freightTotal": 134.53
+  },
+  {
     "date": "2025-01-01",
     "airline": "ITA AIRWAYS",
     "paxTo": 19855.0,
@@ -17308,6 +17718,16 @@
     "freightTo": 505.5,
     "freightFrom": 863.96,
     "freightTotal": 1369.46
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "ITA AIRWAYS",
+    "paxTo": 23748.0,
+    "paxFrom": 18355.0,
+    "paxTotal": 42103.0,
+    "freightTo": 476.81,
+    "freightFrom": 631.6,
+    "freightTotal": 1108.41
   },
   {
     "date": "2015-01-01",
@@ -17730,6 +18150,16 @@
     "freightTotal": 1726.03
   },
   {
+    "date": "2025-10-01",
+    "airline": "JAPAN AIRLINES",
+    "paxTo": 17635.0,
+    "paxFrom": 18730.0,
+    "paxTotal": 36365.0,
+    "freightTo": 1154.54,
+    "freightFrom": 581.6600000000001,
+    "freightTotal": 1736.2
+  },
+  {
     "date": "2021-04-01",
     "airline": "JAZEERA AIRWAYS",
     "paxTo": 7839.0,
@@ -17908,6 +18338,16 @@
     "freightTo": 77.71,
     "freightFrom": 460.56,
     "freightTotal": 538.27
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "JAZEERA AIRWAYS",
+    "paxTo": 56316.0,
+    "paxFrom": 55227.0,
+    "paxTotal": 111543.0,
+    "freightTo": 19.27,
+    "freightFrom": 589.79,
+    "freightTotal": 609.06
   },
   {
     "date": "2015-01-01",
@@ -18930,6 +19370,16 @@
     "freightTotal": 23.25
   },
   {
+    "date": "2025-10-01",
+    "airline": "KENYA AIRWAYS",
+    "paxTo": 15082.0,
+    "paxFrom": 13364.0,
+    "paxTotal": 28446.0,
+    "freightTo": 2.22,
+    "freightFrom": 85.17,
+    "freightTotal": 87.39
+  },
+  {
     "date": "2015-01-01",
     "airline": "KLM AIRLINES",
     "paxTo": 42570.0,
@@ -19338,6 +19788,16 @@
     "freightTo": 2417.4700000000003,
     "freightFrom": 3824.2200000000003,
     "freightTotal": 6241.6900000000005
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "KLM AIRLINES",
+    "paxTo": 96814.0,
+    "paxFrom": 86803.0,
+    "paxTotal": 183617.0,
+    "freightTo": 3182.94,
+    "freightFrom": 5279.75,
+    "freightTotal": 8462.69
   },
   {
     "date": "2015-01-01",
@@ -19760,6 +20220,16 @@
     "freightTotal": 2710.31
   },
   {
+    "date": "2025-10-01",
+    "airline": "KOREAN AIR",
+    "paxTo": 11672.0,
+    "paxFrom": 12484.0,
+    "paxTotal": 24156.0,
+    "freightTo": 1310.24,
+    "freightFrom": 1434.39,
+    "freightTotal": 2744.63
+  },
+  {
     "date": "2015-01-01",
     "airline": "KUWAIT AIRWAYS",
     "paxTo": 46728.0,
@@ -20150,6 +20620,16 @@
     "freightTotal": 2324.83
   },
   {
+    "date": "2025-10-01",
+    "airline": "KUWAIT AIRWAYS",
+    "paxTo": 106796.0,
+    "paxFrom": 103155.0,
+    "paxTotal": 209951.0,
+    "freightTo": 0.0,
+    "freightFrom": 2879.42,
+    "freightTotal": 2879.42
+  },
+  {
     "date": "2021-01-01",
     "airline": "LOT POLISH",
     "paxTo": 0.0,
@@ -20338,6 +20818,16 @@
     "freightTo": 212.12,
     "freightFrom": 586.0,
     "freightTotal": 798.12
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "LOT POLISH",
+    "paxTo": 15928.0,
+    "paxFrom": 12874.0,
+    "paxTotal": 28802.0,
+    "freightTo": 210.09,
+    "freightFrom": 807.8,
+    "freightTotal": 1017.89
   },
   {
     "date": "2015-01-01",
@@ -20770,6 +21260,16 @@
     "freightTotal": 12627.35
   },
   {
+    "date": "2025-10-01",
+    "airline": "LUFTHANSA",
+    "paxTo": 205127.0,
+    "paxFrom": 166380.0,
+    "paxTotal": 371507.0,
+    "freightTo": 5156.62,
+    "freightFrom": 8045.299999999999,
+    "freightTotal": 13201.919999999998
+  },
+  {
     "date": "2015-01-01",
     "airline": "MAHAN AIR",
     "paxTo": 5027.0,
@@ -21188,6 +21688,16 @@
     "freightTo": 25.64,
     "freightFrom": 361.36,
     "freightTotal": 387.0
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "MAHAN AIR",
+    "paxTo": 5256.0,
+    "paxFrom": 6038.0,
+    "paxTotal": 11294.0,
+    "freightTo": 22.65,
+    "freightFrom": 441.81,
+    "freightTotal": 464.46
   },
   {
     "date": "2015-01-01",
@@ -21620,6 +22130,16 @@
     "freightTotal": 10221.130000000001
   },
   {
+    "date": "2025-10-01",
+    "airline": "MALAYSIA AIRLINES",
+    "paxTo": 186526.0,
+    "paxFrom": 185300.0,
+    "paxTotal": 371826.0,
+    "freightTo": 5505.78,
+    "freightFrom": 5266.1,
+    "freightTotal": 10771.880000000001
+  },
+  {
     "date": "2015-01-01",
     "airline": "MALINDO AIRWAYS",
     "paxTo": 39889.0,
@@ -22000,6 +22520,16 @@
     "freightTotal": 511.03000000000003
   },
   {
+    "date": "2025-10-01",
+    "airline": "MALINDO AIRWAYS",
+    "paxTo": 52297.0,
+    "paxFrom": 44739.0,
+    "paxTotal": 97036.0,
+    "freightTo": 203.59,
+    "freightFrom": 292.95,
+    "freightTotal": 496.53999999999996
+  },
+  {
     "date": "2015-01-01",
     "airline": "MARTIN AIR HOLLAND",
     "paxTo": 0.0,
@@ -22138,6 +22668,16 @@
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "MY FREIGHTER-CENTRUM AIR",
+    "paxTo": 3187.0,
+    "paxFrom": 3874.0,
+    "paxTotal": 7061.0,
+    "freightTo": 31.2,
+    "freightFrom": 49.08,
+    "freightTotal": 80.28
   },
   {
     "date": "2015-01-01",
@@ -22508,6 +23048,16 @@
     "freightTo": 6.92,
     "freightFrom": 24.240000000000002,
     "freightTotal": 31.160000000000004
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "MYANMAR AIRLINES",
+    "paxTo": 5852.0,
+    "paxFrom": 5297.0,
+    "paxTotal": 11149.0,
+    "freightTo": 2.3,
+    "freightFrom": 11.74,
+    "freightTotal": 14.04
   },
   {
     "date": "2023-01-01",
@@ -22978,6 +23528,16 @@
     "freightTo": 34.45,
     "freightFrom": 29.009999999999998,
     "freightTotal": 63.46
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "NEPAL AIRLINES CORPORATION",
+    "paxTo": 28211.0,
+    "paxFrom": 24124.0,
+    "paxTotal": 52335.0,
+    "freightTo": 41.42,
+    "freightFrom": 76.73,
+    "freightTotal": 118.15
   },
   {
     "date": "2016-10-01",
@@ -23630,6 +24190,16 @@
     "freightTotal": 3575.91
   },
   {
+    "date": "2025-10-01",
+    "airline": "OMAN AIR",
+    "paxTo": 162551.0,
+    "paxFrom": 162467.0,
+    "paxTotal": 325018.0,
+    "freightTo": 651.77,
+    "freightFrom": 2279.17,
+    "freightTotal": 2930.94
+  },
+  {
     "date": "2015-01-01",
     "airline": "PAK INTERNATIONAL",
     "paxTo": 3629.0,
@@ -23948,6 +24518,16 @@
     "freightTo": 73.73,
     "freightFrom": 218.21,
     "freightTotal": 291.94
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "QANTAS AIRLINES",
+    "paxTo": 22353.0,
+    "paxFrom": 21491.0,
+    "paxTotal": 43844.0,
+    "freightTo": 99.87,
+    "freightFrom": 440.79,
+    "freightTotal": 540.6600000000001
   },
   {
     "date": "2015-01-01",
@@ -24380,6 +24960,16 @@
     "freightTotal": 49529.28
   },
   {
+    "date": "2025-10-01",
+    "airline": "QATAR AIRWAYS",
+    "paxTo": 291775.0,
+    "paxFrom": 259593.0,
+    "paxTotal": 551368.0,
+    "freightTo": 21006.739999999998,
+    "freightFrom": 27234.54,
+    "freightTotal": 48241.28
+  },
+  {
     "date": "2015-01-01",
     "airline": "REGENT AIRWAYS",
     "paxTo": 8644.0,
@@ -24730,6 +25320,16 @@
     "freightTotal": 0.0
   },
   {
+    "date": "2025-10-01",
+    "airline": "ROYAL  JORDANIAN",
+    "paxTo": 4479.0,
+    "paxFrom": 3627.0,
+    "paxTotal": 8106.0,
+    "freightTo": 0.9,
+    "freightFrom": 37.92,
+    "freightTotal": 38.82
+  },
+  {
     "date": "2025-04-01",
     "airline": "ROYAL BRUNEI AIRLINES",
     "paxTo": 2449.0,
@@ -24748,6 +25348,16 @@
     "freightTo": 23.39,
     "freightFrom": 58.09,
     "freightTotal": 81.48
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "ROYAL BRUNEI AIRLINES",
+    "paxTo": 3582.0,
+    "paxFrom": 2017.0,
+    "paxTotal": 5599.0,
+    "freightTo": 17.53,
+    "freightFrom": 35.28,
+    "freightTotal": 52.81
   },
   {
     "date": "2017-04-01",
@@ -25260,6 +25870,16 @@
     "freightTotal": 170.74
   },
   {
+    "date": "2025-10-01",
+    "airline": "SALAM AIR",
+    "paxTo": 73945.0,
+    "paxFrom": 72200.0,
+    "paxTotal": 146145.0,
+    "freightTo": 1.1099999999999999,
+    "freightFrom": 184.81,
+    "freightTotal": 185.92000000000002
+  },
+  {
     "date": "2015-01-01",
     "airline": "SAUDIA",
     "paxTo": 165671.0,
@@ -25640,6 +26260,16 @@
     "freightTotal": 7269.599999999999
   },
   {
+    "date": "2025-10-01",
+    "airline": "SAUDIA",
+    "paxTo": 200133.0,
+    "paxFrom": 197375.0,
+    "paxTotal": 397508.0,
+    "freightTo": 1082.04,
+    "freightFrom": 6678.8099999999995,
+    "freightTotal": 7760.849999999999
+  },
+  {
     "date": "2015-10-01",
     "airline": "SCAT AIRLINES",
     "paxTo": 1490.0,
@@ -25888,6 +26518,16 @@
     "freightTo": 0.0,
     "freightFrom": 20.6,
     "freightTotal": 20.6
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "SCAT AIRLINES",
+    "paxTo": 2063.0,
+    "paxFrom": 1687.0,
+    "paxTotal": 3750.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
   },
   {
     "date": "2016-04-01",
@@ -26228,6 +26868,16 @@
     "freightTo": 482.21000000000004,
     "freightFrom": 925.49,
     "freightTotal": 1407.7
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "SCOOT TIGER AIR",
+    "paxTo": 110667.0,
+    "paxFrom": 105408.0,
+    "paxTotal": 216075.0,
+    "freightTo": 598.71,
+    "freightFrom": 710.8199999999999,
+    "freightTotal": 1309.53
   },
   {
     "date": "2015-10-01",
@@ -27060,6 +27710,26 @@
     "freightTotal": 21954.29
   },
   {
+    "date": "2025-10-01",
+    "airline": "SINGAPORE AIRLINES",
+    "paxTo": 328415.0,
+    "paxFrom": 314013.0,
+    "paxTotal": 642428.0,
+    "freightTo": 10676.17,
+    "freightFrom": 9888.43,
+    "freightTotal": 20564.6
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "SOMON AIR LLC",
+    "paxTo": 1528.0,
+    "paxFrom": 1788.0,
+    "paxTotal": 3316.0,
+    "freightTo": 2.25,
+    "freightFrom": 32.8,
+    "freightTotal": 35.05
+  },
+  {
     "date": "2015-01-01",
     "airline": "SOUTHA AFRICAN AIRLINES",
     "paxTo": 8483.0,
@@ -27500,6 +28170,16 @@
     "freightTotal": 1258.6299999999999
   },
   {
+    "date": "2025-10-01",
+    "airline": "SPICEJET",
+    "paxTo": 183665.0,
+    "paxFrom": 189385.0,
+    "paxTotal": 373050.0,
+    "freightTo": 276.28,
+    "freightFrom": 1512.67,
+    "freightTotal": 1788.95
+  },
+  {
     "date": "2017-07-01",
     "airline": "SRILANKAN AIRWAYS",
     "paxTo": 232330.0,
@@ -27828,6 +28508,16 @@
     "freightTo": 1496.84,
     "freightFrom": 2606.58,
     "freightTotal": 4103.42
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "SRILANKAN AIRWAYS",
+    "paxTo": 162389.0,
+    "paxFrom": 168285.0,
+    "paxTotal": 330674.0,
+    "freightTo": 1243.6399999999999,
+    "freightFrom": 2756.85,
+    "freightTotal": 4000.49
   },
   {
     "date": "2015-01-01",
@@ -28350,6 +29040,16 @@
     "freightTotal": 4301.16
   },
   {
+    "date": "2025-10-01",
+    "airline": "SWISS AIR",
+    "paxTo": 38859.0,
+    "paxFrom": 35257.0,
+    "paxTotal": 74116.0,
+    "freightTo": 1547.28,
+    "freightFrom": 2463.89,
+    "freightTotal": 4011.17
+  },
+  {
     "date": "2015-01-01",
     "airline": "TAJIK AIR",
     "paxTo": 554.0,
@@ -28850,6 +29550,16 @@
     "freightTotal": 1094.24
   },
   {
+    "date": "2025-10-01",
+    "airline": "THAI AIR ASIA",
+    "paxTo": 106479.0,
+    "paxFrom": 107919.0,
+    "paxTotal": 214398.0,
+    "freightTo": 392.07,
+    "freightFrom": 775.45,
+    "freightTotal": 1167.52
+  },
+  {
     "date": "2025-01-01",
     "airline": "THAI AIR ASIA X",
     "paxTo": 10799.0,
@@ -28878,6 +29588,16 @@
     "freightTo": 591.84,
     "freightFrom": 463.49,
     "freightTotal": 1055.33
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "THAI AIR ASIA X",
+    "paxTo": 20694.0,
+    "paxFrom": 19973.0,
+    "paxTotal": 40667.0,
+    "freightTo": 701.0799999999999,
+    "freightFrom": 609.95,
+    "freightTotal": 1311.03
   },
   {
     "date": "2015-01-01",
@@ -29300,6 +30020,16 @@
     "freightTotal": 14005.150000000001
   },
   {
+    "date": "2025-10-01",
+    "airline": "THAI AIRWAYS",
+    "paxTo": 169182.0,
+    "paxFrom": 158530.0,
+    "paxTotal": 327712.0,
+    "freightTo": 5178.95,
+    "freightFrom": 6529.7,
+    "freightTotal": 11708.65
+  },
+  {
     "date": "2017-10-01",
     "airline": "THAI LION AIR",
     "paxTo": 5106.0,
@@ -29528,6 +30258,16 @@
     "freightTo": 352.57,
     "freightFrom": 125.29,
     "freightTotal": 477.86
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "THAI LION AIR",
+    "paxTo": 63026.0,
+    "paxFrom": 63856.0,
+    "paxTotal": 126882.0,
+    "freightTo": 406.6,
+    "freightFrom": 408.71,
+    "freightTotal": 815.31
   },
   {
     "date": "2016-10-01",
@@ -30490,6 +31230,16 @@
     "freightTotal": 22148.04
   },
   {
+    "date": "2025-10-01",
+    "airline": "TURKISH AIRLINES",
+    "paxTo": 69652.0,
+    "paxFrom": 56461.0,
+    "paxTotal": 126113.0,
+    "freightTo": 9282.24,
+    "freightFrom": 8793.710000000001,
+    "freightTotal": 18075.95
+  },
+  {
     "date": "2015-01-01",
     "airline": "TURKMENISTAN AIRLINES",
     "paxTo": 13722.0,
@@ -30698,6 +31448,16 @@
     "freightTo": 0.0,
     "freightFrom": 1146.89,
     "freightTotal": 1146.89
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "TURKMENISTAN AIRLINES",
+    "paxTo": 4593.0,
+    "paxFrom": 3751.0,
+    "paxTotal": 8344.0,
+    "freightTo": 4.71,
+    "freightFrom": 37.75,
+    "freightTotal": 42.46
   },
   {
     "date": "2015-01-01",
@@ -31108,6 +31868,16 @@
     "freightTo": 62.1,
     "freightFrom": 227.99,
     "freightTotal": 290.09000000000003
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "UNITED AIRLINES",
+    "paxTo": 22307.0,
+    "paxFrom": 17874.0,
+    "paxTotal": 40181.0,
+    "freightTo": 86.86000000000001,
+    "freightFrom": 406.78999999999996,
+    "freightTotal": 493.65
   },
   {
     "date": "2015-01-01",
@@ -31570,6 +32340,16 @@
     "freightTotal": 16826.769999999997
   },
   {
+    "date": "2025-10-01",
+    "airline": "UNITED PARCEL SERVICES",
+    "paxTo": 0.0,
+    "paxFrom": 0.0,
+    "paxTotal": 0.0,
+    "freightTo": 5089.3,
+    "freightFrom": 6322.91,
+    "freightTotal": 11412.21
+  },
+  {
     "date": "2017-01-01",
     "airline": "US BANGLA AIRLINES",
     "paxTo": 8882.0,
@@ -31878,6 +32658,16 @@
     "freightTo": 0.07,
     "freightFrom": 0.5900000000000001,
     "freightTotal": 0.6600000000000001
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "US BANGLA AIRLINES",
+    "paxTo": 2637.0,
+    "paxFrom": 2669.0,
+    "paxTotal": 5306.0,
+    "freightTo": 0.21000000000000002,
+    "freightFrom": 0.21000000000000002,
+    "freightTotal": 0.42000000000000004
   },
   {
     "date": "2015-01-01",
@@ -32290,6 +33080,16 @@
     "freightTotal": 1158.6399999999999
   },
   {
+    "date": "2025-10-01",
+    "airline": "UZBEKISTAN AIRWAYS",
+    "paxTo": 20067.0,
+    "paxFrom": 23163.0,
+    "paxTotal": 43230.0,
+    "freightTo": 646.03,
+    "freightFrom": 552.03,
+    "freightTotal": 1198.06
+  },
+  {
     "date": "2022-04-01",
     "airline": "VIETJET AIR",
     "paxTo": 5981.0,
@@ -32420,6 +33220,16 @@
     "freightTotal": 1253.87
   },
   {
+    "date": "2025-10-01",
+    "airline": "VIETJET AIR",
+    "paxTo": 100000.0,
+    "paxFrom": 99012.0,
+    "paxTotal": 199012.0,
+    "freightTo": 1059.35,
+    "freightFrom": 609.95,
+    "freightTotal": 1669.3
+  },
+  {
     "date": "2023-04-01",
     "airline": "VIETNAM AIRLINES",
     "paxTo": 17207.0,
@@ -32508,6 +33318,16 @@
     "freightTo": 1250.1599999999999,
     "freightFrom": 507.82,
     "freightTotal": 1757.9799999999998
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "VIETNAM AIRLINES",
+    "paxTo": 62575.0,
+    "paxFrom": 63079.0,
+    "paxTotal": 125654.0,
+    "freightTo": 1179.47,
+    "freightFrom": 1139.1100000000001,
+    "freightTotal": 2318.58
   },
   {
     "date": "2015-01-01",
@@ -32938,6 +33758,16 @@
     "freightTo": 4086.6,
     "freightFrom": 6157.23,
     "freightTotal": 10243.83
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "VIRGIN ATLANTIC AIRLINES",
+    "paxTo": 140496.0,
+    "paxFrom": 100997.0,
+    "paxTotal": 241493.0,
+    "freightTo": 4041.44,
+    "freightFrom": 6026.16,
+    "freightTotal": 10067.6
   },
   {
     "date": "2023-07-01",
@@ -33558,5 +34388,15 @@
     "freightTo": 0.32,
     "freightFrom": 6.93,
     "freightTotal": 7.25
+  },
+  {
+    "date": "2025-10-01",
+    "airline": "YEMENIA AIRWAYS",
+    "paxTo": 541.0,
+    "paxFrom": 849.0,
+    "paxTotal": 1390.0,
+    "freightTo": 0.0,
+    "freightFrom": 9.120000000000001,
+    "freightTotal": 9.120000000000001
   }
 ]

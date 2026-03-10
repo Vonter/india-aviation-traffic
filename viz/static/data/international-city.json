@@ -495,6 +495,17 @@
     "freightTotal": 135.09
   },
   {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "AHMEDABAD",
+    "paxTo": 58930.0,
+    "paxFrom": 58394.0,
+    "paxTotal": 117324.0,
+    "freightTo": 41.57,
+    "freightFrom": 98.5,
+    "freightTotal": 140.07
+  },
+  {
     "date": "2020-04-01",
     "airport": "ABUDHABI",
     "destination": "AMRITSAR",
@@ -1045,6 +1056,17 @@
     "freightTotal": 1969.4499999999998
   },
   {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "BENGALURU",
+    "paxTo": 90853.0,
+    "paxFrom": 86170.0,
+    "paxTotal": 177023.0,
+    "freightTo": 686.97,
+    "freightFrom": 1125.53,
+    "freightTotal": 1812.5
+  },
+  {
     "date": "2020-04-01",
     "airport": "ABUDHABI",
     "destination": "BHUBANESWAR",
@@ -1084,6 +1106,17 @@
     "paxTo": 3947.0,
     "paxFrom": 4921.0,
     "paxTotal": 8868.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "BHUBANESWAR",
+    "paxTo": 4604.0,
+    "paxFrom": 4036.0,
+    "paxTotal": 8640.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -1150,6 +1183,17 @@
     "paxTo": 4508.0,
     "paxFrom": 6174.0,
     "paxTotal": 10682.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "CHANDIGARH",
+    "paxTo": 6823.0,
+    "paxFrom": 7034.0,
+    "paxTotal": 13857.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -1628,6 +1672,17 @@
     "freightTotal": 414.84
   },
   {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "CHENNAI",
+    "paxTo": 84303.0,
+    "paxFrom": 82774.0,
+    "paxTotal": 167077.0,
+    "freightTo": 83.18,
+    "freightFrom": 236.32,
+    "freightTotal": 319.5
+  },
+  {
     "date": "2020-07-01",
     "airport": "ABUDHABI",
     "destination": "COIMBATORE",
@@ -1692,6 +1747,17 @@
     "freightTo": 0.0,
     "freightFrom": 22.34,
     "freightTotal": 22.34
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "COIMBATORE",
+    "paxTo": 7776.0,
+    "paxFrom": 7915.0,
+    "paxTotal": 15691.0,
+    "freightTo": 0.0,
+    "freightFrom": 16.13,
+    "freightTotal": 16.13
   },
   {
     "date": "2015-04-01",
@@ -2209,6 +2275,17 @@
     "freightTo": 1554.95,
     "freightFrom": 3161.85,
     "freightTotal": 4716.8
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "DELHI",
+    "paxTo": 97526.0,
+    "paxFrom": 92599.0,
+    "paxTotal": 190125.0,
+    "freightTo": 949.98,
+    "freightFrom": 2319.43,
+    "freightTotal": 3269.41
   },
   {
     "date": "2017-07-01",
@@ -2926,6 +3003,17 @@
     "freightTotal": 2689.62
   },
   {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "HYDERABAD",
+    "paxTo": 73100.0,
+    "paxFrom": 70782.0,
+    "paxTotal": 143882.0,
+    "freightTo": 851.15,
+    "freightFrom": 1298.19,
+    "freightTotal": 2149.34
+  },
+  {
     "date": "2020-07-01",
     "airport": "ABUDHABI",
     "destination": "INDORE",
@@ -3144,6 +3232,17 @@
     "freightTo": 0.29,
     "freightFrom": 4.67,
     "freightTotal": 4.96
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "JAIPUR",
+    "paxTo": 19799.0,
+    "paxFrom": 18417.0,
+    "paxTotal": 38216.0,
+    "freightTo": 0.51,
+    "freightFrom": 25.74,
+    "freightTotal": 26.25
   },
   {
     "date": "2018-10-01",
@@ -3452,6 +3551,17 @@
     "freightTo": 2.0,
     "freightFrom": 595.23,
     "freightTotal": 597.23
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "KANNUR",
+    "paxTo": 23797.0,
+    "paxFrom": 26907.0,
+    "paxTotal": 50704.0,
+    "freightTo": 3.27,
+    "freightFrom": 252.65,
+    "freightTotal": 255.92000000000002
   },
   {
     "date": "2015-01-01",
@@ -3927,6 +4037,17 @@
     "freightTotal": 1095.94
   },
   {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "KOCHI",
+    "paxTo": 121431.0,
+    "paxFrom": 122473.0,
+    "paxTotal": 243904.0,
+    "freightTo": 86.44,
+    "freightFrom": 1038.56,
+    "freightTotal": 1125.0
+  },
+  {
     "date": "2015-01-01",
     "airport": "ABUDHABI",
     "destination": "KOLKATA",
@@ -4299,6 +4420,17 @@
     "freightTo": 3.39,
     "freightFrom": 194.18,
     "freightTotal": 197.57
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "KOLKATA",
+    "paxTo": 21391.0,
+    "paxFrom": 21631.0,
+    "paxTotal": 43022.0,
+    "freightTo": 3.87,
+    "freightFrom": 134.32,
+    "freightTotal": 138.19
   },
   {
     "date": "2015-01-01",
@@ -4774,6 +4906,17 @@
     "freightTotal": 1179.76
   },
   {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "KOZHIKODE",
+    "paxTo": 69372.0,
+    "paxFrom": 70680.0,
+    "paxTotal": 140052.0,
+    "freightTo": 50.68,
+    "freightFrom": 963.84,
+    "freightTotal": 1014.52
+  },
+  {
     "date": "2015-01-01",
     "airport": "ABUDHABI",
     "destination": "KUWAIT",
@@ -5203,6 +5346,17 @@
     "freightTotal": 255.84
   },
   {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "LUCKNOW",
+    "paxTo": 13165.0,
+    "paxFrom": 12254.0,
+    "paxTotal": 25419.0,
+    "freightTo": 0.0,
+    "freightFrom": 154.86,
+    "freightTotal": 154.86
+  },
+  {
     "date": "2018-04-01",
     "airport": "ABUDHABI",
     "destination": "MADURAI",
@@ -5300,6 +5454,17 @@
     "freightTo": 0.0,
     "freightFrom": 20.31,
     "freightTotal": 20.31
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "MADURAI",
+    "paxTo": 5344.0,
+    "paxFrom": 5884.0,
+    "paxTotal": 11228.0,
+    "freightTo": 0.0,
+    "freightFrom": 5.68,
+    "freightTotal": 5.68
   },
   {
     "date": "2015-01-01",
@@ -5775,6 +5940,17 @@
     "freightTotal": 174.6
   },
   {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "MANGALORE",
+    "paxTo": 30636.0,
+    "paxFrom": 34416.0,
+    "paxTotal": 65052.0,
+    "freightTo": 0.0,
+    "freightFrom": 140.64,
+    "freightTotal": 140.64
+  },
+  {
     "date": "2015-01-01",
     "airport": "ABUDHABI",
     "destination": "MUMBAI",
@@ -6248,6 +6424,17 @@
     "freightTotal": 5055.9400000000005
   },
   {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "MUMBAI",
+    "paxTo": 153602.0,
+    "paxFrom": 153527.0,
+    "paxTotal": 307129.0,
+    "freightTo": 1985.87,
+    "freightFrom": 3728.65,
+    "freightTotal": 5714.52
+  },
+  {
     "date": "2015-01-01",
     "airport": "ABUDHABI",
     "destination": "PUNE",
@@ -6444,6 +6631,17 @@
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "PUNE",
+    "paxTo": 2079.0,
+    "paxFrom": 2205.0,
+    "paxTotal": 4284.0,
+    "freightTo": 0.0,
+    "freightFrom": 9.56,
+    "freightTotal": 9.56
   },
   {
     "date": "2020-04-01",
@@ -6686,6 +6884,17 @@
     "freightTo": 0.42,
     "freightFrom": 246.74,
     "freightTotal": 247.16
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "TIRUCHIRAPALLY",
+    "paxTo": 5526.0,
+    "paxFrom": 5737.0,
+    "paxTotal": 11263.0,
+    "freightTo": 3.88,
+    "freightFrom": 231.17,
+    "freightTotal": 235.04999999999998
   },
   {
     "date": "2015-01-01",
@@ -7161,6 +7370,17 @@
     "freightTotal": 1053.44
   },
   {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "TRIVANDRUM",
+    "paxTo": 64579.0,
+    "paxFrom": 66410.0,
+    "paxTotal": 130989.0,
+    "freightTo": 49.94,
+    "freightFrom": 780.78,
+    "freightTotal": 830.72
+  },
+  {
     "date": "2020-07-01",
     "airport": "ABUDHABI",
     "destination": "VARANASI",
@@ -7247,6 +7467,28 @@
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ABUDHABI",
+    "destination": "VISAKHAPATNAM",
+    "paxTo": 6779.0,
+    "paxFrom": 6942.0,
+    "paxTotal": 13721.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ADDIS ABABA",
+    "destination": "BENGALURU",
+    "paxTo": 4046.0,
+    "paxFrom": 3140.0,
+    "paxTotal": 7186.0,
+    "freightTo": 0.97,
+    "freightFrom": 54.77,
+    "freightTotal": 55.74
   },
   {
     "date": "2015-01-01",
@@ -7346,6 +7588,17 @@
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ADDIS ABABA",
+    "destination": "CHENNAI",
+    "paxTo": 4737.0,
+    "paxFrom": 4421.0,
+    "paxTotal": 9158.0,
+    "freightTo": 4.02,
+    "freightFrom": 57.92,
+    "freightTotal": 61.94
   },
   {
     "date": "2015-01-01",
@@ -7821,6 +8074,28 @@
     "freightTotal": 1403.68
   },
   {
+    "date": "2025-10-01",
+    "airport": "ADDIS ABABA",
+    "destination": "DELHI",
+    "paxTo": 45096.0,
+    "paxFrom": 38471.0,
+    "paxTotal": 83567.0,
+    "freightTo": 241.71,
+    "freightFrom": 1426.88,
+    "freightTotal": 1668.5900000000001
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ADDIS ABABA",
+    "destination": "HYDERABAD",
+    "paxTo": 4296.0,
+    "paxFrom": 4345.0,
+    "paxTotal": 8641.0,
+    "freightTo": 0.0,
+    "freightFrom": 18.78,
+    "freightTotal": 18.78
+  },
+  {
     "date": "2021-07-01",
     "airport": "ADDIS ABABA",
     "destination": "KOCHI",
@@ -8171,6 +8446,17 @@
     "freightTo": 1508.05,
     "freightFrom": 3460.28,
     "freightTotal": 4968.33
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ADDIS ABABA",
+    "destination": "MUMBAI",
+    "paxTo": 51096.0,
+    "paxFrom": 46698.0,
+    "paxTotal": 97794.0,
+    "freightTo": 1580.63,
+    "freightFrom": 3200.27,
+    "freightTotal": 4780.9
   },
   {
     "date": "2020-07-01",
@@ -8756,6 +9042,17 @@
     "freightTotal": 7.25
   },
   {
+    "date": "2025-10-01",
+    "airport": "ADEN",
+    "destination": "MUMBAI",
+    "paxTo": 541.0,
+    "paxFrom": 849.0,
+    "paxTotal": 1390.0,
+    "freightTo": 0.0,
+    "freightFrom": 9.11,
+    "freightTotal": 9.11
+  },
+  {
     "date": "2020-04-01",
     "airport": "ADEN",
     "destination": "PUNE",
@@ -9293,6 +9590,17 @@
     "freightTo": 251.55,
     "freightFrom": 215.62,
     "freightTotal": 467.17
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "AL AIN",
+    "destination": "KOZHIKODE",
+    "paxTo": 7068.0,
+    "paxFrom": 8069.0,
+    "paxTotal": 15137.0,
+    "freightTo": 124.16,
+    "freightFrom": 198.29,
+    "freightTotal": 322.45
   },
   {
     "date": "2017-07-01",
@@ -9955,6 +10263,17 @@
     "freightTotal": 166.51
   },
   {
+    "date": "2025-10-01",
+    "airport": "ALMATY",
+    "destination": "DELHI",
+    "paxTo": 16207.0,
+    "paxFrom": 17388.0,
+    "paxTotal": 33595.0,
+    "freightTo": 1.25,
+    "freightFrom": 120.27,
+    "freightTotal": 121.52
+  },
+  {
     "date": "2015-10-01",
     "airport": "ALMATY",
     "destination": "GOA",
@@ -10252,6 +10571,17 @@
     "freightTotal": 1.31
   },
   {
+    "date": "2025-10-01",
+    "airport": "ALMATY",
+    "destination": "GOA",
+    "paxTo": 2063.0,
+    "paxFrom": 1687.0,
+    "paxTotal": 3750.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
     "date": "2020-04-01",
     "airport": "ALMATY",
     "destination": "HYDERABAD",
@@ -10305,6 +10635,17 @@
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ALMATY",
+    "destination": "MUMBAI",
+    "paxTo": 15789.0,
+    "paxFrom": 16715.0,
+    "paxTotal": 32504.0,
+    "freightTo": 11.6,
+    "freightFrom": 19.55,
+    "freightTotal": 31.15
   },
   {
     "date": "2021-07-01",
@@ -10448,6 +10789,17 @@
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "AMMAN",
+    "destination": "MUMBAI",
+    "paxTo": 4479.0,
+    "paxFrom": 3627.0,
+    "paxTotal": 8106.0,
+    "freightTo": 0.9,
+    "freightFrom": 37.92,
+    "freightTotal": 38.82
   },
   {
     "date": "2017-10-01",
@@ -10734,6 +11086,17 @@
     "freightTo": 652.08,
     "freightFrom": 1022.36,
     "freightTotal": 1674.44
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "AMSTERDAM",
+    "destination": "BENGALURU",
+    "paxTo": 26112.0,
+    "paxFrom": 22388.0,
+    "paxTotal": 48500.0,
+    "freightTo": 870.66,
+    "freightFrom": 1752.31,
+    "freightTotal": 2622.97
   },
   {
     "date": "2015-01-01",
@@ -11242,6 +11605,17 @@
     "freightTotal": 5667.26
   },
   {
+    "date": "2025-10-01",
+    "airport": "AMSTERDAM",
+    "destination": "DELHI",
+    "paxTo": 52517.0,
+    "paxFrom": 44564.0,
+    "paxTotal": 97081.0,
+    "freightTo": 3058.66,
+    "freightFrom": 3527.69,
+    "freightTotal": 6586.35
+  },
+  {
     "date": "2020-04-01",
     "airport": "AMSTERDAM",
     "destination": "HYDERABAD",
@@ -11262,6 +11636,17 @@
     "freightTo": 54.96,
     "freightFrom": 82.31,
     "freightTotal": 137.27
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "AMSTERDAM",
+    "destination": "HYDERABAD",
+    "paxTo": 10400.0,
+    "paxFrom": 9054.0,
+    "paxTotal": 19454.0,
+    "freightTo": 221.95,
+    "freightFrom": 390.2,
+    "freightTotal": 612.15
   },
   {
     "date": "2015-01-01",
@@ -11702,6 +12087,17 @@
     "freightTo": 1497.71,
     "freightFrom": 1644.22,
     "freightTotal": 3141.9300000000003
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "AMSTERDAM",
+    "destination": "MUMBAI",
+    "paxTo": 53196.0,
+    "paxFrom": 39906.0,
+    "paxTotal": 93102.0,
+    "freightTo": 2487.21,
+    "freightFrom": 2388.2,
+    "freightTotal": 4875.41
   },
   {
     "date": "2016-01-01",
@@ -12485,6 +12881,17 @@
     "freightTotal": 57.49
   },
   {
+    "date": "2025-10-01",
+    "airport": "ASHGABAT",
+    "destination": "DELHI",
+    "paxTo": 4593.0,
+    "paxFrom": 3751.0,
+    "paxTotal": 8344.0,
+    "freightTo": 4.71,
+    "freightFrom": 37.75,
+    "freightTotal": 42.46
+  },
+  {
     "date": "2017-07-01",
     "airport": "ASTANA",
     "destination": "DELHI",
@@ -13112,6 +13519,17 @@
     "freightTotal": 6.92
   },
   {
+    "date": "2025-10-01",
+    "airport": "BAGHDAD",
+    "destination": "DELHI",
+    "paxTo": 7558.0,
+    "paxFrom": 7424.0,
+    "paxTotal": 14982.0,
+    "freightTo": 0.4,
+    "freightFrom": 5.8,
+    "freightTotal": 6.2
+  },
+  {
     "date": "2015-01-01",
     "airport": "BAHRAIN",
     "destination": "ABUDHABI",
@@ -13662,6 +14080,17 @@
     "freightTotal": 139.35
   },
   {
+    "date": "2025-10-01",
+    "airport": "BAHRAIN",
+    "destination": "BENGALURU",
+    "paxTo": 30307.0,
+    "paxFrom": 30473.0,
+    "paxTotal": 60780.0,
+    "freightTo": 2.42,
+    "freightFrom": 205.39,
+    "freightTotal": 207.80999999999997
+  },
+  {
     "date": "2020-04-01",
     "airport": "BAHRAIN",
     "destination": "BHUBANESWAR",
@@ -14157,6 +14586,17 @@
     "freightTotal": 147.06
   },
   {
+    "date": "2025-10-01",
+    "airport": "BAHRAIN",
+    "destination": "CHENNAI",
+    "paxTo": 17728.0,
+    "paxFrom": 17901.0,
+    "paxTotal": 35629.0,
+    "freightTo": 4.63,
+    "freightFrom": 179.35,
+    "freightTotal": 183.98
+  },
+  {
     "date": "2021-10-01",
     "airport": "BAHRAIN",
     "destination": "DAMMAM",
@@ -14641,6 +15081,17 @@
     "freightTotal": 265.55
   },
   {
+    "date": "2025-10-01",
+    "airport": "BAHRAIN",
+    "destination": "DELHI",
+    "paxTo": 29446.0,
+    "paxFrom": 28780.0,
+    "paxTotal": 58226.0,
+    "freightTo": 3.83,
+    "freightFrom": 239.04,
+    "freightTotal": 242.87
+  },
+  {
     "date": "2015-07-01",
     "airport": "BAHRAIN",
     "destination": "DOHA",
@@ -14804,6 +15255,17 @@
     "freightTo": 0.1,
     "freightFrom": 19.98,
     "freightTotal": 20.080000000000002
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "BAHRAIN",
+    "destination": "GOA",
+    "paxTo": 16429.0,
+    "paxFrom": 14237.0,
+    "paxTotal": 30666.0,
+    "freightTo": 0.51,
+    "freightFrom": 47.22,
+    "freightTotal": 47.73
   },
   {
     "date": "2015-01-01",
@@ -15279,6 +15741,17 @@
     "freightTotal": 141.60999999999999
   },
   {
+    "date": "2025-10-01",
+    "airport": "BAHRAIN",
+    "destination": "HYDERABAD",
+    "paxTo": 17913.0,
+    "paxFrom": 18002.0,
+    "paxTotal": 35915.0,
+    "freightTo": 2.08,
+    "freightFrom": 155.07,
+    "freightTotal": 157.15
+  },
+  {
     "date": "2019-04-01",
     "airport": "BAHRAIN",
     "destination": "KANNUR",
@@ -15552,6 +16025,17 @@
     "freightTo": 0.42,
     "freightFrom": 61.07,
     "freightTotal": 61.49
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "BAHRAIN",
+    "destination": "KANNUR",
+    "paxTo": 615.0,
+    "paxFrom": 679.0,
+    "paxTotal": 1294.0,
+    "freightTo": 0.2,
+    "freightFrom": 0.0,
+    "freightTotal": 0.2
   },
   {
     "date": "2015-01-01",
@@ -16027,6 +16511,17 @@
     "freightTotal": 325.37
   },
   {
+    "date": "2025-10-01",
+    "airport": "BAHRAIN",
+    "destination": "KOCHI",
+    "paxTo": 15799.0,
+    "paxFrom": 16201.0,
+    "paxTotal": 32000.0,
+    "freightTo": 1.08,
+    "freightFrom": 165.7,
+    "freightTotal": 166.78
+  },
+  {
     "date": "2015-01-01",
     "airport": "BAHRAIN",
     "destination": "KOZHIKODE",
@@ -16498,6 +16993,17 @@
     "freightTo": 1.25,
     "freightFrom": 325.91,
     "freightTotal": 327.16
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "BAHRAIN",
+    "destination": "KOZHIKODE",
+    "paxTo": 9992.0,
+    "paxFrom": 11777.0,
+    "paxTotal": 21769.0,
+    "freightTo": 0.73,
+    "freightFrom": 237.67,
+    "freightTotal": 238.39999999999998
   },
   {
     "date": "2015-07-01",
@@ -17138,6 +17644,17 @@
     "freightTotal": 88.71
   },
   {
+    "date": "2025-10-01",
+    "airport": "BAHRAIN",
+    "destination": "MANGALORE",
+    "paxTo": 4506.0,
+    "paxFrom": 5520.0,
+    "paxTotal": 10026.0,
+    "freightTo": 0.0,
+    "freightFrom": 79.04,
+    "freightTotal": 79.04
+  },
+  {
     "date": "2015-01-01",
     "airport": "BAHRAIN",
     "destination": "MUMBAI",
@@ -17609,6 +18126,17 @@
     "freightTo": 9.06,
     "freightFrom": 437.28,
     "freightTotal": 446.34
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "BAHRAIN",
+    "destination": "MUMBAI",
+    "paxTo": 44069.0,
+    "paxFrom": 44170.0,
+    "paxTotal": 88239.0,
+    "freightTo": 11.85,
+    "freightFrom": 500.63,
+    "freightTotal": 512.48
   },
   {
     "date": "2020-07-01",
@@ -18150,6 +18678,17 @@
     "freightTotal": 267.69
   },
   {
+    "date": "2025-10-01",
+    "airport": "BAHRAIN",
+    "destination": "TRIVANDRUM",
+    "paxTo": 8843.0,
+    "paxFrom": 8940.0,
+    "paxTotal": 17783.0,
+    "freightTo": 0.98,
+    "freightFrom": 54.46,
+    "freightTotal": 55.44
+  },
+  {
     "date": "2020-04-01",
     "airport": "BAHRAIN",
     "destination": "VIJAYAWADA",
@@ -18370,6 +18909,17 @@
     "freightTotal": 110.57
   },
   {
+    "date": "2025-10-01",
+    "airport": "BAKU",
+    "destination": "DELHI",
+    "paxTo": 17174.0,
+    "paxFrom": 14753.0,
+    "paxTotal": 31927.0,
+    "freightTo": 0.03,
+    "freightFrom": 130.19,
+    "freightTotal": 130.22
+  },
+  {
     "date": "2017-01-01",
     "airport": "BAKU",
     "destination": "GOA",
@@ -18390,6 +18940,17 @@
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "BAKU",
+    "destination": "MUMBAI",
+    "paxTo": 11212.0,
+    "paxFrom": 10693.0,
+    "paxTotal": 21905.0,
+    "freightTo": 0.14,
+    "freightFrom": 142.33,
+    "freightTotal": 142.47
   },
   {
     "date": "2020-07-01",
@@ -18423,6 +18984,17 @@
     "freightTo": 23.39,
     "freightFrom": 58.09,
     "freightTotal": 81.48
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "BANDAR SERI BEGAWAN",
+    "destination": "CHENNAI",
+    "paxTo": 3582.0,
+    "paxFrom": 2017.0,
+    "paxTotal": 5599.0,
+    "freightTo": 17.52,
+    "freightFrom": 35.28,
+    "freightTotal": 52.8
   },
   {
     "date": "2015-01-01",
@@ -18788,6 +19360,17 @@
     "freightTotal": 232.92000000000002
   },
   {
+    "date": "2025-10-01",
+    "airport": "BANGKOK",
+    "destination": "AHMEDABAD",
+    "paxTo": 12669.0,
+    "paxFrom": 11882.0,
+    "paxTotal": 24551.0,
+    "freightTo": 14.82,
+    "freightFrom": 169.27,
+    "freightTotal": 184.09
+  },
+  {
     "date": "2017-07-01",
     "airport": "BANGKOK",
     "destination": "AMRITSAR",
@@ -19014,6 +19597,17 @@
     "paxTo": 414.0,
     "paxFrom": 592.0,
     "paxTotal": 1006.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "BANGKOK",
+    "destination": "BAGDOGRA",
+    "paxTo": 410.0,
+    "paxFrom": 289.0,
+    "paxTotal": 699.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -19492,6 +20086,17 @@
     "freightTotal": 5042.52
   },
   {
+    "date": "2025-10-01",
+    "airport": "BANGKOK",
+    "destination": "BENGALURU",
+    "paxTo": 53600.0,
+    "paxFrom": 51918.0,
+    "paxTotal": 105518.0,
+    "freightTo": 2013.81,
+    "freightFrom": 1196.71,
+    "freightTotal": 3210.52
+  },
+  {
     "date": "2017-10-01",
     "airport": "BANGKOK",
     "destination": "BHUBANESWAR",
@@ -19644,6 +20249,17 @@
     "freightTo": 0.08,
     "freightFrom": 0.0,
     "freightTotal": 0.08
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "BANGKOK",
+    "destination": "BHUBANESWAR",
+    "paxTo": 4175.0,
+    "paxFrom": 3736.0,
+    "paxTotal": 7911.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
   },
   {
     "date": "2017-10-01",
@@ -20163,6 +20779,17 @@
     "freightTotal": 2201.02
   },
   {
+    "date": "2025-10-01",
+    "airport": "BANGKOK",
+    "destination": "CHENNAI",
+    "paxTo": 27490.0,
+    "paxFrom": 27516.0,
+    "paxTotal": 55006.0,
+    "freightTo": 943.58,
+    "freightFrom": 1292.72,
+    "freightTotal": 2236.3
+  },
+  {
     "date": "2015-01-01",
     "airport": "BANGKOK",
     "destination": "DELHI",
@@ -20636,6 +21263,17 @@
     "freightTotal": 5938.25
   },
   {
+    "date": "2025-10-01",
+    "airport": "BANGKOK",
+    "destination": "DELHI",
+    "paxTo": 138740.0,
+    "paxFrom": 138484.0,
+    "paxTotal": 277224.0,
+    "freightTo": 3530.66,
+    "freightFrom": 1857.16,
+    "freightTotal": 5387.82
+  },
+  {
     "date": "2015-01-01",
     "airport": "BANGKOK",
     "destination": "GAYA",
@@ -20884,6 +21522,17 @@
     "paxTo": 8423.0,
     "paxFrom": 8417.0,
     "paxTotal": 16840.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "BANGKOK",
+    "destination": "GAYA",
+    "paxTo": 7261.0,
+    "paxFrom": 6948.0,
+    "paxTotal": 14209.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -21426,6 +22075,17 @@
     "freightTo": 465.73,
     "freightFrom": 1198.33,
     "freightTotal": 1664.06
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "BANGKOK",
+    "destination": "HYDERABAD",
+    "paxTo": 32673.0,
+    "paxFrom": 31172.0,
+    "paxTotal": 63845.0,
+    "freightTo": 326.96,
+    "freightFrom": 1006.63,
+    "freightTotal": 1333.59
   },
   {
     "date": "2016-10-01",
@@ -22132,6 +22792,17 @@
     "freightTotal": 521.53
   },
   {
+    "date": "2025-10-01",
+    "airport": "BANGKOK",
+    "destination": "KOLKATA",
+    "paxTo": 36702.0,
+    "paxFrom": 34377.0,
+    "paxTotal": 71079.0,
+    "freightTo": 57.55,
+    "freightFrom": 424.58,
+    "freightTotal": 482.13
+  },
+  {
     "date": "2016-10-01",
     "airport": "BANGKOK",
     "destination": "LUCKNOW",
@@ -22814,6 +23485,17 @@
     "freightTotal": 2698.45
   },
   {
+    "date": "2025-10-01",
+    "airport": "BANGKOK",
+    "destination": "MUMBAI",
+    "paxTo": 83948.0,
+    "paxFrom": 78888.0,
+    "paxTotal": 162836.0,
+    "freightTo": 1556.27,
+    "freightFrom": 1777.57,
+    "freightTotal": 3333.84
+  },
+  {
     "date": "2022-10-01",
     "airport": "BANGKOK",
     "destination": "PUNE",
@@ -22880,6 +23562,17 @@
     "freightTotal": 412.49
   },
   {
+    "date": "2025-10-01",
+    "airport": "BANGKOK",
+    "destination": "PUNE",
+    "paxTo": 17091.0,
+    "paxFrom": 16962.0,
+    "paxTotal": 34053.0,
+    "freightTo": 19.23,
+    "freightFrom": 190.62,
+    "freightTotal": 209.85
+  },
+  {
     "date": "2024-10-01",
     "airport": "BANGKOK",
     "destination": "SURAT",
@@ -22922,6 +23615,17 @@
     "freightTo": 434.97,
     "freightFrom": 59.36,
     "freightTotal": 494.33000000000004
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "BANGKOK",
+    "destination": "SURAT",
+    "paxTo": 8530.0,
+    "paxFrom": 9017.0,
+    "paxTotal": 17547.0,
+    "freightTo": 219.27,
+    "freightFrom": 20.01,
+    "freightTotal": 239.28
   },
   {
     "date": "2015-01-01",
@@ -23848,6 +24552,17 @@
     "freightTotal": 60.95
   },
   {
+    "date": "2025-10-01",
+    "airport": "BIRMINGHAM",
+    "destination": "AMRITSAR",
+    "paxTo": 9133.0,
+    "paxFrom": 7978.0,
+    "paxTotal": 17111.0,
+    "freightTo": 2.31,
+    "freightFrom": 55.21,
+    "freightTotal": 57.52
+  },
+  {
     "date": "2015-01-01",
     "airport": "BIRMINGHAM",
     "destination": "DELHI",
@@ -24277,6 +24992,17 @@
     "freightTotal": 478.03
   },
   {
+    "date": "2025-10-01",
+    "airport": "BIRMINGHAM",
+    "destination": "DELHI",
+    "paxTo": 7783.0,
+    "paxFrom": 6790.0,
+    "paxTotal": 14573.0,
+    "freightTo": 51.08,
+    "freightFrom": 440.29,
+    "freightTotal": 491.37
+  },
+  {
     "date": "2019-07-01",
     "airport": "BIRMINGHAM",
     "destination": "MUMBAI",
@@ -24693,6 +25419,17 @@
     "freightTo": 0.0,
     "freightFrom": 20.18,
     "freightTotal": 20.18
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "BISHKEK",
+    "destination": "DELHI",
+    "paxTo": 1097.0,
+    "paxFrom": 1618.0,
+    "paxTotal": 2715.0,
+    "freightTo": 0.0,
+    "freightFrom": 4.68,
+    "freightTotal": 4.68
   },
   {
     "date": "2021-01-01",
@@ -25663,6 +26400,17 @@
     "freightTotal": 2.18
   },
   {
+    "date": "2025-10-01",
+    "airport": "CAIRO",
+    "destination": "DELHI",
+    "paxTo": 7869.0,
+    "paxFrom": 6592.0,
+    "paxTotal": 14461.0,
+    "freightTo": 26.48,
+    "freightFrom": 131.27,
+    "freightTotal": 157.75
+  },
+  {
     "date": "2020-04-01",
     "airport": "CAIRO",
     "destination": "KOCHI",
@@ -26134,6 +26882,17 @@
     "freightTo": 170.22,
     "freightFrom": 1040.25,
     "freightTotal": 1210.47
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "CAIRO",
+    "destination": "MUMBAI",
+    "paxTo": 12699.0,
+    "paxFrom": 11046.0,
+    "paxTotal": 23745.0,
+    "freightTo": 147.6,
+    "freightFrom": 911.77,
+    "freightTotal": 1059.37
   },
   {
     "date": "2022-04-01",
@@ -26728,6 +27487,17 @@
     "freightTo": 231.09,
     "freightFrom": 686.06,
     "freightTotal": 917.15
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "CHICAGO",
+    "destination": "DELHI",
+    "paxTo": 14606.0,
+    "paxFrom": 9503.0,
+    "paxTotal": 24109.0,
+    "freightTo": 465.52,
+    "freightFrom": 1623.27,
+    "freightTotal": 2088.79
   },
   {
     "date": "2015-01-01",
@@ -27610,6 +28380,17 @@
     "freightTotal": 6582.95
   },
   {
+    "date": "2025-10-01",
+    "airport": "COLOGNE",
+    "destination": "BENGALURU",
+    "paxTo": 0.0,
+    "paxFrom": 0.0,
+    "paxTotal": 0.0,
+    "freightTo": 691.74,
+    "freightFrom": 3978.14,
+    "freightTotal": 4669.88
+  },
+  {
     "date": "2015-10-01",
     "airport": "COLOGNE",
     "destination": "DELHI",
@@ -27861,6 +28642,17 @@
     "freightTo": 507.26,
     "freightFrom": 4253.31,
     "freightTotal": 4760.570000000001
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "COLOGNE",
+    "destination": "DELHI",
+    "paxTo": 0.0,
+    "paxFrom": 0.0,
+    "paxTotal": 0.0,
+    "freightTo": 312.05,
+    "freightFrom": 3290.81,
+    "freightTotal": 3602.86
   },
   {
     "date": "2015-01-01",
@@ -28556,6 +29348,17 @@
     "freightTotal": 489.23
   },
   {
+    "date": "2025-10-01",
+    "airport": "COLOMBO",
+    "destination": "BENGALURU",
+    "paxTo": 43574.0,
+    "paxFrom": 42004.0,
+    "paxTotal": 85578.0,
+    "freightTo": 111.17,
+    "freightFrom": 428.43,
+    "freightTotal": 539.6
+  },
+  {
     "date": "2020-04-01",
     "airport": "COLOMBO",
     "destination": "BHUBANESWAR",
@@ -29038,6 +29841,17 @@
     "freightTo": 899.51,
     "freightFrom": 1439.72,
     "freightTotal": 2339.23
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "COLOMBO",
+    "destination": "CHENNAI",
+    "paxTo": 99844.0,
+    "paxFrom": 102955.0,
+    "paxTotal": 202799.0,
+    "freightTo": 647.68,
+    "freightFrom": 1369.89,
+    "freightTotal": 2017.5700000000002
   },
   {
     "date": "2017-07-01",
@@ -29645,6 +30459,17 @@
     "freightTotal": 2457.06
   },
   {
+    "date": "2025-10-01",
+    "airport": "COLOMBO",
+    "destination": "DELHI",
+    "paxTo": 46630.0,
+    "paxFrom": 48655.0,
+    "paxTotal": 95285.0,
+    "freightTo": 2350.06,
+    "freightFrom": 539.82,
+    "freightTotal": 2889.88
+  },
+  {
     "date": "2015-01-01",
     "airport": "COLOMBO",
     "destination": "GAYA",
@@ -30072,6 +30897,17 @@
     "freightTo": 4.06,
     "freightFrom": 113.67,
     "freightTotal": 117.73
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "COLOMBO",
+    "destination": "HYDERABAD",
+    "paxTo": 18247.0,
+    "paxFrom": 19988.0,
+    "paxTotal": 38235.0,
+    "freightTo": 11.89,
+    "freightFrom": 134.47,
+    "freightTotal": 146.36
   },
   {
     "date": "2015-01-01",
@@ -30534,6 +31370,17 @@
     "freightTo": 18.83,
     "freightFrom": 136.77,
     "freightTotal": 155.60000000000002
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "COLOMBO",
+    "destination": "KOCHI",
+    "paxTo": 11067.0,
+    "paxFrom": 12621.0,
+    "paxTotal": 23688.0,
+    "freightTo": 2.29,
+    "freightFrom": 113.03,
+    "freightTotal": 115.32000000000001
   },
   {
     "date": "2015-07-01",
@@ -31185,6 +32032,17 @@
     "freightTotal": 119.31
   },
   {
+    "date": "2025-10-01",
+    "airport": "COLOMBO",
+    "destination": "MADURAI",
+    "paxTo": 8709.0,
+    "paxFrom": 9825.0,
+    "paxTotal": 18534.0,
+    "freightTo": 0.47,
+    "freightFrom": 139.7,
+    "freightTotal": 140.17
+  },
+  {
     "date": "2021-01-01",
     "airport": "COLOMBO",
     "destination": "MALE",
@@ -31702,6 +32560,17 @@
     "freightTotal": 1137.54
   },
   {
+    "date": "2025-10-01",
+    "airport": "COLOMBO",
+    "destination": "MUMBAI",
+    "paxTo": 47937.0,
+    "paxFrom": 52923.0,
+    "paxTotal": 100860.0,
+    "freightTo": 578.43,
+    "freightFrom": 738.04,
+    "freightTotal": 1316.4699999999998
+  },
+  {
     "date": "2015-01-01",
     "airport": "COLOMBO",
     "destination": "TIRUCHIRAPALLY",
@@ -32120,6 +32989,17 @@
     "freightTotal": 202.56
   },
   {
+    "date": "2025-10-01",
+    "airport": "COLOMBO",
+    "destination": "TIRUCHIRAPALLY",
+    "paxTo": 13982.0,
+    "paxFrom": 15262.0,
+    "paxTotal": 29244.0,
+    "freightTo": 1.52,
+    "freightFrom": 164.1,
+    "freightTotal": 165.62
+  },
+  {
     "date": "2015-01-01",
     "airport": "COLOMBO",
     "destination": "TRIVANDRUM",
@@ -32536,6 +33416,17 @@
     "freightTo": 0.26,
     "freightFrom": 50.15,
     "freightTotal": 50.41
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "COLOMBO",
+    "destination": "TRIVANDRUM",
+    "paxTo": 6401.0,
+    "paxFrom": 5957.0,
+    "paxTotal": 12358.0,
+    "freightTo": 0.17,
+    "freightFrom": 24.85,
+    "freightTotal": 25.020000000000003
   },
   {
     "date": "2015-01-01",
@@ -33033,6 +33924,28 @@
     "freightTotal": 1105.2
   },
   {
+    "date": "2025-10-01",
+    "airport": "COPENHAGEN",
+    "destination": "DELHI",
+    "paxTo": 13876.0,
+    "paxFrom": 9524.0,
+    "paxTotal": 23400.0,
+    "freightTo": 417.37,
+    "freightFrom": 1025.93,
+    "freightTotal": 1443.3000000000002
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "COPENHAGEN",
+    "destination": "MUMBAI",
+    "paxTo": 8947.0,
+    "paxFrom": 4821.0,
+    "paxTotal": 13768.0,
+    "freightTo": 149.7,
+    "freightFrom": 269.15,
+    "freightTotal": 418.84999999999997
+  },
+  {
     "date": "2020-07-01",
     "airport": "Changsha",
     "destination": "DELHI",
@@ -33053,6 +33966,17 @@
     "freightTo": 4.56,
     "freightFrom": 0.0,
     "freightTotal": 4.56
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DA NANG",
+    "destination": "AHMEDABAD",
+    "paxTo": 2591.0,
+    "paxFrom": 2349.0,
+    "paxTotal": 4940.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
   },
   {
     "date": "2022-10-01",
@@ -33405,6 +34329,17 @@
     "freightTo": 0.07,
     "freightFrom": 0.0,
     "freightTotal": 0.07
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DAMMAM",
+    "destination": "BENGALURU",
+    "paxTo": 9942.0,
+    "paxFrom": 10206.0,
+    "paxTotal": 20148.0,
+    "freightTo": 35.28,
+    "freightFrom": 98.61,
+    "freightTotal": 133.89
   },
   {
     "date": "2020-04-01",
@@ -34221,6 +35156,17 @@
     "freightTotal": 89.30000000000001
   },
   {
+    "date": "2025-10-01",
+    "airport": "DAMMAM",
+    "destination": "DELHI",
+    "paxTo": 27475.0,
+    "paxFrom": 26928.0,
+    "paxTotal": 54403.0,
+    "freightTo": 32.28,
+    "freightFrom": 64.12,
+    "freightTotal": 96.4
+  },
+  {
     "date": "2020-04-01",
     "airport": "DAMMAM",
     "destination": "GAYA",
@@ -34659,6 +35605,17 @@
     "freightTo": 0.31,
     "freightFrom": 50.36,
     "freightTotal": 50.67
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DAMMAM",
+    "destination": "HYDERABAD",
+    "paxTo": 20143.0,
+    "paxFrom": 19650.0,
+    "paxTotal": 39793.0,
+    "freightTo": 0.23,
+    "freightFrom": 51.47,
+    "freightTotal": 51.699999999999996
   },
   {
     "date": "2020-04-01",
@@ -35354,6 +36311,17 @@
     "freightTotal": 58.72
   },
   {
+    "date": "2025-10-01",
+    "airport": "DAMMAM",
+    "destination": "KOCHI",
+    "paxTo": 2319.0,
+    "paxFrom": 2391.0,
+    "paxTotal": 4710.0,
+    "freightTo": 9.11,
+    "freightFrom": 25.95,
+    "freightTotal": 35.06
+  },
+  {
     "date": "2020-04-01",
     "airport": "DAMMAM",
     "destination": "KOLKATA",
@@ -35838,6 +36806,17 @@
     "freightTotal": 462.58
   },
   {
+    "date": "2025-10-01",
+    "airport": "DAMMAM",
+    "destination": "KOZHIKODE",
+    "paxTo": 14849.0,
+    "paxFrom": 14507.0,
+    "paxTotal": 29356.0,
+    "freightTo": 6.85,
+    "freightFrom": 220.33,
+    "freightTotal": 227.18
+  },
+  {
     "date": "2022-01-01",
     "airport": "DAMMAM",
     "destination": "KUWAIT",
@@ -36111,6 +37090,17 @@
     "freightTo": 0.79,
     "freightFrom": 44.24,
     "freightTotal": 45.03
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DAMMAM",
+    "destination": "LUCKNOW",
+    "paxTo": 14586.0,
+    "paxFrom": 15663.0,
+    "paxTotal": 30249.0,
+    "freightTo": 0.28,
+    "freightFrom": 31.34,
+    "freightTotal": 31.62
   },
   {
     "date": "2020-07-01",
@@ -36597,6 +37587,17 @@
     "freightTotal": 37.239999999999995
   },
   {
+    "date": "2025-10-01",
+    "airport": "DAMMAM",
+    "destination": "MANGALORE",
+    "paxTo": 9845.0,
+    "paxFrom": 10430.0,
+    "paxTotal": 20275.0,
+    "freightTo": 8.05,
+    "freightFrom": 25.38,
+    "freightTotal": 33.43
+  },
+  {
     "date": "2015-01-01",
     "airport": "DAMMAM",
     "destination": "MUMBAI",
@@ -37035,6 +38036,17 @@
     "freightTo": 1.45,
     "freightFrom": 393.04,
     "freightTotal": 394.49
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DAMMAM",
+    "destination": "MUMBAI",
+    "paxTo": 36443.0,
+    "paxFrom": 35512.0,
+    "paxTotal": 71955.0,
+    "freightTo": 2.68,
+    "freightFrom": 282.96,
+    "freightTotal": 285.64
   },
   {
     "date": "2020-07-01",
@@ -37642,6 +38654,17 @@
     "freightTotal": 218.67000000000002
   },
   {
+    "date": "2025-10-01",
+    "airport": "DAMMAM",
+    "destination": "TRIVANDRUM",
+    "paxTo": 13369.0,
+    "paxFrom": 15245.0,
+    "paxTotal": 28614.0,
+    "freightTo": 2.48,
+    "freightFrom": 89.39,
+    "freightTotal": 91.87
+  },
+  {
     "date": "2020-07-01",
     "airport": "DAMMAM",
     "destination": "VIJAYAWADA",
@@ -37829,6 +38852,17 @@
     "freightTotal": 299.10999999999996
   },
   {
+    "date": "2025-10-01",
+    "airport": "DAR ES SALAM",
+    "destination": "MUMBAI",
+    "paxTo": 8383.0,
+    "paxFrom": 6821.0,
+    "paxTotal": 15204.0,
+    "freightTo": 61.9,
+    "freightFrom": 363.72,
+    "freightTotal": 425.62
+  },
+  {
     "date": "2024-01-01",
     "airport": "DENPASAR",
     "destination": "BENGALURU",
@@ -37904,6 +38938,39 @@
     "freightTo": 0.0,
     "freightFrom": 0.3,
     "freightTotal": 0.3
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DENPASAR",
+    "destination": "BENGALURU",
+    "paxTo": 14245.0,
+    "paxFrom": 13397.0,
+    "paxTotal": 27642.0,
+    "freightTo": 0.0,
+    "freightFrom": 1.29,
+    "freightTotal": 1.29
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DENPASAR",
+    "destination": "BHUBANESWAR",
+    "paxTo": 7943.0,
+    "paxFrom": 7273.0,
+    "paxTotal": 15216.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DENPASAR",
+    "destination": "CHENNAI",
+    "paxTo": 9734.0,
+    "paxFrom": 8909.0,
+    "paxTotal": 18643.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
   },
   {
     "date": "2023-10-01",
@@ -37994,6 +39061,17 @@
     "freightTotal": 78.76
   },
   {
+    "date": "2025-10-01",
+    "airport": "DENPASAR",
+    "destination": "DELHI",
+    "paxTo": 23111.0,
+    "paxFrom": 22353.0,
+    "paxTotal": 45464.0,
+    "freightTo": 401.92,
+    "freightFrom": 3.95,
+    "freightTotal": 405.87
+  },
+  {
     "date": "2017-10-01",
     "airport": "DENPASAR",
     "destination": "KOLKATA",
@@ -38069,6 +39147,17 @@
     "freightTo": 147.91,
     "freightFrom": 191.19,
     "freightTotal": 339.1
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DENPASAR",
+    "destination": "MUMBAI",
+    "paxTo": 9734.0,
+    "paxFrom": 8909.0,
+    "paxTotal": 18643.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
   },
   {
     "date": "2020-04-01",
@@ -38566,6 +39655,17 @@
     "freightTotal": 228.53
   },
   {
+    "date": "2025-10-01",
+    "airport": "DHAKA",
+    "destination": "CHENNAI",
+    "paxTo": 18062.0,
+    "paxFrom": 16461.0,
+    "paxTotal": 34523.0,
+    "freightTo": 28.6,
+    "freightFrom": 197.12,
+    "freightTotal": 225.72
+  },
+  {
     "date": "2015-01-01",
     "airport": "DHAKA",
     "destination": "DELHI",
@@ -39039,6 +40139,17 @@
     "freightTotal": 1258.79
   },
   {
+    "date": "2025-10-01",
+    "airport": "DHAKA",
+    "destination": "DELHI",
+    "paxTo": 35100.0,
+    "paxFrom": 26665.0,
+    "paxTotal": 61765.0,
+    "freightTo": 1653.8,
+    "freightFrom": 550.5,
+    "freightTotal": 2204.3
+  },
+  {
     "date": "2017-01-01",
     "airport": "DHAKA",
     "destination": "DUBAI",
@@ -39257,6 +40368,17 @@
     "freightTo": 101.71,
     "freightFrom": 35.07,
     "freightTotal": 136.78
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DHAKA",
+    "destination": "HYDERABAD",
+    "paxTo": 16424.0,
+    "paxFrom": 8078.0,
+    "paxTotal": 24502.0,
+    "freightTo": 86.68,
+    "freightFrom": 172.52,
+    "freightTotal": 259.20000000000005
   },
   {
     "date": "2015-01-01",
@@ -39732,6 +40854,17 @@
     "freightTotal": 219.7
   },
   {
+    "date": "2025-10-01",
+    "airport": "DHAKA",
+    "destination": "KOLKATA",
+    "paxTo": 22336.0,
+    "paxFrom": 23598.0,
+    "paxTotal": 45934.0,
+    "freightTo": 11.72,
+    "freightFrom": 188.42,
+    "freightTotal": 200.14
+  },
+  {
     "date": "2015-04-01",
     "airport": "DHAKA",
     "destination": "MALE",
@@ -40192,6 +41325,17 @@
     "freightTo": 385.27,
     "freightFrom": 78.91,
     "freightTotal": 464.17999999999995
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DHAKA",
+    "destination": "MUMBAI",
+    "paxTo": 30428.0,
+    "paxFrom": 22347.0,
+    "paxTotal": 52775.0,
+    "freightTo": 998.43,
+    "freightFrom": 95.41,
+    "freightTotal": 1093.84
   },
   {
     "date": "2016-10-01",
@@ -40744,6 +41888,17 @@
     "freightTotal": 4124.85
   },
   {
+    "date": "2025-10-01",
+    "airport": "DOHA",
+    "destination": "AHMEDABAD",
+    "paxTo": 14557.0,
+    "paxFrom": 13584.0,
+    "paxTotal": 28141.0,
+    "freightTo": 1293.06,
+    "freightFrom": 2534.72,
+    "freightTotal": 3827.7799999999997
+  },
+  {
     "date": "2015-01-01",
     "airport": "DOHA",
     "destination": "AMRITSAR",
@@ -41217,6 +42372,17 @@
     "freightTotal": 84.85
   },
   {
+    "date": "2025-10-01",
+    "airport": "DOHA",
+    "destination": "AMRITSAR",
+    "paxTo": 14743.0,
+    "paxFrom": 14378.0,
+    "paxTotal": 29121.0,
+    "freightTo": 8.3,
+    "freightFrom": 79.55,
+    "freightTotal": 87.85
+  },
+  {
     "date": "2015-01-01",
     "airport": "DOHA",
     "destination": "BENGALURU",
@@ -41688,6 +42854,17 @@
     "freightTo": 3484.31,
     "freightFrom": 4382.97,
     "freightTotal": 7867.280000000001
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DOHA",
+    "destination": "BENGALURU",
+    "paxTo": 47886.0,
+    "paxFrom": 40514.0,
+    "paxTotal": 88400.0,
+    "freightTo": 3311.89,
+    "freightFrom": 4328.64,
+    "freightTotal": 7640.530000000001
   },
   {
     "date": "2020-04-01",
@@ -42185,6 +43362,17 @@
     "freightTotal": 10252.53
   },
   {
+    "date": "2025-10-01",
+    "airport": "DOHA",
+    "destination": "CHENNAI",
+    "paxTo": 44314.0,
+    "paxFrom": 39595.0,
+    "paxTotal": 83909.0,
+    "freightTo": 4918.21,
+    "freightFrom": 5452.32,
+    "freightTotal": 10370.529999999999
+  },
+  {
     "date": "2019-01-01",
     "airport": "DOHA",
     "destination": "COIMBATORE",
@@ -42680,6 +43868,17 @@
     "freightTotal": 8299.66
   },
   {
+    "date": "2025-10-01",
+    "airport": "DOHA",
+    "destination": "DELHI",
+    "paxTo": 95542.0,
+    "paxFrom": 86424.0,
+    "paxTotal": 181966.0,
+    "freightTo": 3182.84,
+    "freightFrom": 4823.77,
+    "freightTotal": 8006.610000000001
+  },
+  {
     "date": "2020-04-01",
     "airport": "DOHA",
     "destination": "GAYA",
@@ -43140,6 +44339,17 @@
     "freightTo": 7.68,
     "freightFrom": 104.98,
     "freightTotal": 112.66
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DOHA",
+    "destination": "GOA",
+    "paxTo": 14222.0,
+    "paxFrom": 12556.0,
+    "paxTotal": 26778.0,
+    "freightTo": 10.8,
+    "freightFrom": 79.93,
+    "freightTotal": 90.73
   },
   {
     "date": "2015-01-01",
@@ -43615,6 +44825,17 @@
     "freightTotal": 4260.9
   },
   {
+    "date": "2025-10-01",
+    "airport": "DOHA",
+    "destination": "HYDERABAD",
+    "paxTo": 58278.0,
+    "paxFrom": 51285.0,
+    "paxTotal": 109563.0,
+    "freightTo": 1240.26,
+    "freightFrom": 2355.31,
+    "freightTotal": 3595.5699999999997
+  },
+  {
     "date": "2020-07-01",
     "airport": "DOHA",
     "destination": "JAIPUR",
@@ -43998,6 +45219,17 @@
     "freightTo": 6.37,
     "freightFrom": 408.48,
     "freightTotal": 414.85
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DOHA",
+    "destination": "KANNUR",
+    "paxTo": 23051.0,
+    "paxFrom": 25550.0,
+    "paxTotal": 48601.0,
+    "freightTo": 1.02,
+    "freightFrom": 330.1,
+    "freightTotal": 331.12
   },
   {
     "date": "2020-07-01",
@@ -44495,6 +45727,17 @@
     "freightTotal": 1531.1499999999999
   },
   {
+    "date": "2025-10-01",
+    "airport": "DOHA",
+    "destination": "KOCHI",
+    "paxTo": 81641.0,
+    "paxFrom": 77512.0,
+    "paxTotal": 159153.0,
+    "freightTo": 277.58,
+    "freightFrom": 1852.32,
+    "freightTotal": 2129.9
+  },
+  {
     "date": "2015-01-01",
     "airport": "DOHA",
     "destination": "KOLKATA",
@@ -44968,6 +46211,17 @@
     "freightTotal": 1585.75
   },
   {
+    "date": "2025-10-01",
+    "airport": "DOHA",
+    "destination": "KOLKATA",
+    "paxTo": 22565.0,
+    "paxFrom": 19326.0,
+    "paxTotal": 41891.0,
+    "freightTo": 694.6,
+    "freightFrom": 897.32,
+    "freightTotal": 1591.92
+  },
+  {
     "date": "2015-01-01",
     "airport": "DOHA",
     "destination": "KOZHIKODE",
@@ -45439,6 +46693,17 @@
     "freightTo": 2.85,
     "freightFrom": 368.2,
     "freightTotal": 371.05
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DOHA",
+    "destination": "KOZHIKODE",
+    "paxTo": 26283.0,
+    "paxFrom": 26788.0,
+    "paxTotal": 53071.0,
+    "freightTo": 25.28,
+    "freightFrom": 326.73,
+    "freightTotal": 352.01
   },
   {
     "date": "2019-01-01",
@@ -46112,6 +47377,17 @@
     "freightTotal": 11.46
   },
   {
+    "date": "2025-10-01",
+    "airport": "DOHA",
+    "destination": "MANGALORE",
+    "paxTo": 4978.0,
+    "paxFrom": 5590.0,
+    "paxTotal": 10568.0,
+    "freightTo": 3.88,
+    "freightFrom": 0.12,
+    "freightTotal": 4.0
+  },
+  {
     "date": "2015-01-01",
     "airport": "DOHA",
     "destination": "MUMBAI",
@@ -46585,6 +47861,17 @@
     "freightTotal": 12312.83
   },
   {
+    "date": "2025-10-01",
+    "airport": "DOHA",
+    "destination": "MUMBAI",
+    "paxTo": 94694.0,
+    "paxFrom": 88238.0,
+    "paxTotal": 182932.0,
+    "freightTo": 6139.89,
+    "freightFrom": 5921.76,
+    "freightTotal": 12061.650000000001
+  },
+  {
     "date": "2016-01-01",
     "airport": "DOHA",
     "destination": "NAGPUR",
@@ -46937,6 +48224,17 @@
     "freightTotal": 1.29
   },
   {
+    "date": "2025-10-01",
+    "airport": "DOHA",
+    "destination": "NAGPUR",
+    "paxTo": 8722.0,
+    "paxFrom": 7437.0,
+    "paxTotal": 16159.0,
+    "freightTo": 1.2,
+    "freightFrom": 0.0,
+    "freightTotal": 1.2
+  },
+  {
     "date": "2020-04-01",
     "airport": "DOHA",
     "destination": "SRINAGAR",
@@ -47199,6 +48497,17 @@
     "freightTo": 1.24,
     "freightFrom": 131.66,
     "freightTotal": 132.9
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DOHA",
+    "destination": "TIRUCHIRAPALLY",
+    "paxTo": 554.0,
+    "paxFrom": 592.0,
+    "paxTotal": 1146.0,
+    "freightTo": 0.46,
+    "freightFrom": 179.97,
+    "freightTotal": 180.43
   },
   {
     "date": "2015-01-01",
@@ -47672,6 +48981,17 @@
     "freightTo": 8.05,
     "freightFrom": 368.06,
     "freightTotal": 376.11
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DOHA",
+    "destination": "TRIVANDRUM",
+    "paxTo": 20395.0,
+    "paxFrom": 20068.0,
+    "paxTotal": 40463.0,
+    "freightTo": 18.04,
+    "freightFrom": 211.8,
+    "freightTotal": 229.84
   },
   {
     "date": "2019-10-01",
@@ -49346,6 +50666,17 @@
     "freightTotal": 230.39000000000001
   },
   {
+    "date": "2025-10-01",
+    "airport": "DON MUEANG, BANGKOK",
+    "destination": "AHMEDABAD",
+    "paxTo": 16086.0,
+    "paxFrom": 16839.0,
+    "paxTotal": 32925.0,
+    "freightTo": 101.24,
+    "freightFrom": 173.39,
+    "freightTotal": 274.63
+  },
+  {
     "date": "2024-10-01",
     "airport": "DON MUEANG, BANGKOK",
     "destination": "AMRITSAR",
@@ -49385,6 +50716,17 @@
     "paxTo": 7486.0,
     "paxFrom": 7662.0,
     "paxTotal": 15148.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DON MUEANG, BANGKOK",
+    "destination": "AMRITSAR",
+    "paxTo": 7889.0,
+    "paxFrom": 7759.0,
+    "paxTotal": 15648.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -49500,6 +50842,17 @@
     "freightTotal": 288.72
   },
   {
+    "date": "2025-10-01",
+    "airport": "DON MUEANG, BANGKOK",
+    "destination": "BENGALURU",
+    "paxTo": 19755.0,
+    "paxFrom": 20851.0,
+    "paxTotal": 40606.0,
+    "freightTo": 175.21,
+    "freightFrom": 399.43,
+    "freightTotal": 574.64
+  },
+  {
     "date": "2023-04-01",
     "airport": "DON MUEANG, BANGKOK",
     "destination": "CHENNAI",
@@ -49610,6 +50963,17 @@
     "freightTotal": 249.07
   },
   {
+    "date": "2025-10-01",
+    "airport": "DON MUEANG, BANGKOK",
+    "destination": "CHENNAI",
+    "paxTo": 23271.0,
+    "paxFrom": 21694.0,
+    "paxTotal": 44965.0,
+    "freightTo": 199.87,
+    "freightFrom": 236.76,
+    "freightTotal": 436.63
+  },
+  {
     "date": "2024-10-01",
     "airport": "DON MUEANG, BANGKOK",
     "destination": "DELHI",
@@ -49652,6 +51016,17 @@
     "freightTo": 591.84,
     "freightFrom": 463.49,
     "freightTotal": 1055.33
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DON MUEANG, BANGKOK",
+    "destination": "DELHI",
+    "paxTo": 25153.0,
+    "paxFrom": 24049.0,
+    "paxTotal": 49202.0,
+    "freightTo": 737.29,
+    "freightFrom": 610.9,
+    "freightTotal": 1348.19
   },
   {
     "date": "2023-10-01",
@@ -49775,6 +51150,28 @@
     "freightTotal": 0.0
   },
   {
+    "date": "2025-10-01",
+    "airport": "DON MUEANG, BANGKOK",
+    "destination": "GUWAHATI",
+    "paxTo": 6597.0,
+    "paxFrom": 6693.0,
+    "paxTotal": 13290.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DON MUEANG, BANGKOK",
+    "destination": "HYDERABAD",
+    "paxTo": 4779.0,
+    "paxFrom": 4973.0,
+    "paxTotal": 9752.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
     "date": "2023-04-01",
     "airport": "DON MUEANG, BANGKOK",
     "destination": "JAIPUR",
@@ -49880,6 +51277,17 @@
     "paxTo": 10011.0,
     "paxFrom": 10048.0,
     "paxTotal": 20059.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DON MUEANG, BANGKOK",
+    "destination": "JAIPUR",
+    "paxTo": 9815.0,
+    "paxFrom": 10329.0,
+    "paxTotal": 20144.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -49995,6 +51403,17 @@
     "freightTotal": 51.51
   },
   {
+    "date": "2025-10-01",
+    "airport": "DON MUEANG, BANGKOK",
+    "destination": "KOCHI",
+    "paxTo": 22237.0,
+    "paxFrom": 22416.0,
+    "paxTotal": 44653.0,
+    "freightTo": 30.15,
+    "freightFrom": 35.86,
+    "freightTotal": 66.00999999999999
+  },
+  {
     "date": "2023-04-01",
     "airport": "DON MUEANG, BANGKOK",
     "destination": "KOLKATA",
@@ -50103,6 +51522,17 @@
     "freightTo": 163.41,
     "freightFrom": 259.96,
     "freightTotal": 423.37
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DON MUEANG, BANGKOK",
+    "destination": "KOLKATA",
+    "paxTo": 22398.0,
+    "paxFrom": 21395.0,
+    "paxTotal": 43793.0,
+    "freightTo": 144.37,
+    "freightFrom": 235.49,
+    "freightTotal": 379.86
   },
   {
     "date": "2023-04-01",
@@ -50215,6 +51645,17 @@
     "freightTotal": 41.03
   },
   {
+    "date": "2025-10-01",
+    "airport": "DON MUEANG, BANGKOK",
+    "destination": "LUCKNOW",
+    "paxTo": 8016.0,
+    "paxFrom": 8048.0,
+    "paxTotal": 16064.0,
+    "freightTo": 0.0,
+    "freightFrom": 2.98,
+    "freightTotal": 2.98
+  },
+  {
     "date": "2023-04-01",
     "airport": "DON MUEANG, BANGKOK",
     "destination": "MUMBAI",
@@ -50323,6 +51764,17 @@
     "freightTo": 180.88,
     "freightFrom": 17.6,
     "freightTotal": 198.48
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DON MUEANG, BANGKOK",
+    "destination": "MUMBAI",
+    "paxTo": 12953.0,
+    "paxFrom": 13289.0,
+    "paxTotal": 26242.0,
+    "freightTo": 108.63,
+    "freightFrom": 54.62,
+    "freightTotal": 163.25
   },
   {
     "date": "2025-04-01",
@@ -50886,6 +52338,17 @@
     "freightTotal": 2936.85
   },
   {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "AHMEDABAD",
+    "paxTo": 72793.0,
+    "paxFrom": 69049.0,
+    "paxTotal": 141842.0,
+    "freightTo": 901.84,
+    "freightFrom": 1764.19,
+    "freightTotal": 2666.03
+  },
+  {
     "date": "2015-01-01",
     "airport": "DUBAI",
     "destination": "AMRITSAR",
@@ -51357,6 +52820,17 @@
     "freightTo": 3.58,
     "freightFrom": 167.27,
     "freightTotal": 170.85000000000002
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "AMRITSAR",
+    "paxTo": 30434.0,
+    "paxFrom": 28350.0,
+    "paxTotal": 58784.0,
+    "freightTo": 3.54,
+    "freightFrom": 300.77,
+    "freightTotal": 304.31
   },
   {
     "date": "2015-01-01",
@@ -51832,6 +53306,17 @@
     "freightTotal": 7652.01
   },
   {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "BENGALURU",
+    "paxTo": 119876.0,
+    "paxFrom": 114437.0,
+    "paxTotal": 234313.0,
+    "freightTo": 3154.04,
+    "freightFrom": 4179.67,
+    "freightTotal": 7333.71
+  },
+  {
     "date": "2020-04-01",
     "airport": "DUBAI",
     "destination": "BHUBANESWAR",
@@ -51962,6 +53447,17 @@
     "freightTo": 0.0,
     "freightFrom": 22.65,
     "freightTotal": 22.65
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "BHUBANESWAR",
+    "paxTo": 6457.0,
+    "paxFrom": 6619.0,
+    "paxTotal": 13076.0,
+    "freightTo": 0.0,
+    "freightFrom": 2.15,
+    "freightTotal": 2.15
   },
   {
     "date": "2016-07-01",
@@ -52322,6 +53818,17 @@
     "paxTo": 14408.0,
     "paxFrom": 15890.0,
     "paxTotal": 30298.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "CHANDIGARH",
+    "paxTo": 14104.0,
+    "paxFrom": 13653.0,
+    "paxTotal": 27757.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -52798,6 +54305,17 @@
     "freightTo": 3920.67,
     "freightFrom": 4844.59,
     "freightTotal": 8765.26
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "CHENNAI",
+    "paxTo": 122171.0,
+    "paxFrom": 117746.0,
+    "paxTotal": 239917.0,
+    "freightTo": 3887.53,
+    "freightFrom": 4282.07,
+    "freightTotal": 8169.6
   },
   {
     "date": "2020-04-01",
@@ -53295,6 +54813,17 @@
     "freightTotal": 17371.46
   },
   {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "DELHI",
+    "paxTo": 290473.0,
+    "paxFrom": 282361.0,
+    "paxTotal": 572834.0,
+    "freightTo": 4999.04,
+    "freightFrom": 14336.02,
+    "freightTotal": 19335.06
+  },
+  {
     "date": "2021-07-01",
     "airport": "DUBAI",
     "destination": "DOHA",
@@ -53779,6 +55308,17 @@
     "freightTotal": 61.94
   },
   {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "GOA",
+    "paxTo": 12948.0,
+    "paxFrom": 12370.0,
+    "paxTotal": 25318.0,
+    "freightTo": 0.74,
+    "freightFrom": 1.22,
+    "freightTotal": 1.96
+  },
+  {
     "date": "2020-07-01",
     "airport": "DUBAI",
     "destination": "GUWAHATI",
@@ -54261,6 +55801,17 @@
     "freightTo": 1484.41,
     "freightFrom": 3735.18,
     "freightTotal": 5219.59
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "HYDERABAD",
+    "paxTo": 137912.0,
+    "paxFrom": 127470.0,
+    "paxTotal": 265382.0,
+    "freightTo": 1405.77,
+    "freightFrom": 4063.24,
+    "freightTotal": 5469.01
   },
   {
     "date": "2019-07-01",
@@ -54923,6 +56474,17 @@
     "freightTotal": 230.7
   },
   {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "JAIPUR",
+    "paxTo": 24818.0,
+    "paxFrom": 23111.0,
+    "paxTotal": 47929.0,
+    "freightTo": 57.32,
+    "freightFrom": 228.27,
+    "freightTotal": 285.59000000000003
+  },
+  {
     "date": "2019-07-01",
     "airport": "DUBAI",
     "destination": "KANNUR",
@@ -55196,6 +56758,17 @@
     "freightTo": 8.52,
     "freightFrom": 294.35,
     "freightTotal": 302.87
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "KANNUR",
+    "paxTo": 15614.0,
+    "paxFrom": 15252.0,
+    "paxTotal": 30866.0,
+    "freightTo": 0.32,
+    "freightFrom": 122.98,
+    "freightTotal": 123.3
   },
   {
     "date": "2021-07-01",
@@ -55682,6 +57255,17 @@
     "freightTotal": 5437.5199999999995
   },
   {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "KOCHI",
+    "paxTo": 123895.0,
+    "paxFrom": 126113.0,
+    "paxTotal": 250008.0,
+    "freightTo": 606.95,
+    "freightFrom": 3107.38,
+    "freightTotal": 3714.33
+  },
+  {
     "date": "2015-01-01",
     "airport": "DUBAI",
     "destination": "KOLKATA",
@@ -56153,6 +57737,17 @@
     "freightTo": 757.87,
     "freightFrom": 3206.06,
     "freightTotal": 3963.93
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "KOLKATA",
+    "paxTo": 54644.0,
+    "paxFrom": 52385.0,
+    "paxTotal": 107029.0,
+    "freightTo": 740.06,
+    "freightFrom": 1992.03,
+    "freightTotal": 2732.09
   },
   {
     "date": "2015-01-01",
@@ -56628,6 +58223,17 @@
     "freightTotal": 981.76
   },
   {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "KOZHIKODE",
+    "paxTo": 66601.0,
+    "paxFrom": 66552.0,
+    "paxTotal": 133153.0,
+    "freightTo": 26.07,
+    "freightFrom": 714.17,
+    "freightTotal": 740.24
+  },
+  {
     "date": "2015-01-01",
     "airport": "DUBAI",
     "destination": "LUCKNOW",
@@ -57101,6 +58707,17 @@
     "freightTotal": 128.28
   },
   {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "LUCKNOW",
+    "paxTo": 24316.0,
+    "paxFrom": 22637.0,
+    "paxTotal": 46953.0,
+    "freightTo": 12.58,
+    "freightFrom": 70.71,
+    "freightTotal": 83.28999999999999
+  },
+  {
     "date": "2015-01-01",
     "airport": "DUBAI",
     "destination": "MADURAI",
@@ -57561,6 +59178,17 @@
     "freightTo": 0.54,
     "freightFrom": 75.77,
     "freightTotal": 76.31
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "MADURAI",
+    "paxTo": 10730.0,
+    "paxFrom": 10062.0,
+    "paxTotal": 20792.0,
+    "freightTo": 0.48,
+    "freightFrom": 126.01,
+    "freightTotal": 126.49000000000001
   },
   {
     "date": "2015-01-01",
@@ -58036,6 +59664,17 @@
     "freightTotal": 103.25999999999999
   },
   {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "MANGALORE",
+    "paxTo": 36868.0,
+    "paxFrom": 34723.0,
+    "paxTotal": 71591.0,
+    "freightTo": 91.21,
+    "freightFrom": 49.76,
+    "freightTotal": 140.97
+  },
+  {
     "date": "2015-01-01",
     "airport": "DUBAI",
     "destination": "MUMBAI",
@@ -58509,6 +60148,17 @@
     "freightTotal": 18600.739999999998
   },
   {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "MUMBAI",
+    "paxTo": 314465.0,
+    "paxFrom": 312486.0,
+    "paxTotal": 626951.0,
+    "freightTo": 7279.06,
+    "freightFrom": 13407.89,
+    "freightTotal": 20686.95
+  },
+  {
     "date": "2015-01-01",
     "airport": "DUBAI",
     "destination": "PUNE",
@@ -58938,6 +60588,17 @@
     "freightTotal": 6.88
   },
   {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "PUNE",
+    "paxTo": 29105.0,
+    "paxFrom": 29415.0,
+    "paxTotal": 58520.0,
+    "freightTo": 1.2,
+    "freightFrom": 45.9,
+    "freightTotal": 47.1
+  },
+  {
     "date": "2021-10-01",
     "airport": "DUBAI",
     "destination": "RAS AL-KHAIMAH",
@@ -59057,6 +60718,17 @@
     "freightTo": 87.05,
     "freightFrom": 199.16,
     "freightTotal": 286.21
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "SURAT",
+    "paxTo": 13904.0,
+    "paxFrom": 15017.0,
+    "paxTotal": 28921.0,
+    "freightTo": 213.41,
+    "freightFrom": 70.98,
+    "freightTotal": 284.39
   },
   {
     "date": "2015-01-01",
@@ -59532,6 +61204,17 @@
     "freightTotal": 203.04
   },
   {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "TIRUCHIRAPALLY",
+    "paxTo": 14164.0,
+    "paxFrom": 13825.0,
+    "paxTotal": 27989.0,
+    "freightTo": 83.32,
+    "freightFrom": 53.5,
+    "freightTotal": 136.82
+  },
+  {
     "date": "2015-01-01",
     "airport": "DUBAI",
     "destination": "TRIVANDRUM",
@@ -60003,6 +61686,17 @@
     "freightTo": 139.77,
     "freightFrom": 1961.75,
     "freightTotal": 2101.52
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DUBAI",
+    "destination": "TRIVANDRUM",
+    "paxTo": 37905.0,
+    "paxFrom": 40451.0,
+    "paxTotal": 78356.0,
+    "freightTo": 28.34,
+    "freightFrom": 1515.59,
+    "freightTotal": 1543.9299999999998
   },
   {
     "date": "2020-07-01",
@@ -60597,6 +62291,17 @@
     "freightTo": 0.0,
     "freightFrom": 32.62,
     "freightTotal": 32.62
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "DUSHANBE",
+    "destination": "DELHI",
+    "paxTo": 1528.0,
+    "paxFrom": 1788.0,
+    "paxTotal": 3316.0,
+    "freightTo": 2.25,
+    "freightFrom": 32.81,
+    "freightTotal": 35.06
   },
   {
     "date": "2021-04-01",
@@ -61248,6 +62953,17 @@
     "freightTotal": 2273.61
   },
   {
+    "date": "2025-10-01",
+    "airport": "FRANKFURT",
+    "destination": "BENGALURU",
+    "paxTo": 29614.0,
+    "paxFrom": 22164.0,
+    "paxTotal": 51778.0,
+    "freightTo": 1407.44,
+    "freightFrom": 989.3,
+    "freightTotal": 2396.74
+  },
+  {
     "date": "2015-01-01",
     "airport": "FRANKFURT",
     "destination": "CHENNAI",
@@ -61708,6 +63424,17 @@
     "freightTo": 696.74,
     "freightFrom": 754.07,
     "freightTotal": 1450.81
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "FRANKFURT",
+    "destination": "CHENNAI",
+    "paxTo": 16513.0,
+    "paxFrom": 13531.0,
+    "paxTotal": 30044.0,
+    "freightTo": 487.21,
+    "freightFrom": 784.44,
+    "freightTotal": 1271.65
   },
   {
     "date": "2015-01-01",
@@ -62183,6 +63910,17 @@
     "freightTotal": 7171.889999999999
   },
   {
+    "date": "2025-10-01",
+    "airport": "FRANKFURT",
+    "destination": "DELHI",
+    "paxTo": 75246.0,
+    "paxFrom": 62337.0,
+    "paxTotal": 137583.0,
+    "freightTo": 3145.61,
+    "freightFrom": 6335.63,
+    "freightTotal": 9481.24
+  },
+  {
     "date": "2020-04-01",
     "airport": "FRANKFURT",
     "destination": "GOA",
@@ -62621,6 +64359,17 @@
     "freightTo": 514.32,
     "freightFrom": 1947.25,
     "freightTotal": 2461.57
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "FRANKFURT",
+    "destination": "HYDERABAD",
+    "paxTo": 17591.0,
+    "paxFrom": 13634.0,
+    "paxTotal": 31225.0,
+    "freightTo": 505.78,
+    "freightFrom": 1802.58,
+    "freightTotal": 2308.3599999999997
   },
   {
     "date": "2020-04-01",
@@ -63261,6 +65010,17 @@
     "freightTotal": 9920.119999999999
   },
   {
+    "date": "2025-10-01",
+    "airport": "FRANKFURT",
+    "destination": "MUMBAI",
+    "paxTo": 39781.0,
+    "paxFrom": 30423.0,
+    "paxTotal": 70204.0,
+    "freightTo": 5400.11,
+    "freightFrom": 6191.25,
+    "freightTotal": 11591.36
+  },
+  {
     "date": "2021-07-01",
     "airport": "FRANKFURT",
     "destination": "OSTEND",
@@ -63514,6 +65274,17 @@
     "freightTotal": 0.0
   },
   {
+    "date": "2025-10-01",
+    "airport": "FUJAIRAH",
+    "destination": "KANNUR",
+    "paxTo": 13862.0,
+    "paxFrom": 15138.0,
+    "paxTotal": 29000.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
     "date": "2025-04-01",
     "airport": "FUJAIRAH",
     "destination": "KOCHI",
@@ -63602,12 +65373,34 @@
     "freightTotal": 12.96
   },
   {
+    "date": "2025-10-01",
+    "airport": "FUJAIRAH",
+    "destination": "MUMBAI",
+    "paxTo": 14246.0,
+    "paxFrom": 15703.0,
+    "paxTotal": 29949.0,
+    "freightTo": 0.0,
+    "freightFrom": 5.7,
+    "freightTotal": 5.7
+  },
+  {
     "date": "2024-04-01",
     "airport": "FUJAIRAH",
     "destination": "PUNE",
     "paxTo": 6.0,
     "paxFrom": 318.0,
     "paxTotal": 324.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "GELEPHU",
+    "destination": "KOLKATA",
+    "paxTo": 19.0,
+    "paxFrom": 8.0,
+    "paxTotal": 27.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -63688,6 +65481,17 @@
     "freightTo": 1310.48,
     "freightFrom": 0.0,
     "freightTotal": 1310.48
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "GUANGZHOU",
+    "destination": "BENGALURU",
+    "paxTo": 0.0,
+    "paxFrom": 0.0,
+    "paxTotal": 0.0,
+    "freightTo": 1409.28,
+    "freightFrom": 0.0,
+    "freightTotal": 1409.28
   },
   {
     "date": "2015-01-01",
@@ -64163,6 +65967,17 @@
     "freightTotal": 2798.37
   },
   {
+    "date": "2025-10-01",
+    "airport": "GUANGZHOU",
+    "destination": "DELHI",
+    "paxTo": 7984.0,
+    "paxFrom": 8240.0,
+    "paxTotal": 16224.0,
+    "freightTo": 2125.77,
+    "freightFrom": 229.77,
+    "freightTotal": 2355.54
+  },
+  {
     "date": "2020-04-01",
     "airport": "GUANGZHOU",
     "destination": "GUWAHATI",
@@ -64216,6 +66031,17 @@
     "freightTo": 873.07,
     "freightFrom": 35.0,
     "freightTotal": 908.07
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "GUANGZHOU",
+    "destination": "KOLKATA",
+    "paxTo": 11805.0,
+    "paxFrom": 9635.0,
+    "paxTotal": 21440.0,
+    "freightTo": 10.05,
+    "freightFrom": 118.08,
+    "freightTotal": 128.13
   },
   {
     "date": "2015-01-01",
@@ -64691,6 +66517,17 @@
     "freightTotal": 1695.98
   },
   {
+    "date": "2025-10-01",
+    "airport": "GUANGZHOU",
+    "destination": "MUMBAI",
+    "paxTo": 0.0,
+    "paxFrom": 0.0,
+    "paxTotal": 0.0,
+    "freightTo": 0.0,
+    "freightFrom": 295.12,
+    "freightTotal": 295.12
+  },
+  {
     "date": "2020-04-01",
     "airport": "HA'IL",
     "destination": "KOCHI",
@@ -65076,6 +66913,17 @@
     "freightTotal": 2.17
   },
   {
+    "date": "2025-10-01",
+    "airport": "HAA DHAALU ATOLL",
+    "destination": "TRIVANDRUM",
+    "paxTo": 782.0,
+    "paxFrom": 586.0,
+    "paxTotal": 1368.0,
+    "freightTo": 0.0,
+    "freightFrom": 2.94,
+    "freightTotal": 2.94
+  },
+  {
     "date": "2021-07-01",
     "airport": "HAMBURG",
     "destination": "DELHI",
@@ -65098,6 +66946,17 @@
     "freightTotal": 8.71
   },
   {
+    "date": "2025-10-01",
+    "airport": "HANOI",
+    "destination": "AHMEDABAD",
+    "paxTo": 11488.0,
+    "paxFrom": 12533.0,
+    "paxTotal": 24021.0,
+    "freightTo": 2.81,
+    "freightFrom": 26.39,
+    "freightTotal": 29.2
+  },
+  {
     "date": "2022-01-01",
     "airport": "HANOI",
     "destination": "ALASKA",
@@ -65118,6 +66977,17 @@
     "freightTo": 0.0,
     "freightFrom": 1.59,
     "freightTotal": 1.59
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "HANOI",
+    "destination": "BENGALURU",
+    "paxTo": 9066.0,
+    "paxFrom": 8718.0,
+    "paxTotal": 17784.0,
+    "freightTo": 30.84,
+    "freightFrom": 54.18,
+    "freightTotal": 85.02
   },
   {
     "date": "2020-07-01",
@@ -65439,6 +67309,17 @@
     "freightTotal": 2952.98
   },
   {
+    "date": "2025-10-01",
+    "airport": "HANOI",
+    "destination": "DELHI",
+    "paxTo": 26671.0,
+    "paxFrom": 27704.0,
+    "paxTotal": 54375.0,
+    "freightTo": 1983.09,
+    "freightFrom": 827.74,
+    "freightTotal": 2810.83
+  },
+  {
     "date": "2022-01-01",
     "airport": "HANOI",
     "destination": "FAIRBANKS",
@@ -65470,6 +67351,17 @@
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "HANOI",
+    "destination": "HYDERABAD",
+    "paxTo": 5478.0,
+    "paxFrom": 5875.0,
+    "paxTotal": 11353.0,
+    "freightTo": 10.81,
+    "freightFrom": 12.45,
+    "freightTotal": 23.259999999999998
   },
   {
     "date": "2019-10-01",
@@ -65703,6 +67595,17 @@
     "freightTotal": 168.4
   },
   {
+    "date": "2025-10-01",
+    "airport": "HANOI",
+    "destination": "KOLKATA",
+    "paxTo": 12927.0,
+    "paxFrom": 13353.0,
+    "paxTotal": 26280.0,
+    "freightTo": 37.21,
+    "freightFrom": 105.93,
+    "freightTotal": 143.14000000000001
+  },
+  {
     "date": "2021-01-01",
     "airport": "HANOI",
     "destination": "MUMBAI",
@@ -65844,6 +67747,17 @@
     "freightTo": 62.85,
     "freightFrom": 27.0,
     "freightTotal": 89.85
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "HANOI",
+    "destination": "MUMBAI",
+    "paxTo": 23740.0,
+    "paxFrom": 23601.0,
+    "paxTotal": 47341.0,
+    "freightTo": 157.98,
+    "freightFrom": 428.67,
+    "freightTotal": 586.65
   },
   {
     "date": "2022-01-01",
@@ -66330,6 +68244,17 @@
     "freightTotal": 1815.87
   },
   {
+    "date": "2025-10-01",
+    "airport": "HELNSKI",
+    "destination": "DELHI",
+    "paxTo": 21358.0,
+    "paxFrom": 17218.0,
+    "paxTotal": 38576.0,
+    "freightTo": 691.32,
+    "freightFrom": 898.39,
+    "freightTotal": 1589.71
+  },
+  {
     "date": "2021-04-01",
     "airport": "HELNSKI",
     "destination": "MADRID",
@@ -66440,6 +68365,17 @@
     "freightTotal": 0.0
   },
   {
+    "date": "2025-10-01",
+    "airport": "HO CHI MINH CITY",
+    "destination": "AHMEDABAD",
+    "paxTo": 17401.0,
+    "paxFrom": 16971.0,
+    "paxTotal": 34372.0,
+    "freightTo": 17.88,
+    "freightFrom": 31.99,
+    "freightTotal": 49.87
+  },
+  {
     "date": "2022-01-01",
     "airport": "HO CHI MINH CITY",
     "destination": "ALASKA",
@@ -66515,6 +68451,17 @@
     "freightTo": 693.19,
     "freightFrom": 0.0,
     "freightTotal": 693.19
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "HO CHI MINH CITY",
+    "destination": "BENGALURU",
+    "paxTo": 10211.0,
+    "paxFrom": 9068.0,
+    "paxTotal": 19279.0,
+    "freightTo": 34.12,
+    "freightFrom": 62.94,
+    "freightTotal": 97.06
   },
   {
     "date": "2020-07-01",
@@ -66935,6 +68882,17 @@
     "freightTotal": 1734.57
   },
   {
+    "date": "2025-10-01",
+    "airport": "HO CHI MINH CITY",
+    "destination": "DELHI",
+    "paxTo": 37366.0,
+    "paxFrom": 36734.0,
+    "paxTotal": 74100.0,
+    "freightTo": 1266.84,
+    "freightFrom": 445.78,
+    "freightTotal": 1712.62
+  },
+  {
     "date": "2025-04-01",
     "airport": "HO CHI MINH CITY",
     "destination": "HYDERABAD",
@@ -66957,6 +68915,17 @@
     "freightTotal": 29.91
   },
   {
+    "date": "2025-10-01",
+    "airport": "HO CHI MINH CITY",
+    "destination": "HYDERABAD",
+    "paxTo": 6222.0,
+    "paxFrom": 6296.0,
+    "paxTotal": 12518.0,
+    "freightTo": 0.01,
+    "freightFrom": 34.19,
+    "freightTotal": 34.199999999999996
+  },
+  {
     "date": "2020-04-01",
     "airport": "HO CHI MINH CITY",
     "destination": "KOCHI",
@@ -66966,6 +68935,17 @@
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "HO CHI MINH CITY",
+    "destination": "KOCHI",
+    "paxTo": 7206.0,
+    "paxFrom": 6967.0,
+    "paxTotal": 14173.0,
+    "freightTo": 0.42,
+    "freightFrom": 0.0,
+    "freightTotal": 0.42
   },
   {
     "date": "2019-10-01",
@@ -67221,6 +69201,17 @@
     "freightTotal": 223.88
   },
   {
+    "date": "2025-10-01",
+    "airport": "HO CHI MINH CITY",
+    "destination": "KOLKATA",
+    "paxTo": 14773.0,
+    "paxFrom": 14742.0,
+    "paxTotal": 29515.0,
+    "freightTo": 144.92,
+    "freightFrom": 306.15,
+    "freightTotal": 451.06999999999994
+  },
+  {
     "date": "2015-07-01",
     "airport": "HO CHI MINH CITY",
     "destination": "MUMBAI",
@@ -67450,6 +69441,17 @@
     "freightTo": 10.77,
     "freightFrom": 61.12,
     "freightTotal": 71.89
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "HO CHI MINH CITY",
+    "destination": "MUMBAI",
+    "paxTo": 19547.0,
+    "paxFrom": 19986.0,
+    "paxTotal": 39533.0,
+    "freightTo": 105.73,
+    "freightFrom": 291.78,
+    "freightTotal": 397.51
   },
   {
     "date": "2022-01-01",
@@ -67969,6 +69971,17 @@
     "freightTotal": 5114.070000000001
   },
   {
+    "date": "2025-10-01",
+    "airport": "HONG KONG",
+    "destination": "BENGALURU",
+    "paxTo": 23627.0,
+    "paxFrom": 22492.0,
+    "paxTotal": 46119.0,
+    "freightTo": 6575.74,
+    "freightFrom": 903.43,
+    "freightTotal": 7479.17
+  },
+  {
     "date": "2021-10-01",
     "airport": "HONG KONG",
     "destination": "BISHKEK",
@@ -68464,6 +70477,17 @@
     "freightTotal": 10412.92
   },
   {
+    "date": "2025-10-01",
+    "airport": "HONG KONG",
+    "destination": "CHENNAI",
+    "paxTo": 22191.0,
+    "paxFrom": 20037.0,
+    "paxTotal": 42228.0,
+    "freightTo": 6471.85,
+    "freightFrom": 3113.54,
+    "freightTotal": 9585.39
+  },
+  {
     "date": "2015-01-01",
     "airport": "HONG KONG",
     "destination": "DELHI",
@@ -68937,6 +70961,17 @@
     "freightTotal": 18811.14
   },
   {
+    "date": "2025-10-01",
+    "airport": "HONG KONG",
+    "destination": "DELHI",
+    "paxTo": 87822.0,
+    "paxFrom": 87454.0,
+    "paxTotal": 175276.0,
+    "freightTo": 14179.71,
+    "freightFrom": 3205.4,
+    "freightTotal": 17385.11
+  },
+  {
     "date": "2020-04-01",
     "airport": "HONG KONG",
     "destination": "DHAKA",
@@ -69375,6 +71410,17 @@
     "freightTo": 23.85,
     "freightFrom": 119.59,
     "freightTotal": 143.44
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "HONG KONG",
+    "destination": "HYDERABAD",
+    "paxTo": 21553.0,
+    "paxFrom": 18985.0,
+    "paxTotal": 40538.0,
+    "freightTo": 689.21,
+    "freightFrom": 382.46,
+    "freightTotal": 1071.67
   },
   {
     "date": "2015-07-01",
@@ -70167,6 +72213,17 @@
     "freightTo": 5753.3,
     "freightFrom": 3740.15,
     "freightTotal": 9493.45
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "HONG KONG",
+    "destination": "MUMBAI",
+    "paxTo": 43523.0,
+    "paxFrom": 44019.0,
+    "paxTotal": 87542.0,
+    "freightTo": 6444.62,
+    "freightFrom": 4122.34,
+    "freightTotal": 10566.96
   },
   {
     "date": "2021-04-01",
@@ -71291,6 +73348,17 @@
     "freightTotal": 3758.03
   },
   {
+    "date": "2025-10-01",
+    "airport": "ISTANBUL",
+    "destination": "BENGALURU",
+    "paxTo": 0.0,
+    "paxFrom": 0.0,
+    "paxTotal": 0.0,
+    "freightTo": 1465.3,
+    "freightFrom": 1350.99,
+    "freightTotal": 2816.29
+  },
+  {
     "date": "2020-01-01",
     "airport": "ISTANBUL",
     "destination": "CHENNAI",
@@ -71542,6 +73610,17 @@
     "freightTo": 2354.04,
     "freightFrom": 2597.26,
     "freightTotal": 4951.3
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ISTANBUL",
+    "destination": "CHENNAI",
+    "paxTo": 0.0,
+    "paxFrom": 0.0,
+    "paxTotal": 0.0,
+    "freightTo": 1901.14,
+    "freightFrom": 1769.82,
+    "freightTotal": 3670.96
   },
   {
     "date": "2015-01-01",
@@ -72017,6 +74096,17 @@
     "freightTotal": 4729.01
   },
   {
+    "date": "2025-10-01",
+    "airport": "ISTANBUL",
+    "destination": "DELHI",
+    "paxTo": 79808.0,
+    "paxFrom": 62837.0,
+    "paxTotal": 142645.0,
+    "freightTo": 1343.41,
+    "freightFrom": 1716.84,
+    "freightTotal": 3060.25
+  },
+  {
     "date": "2020-01-01",
     "airport": "ISTANBUL",
     "destination": "HYDERABAD",
@@ -72268,6 +74358,17 @@
     "freightTo": 528.03,
     "freightFrom": 2841.46,
     "freightTotal": 3369.49
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ISTANBUL",
+    "destination": "HYDERABAD",
+    "paxTo": 0.0,
+    "paxFrom": 0.0,
+    "paxTotal": 0.0,
+    "freightTo": 581.17,
+    "freightFrom": 2311.91,
+    "freightTotal": 2893.08
   },
   {
     "date": "2015-01-01",
@@ -72732,6 +74833,17 @@
     "freightTotal": 7409.81
   },
   {
+    "date": "2025-10-01",
+    "airport": "ISTANBUL",
+    "destination": "MUMBAI",
+    "paxTo": 77678.0,
+    "paxFrom": 52974.0,
+    "paxTotal": 130652.0,
+    "freightTo": 4470.18,
+    "freightFrom": 2776.82,
+    "freightTotal": 7247.0
+  },
+  {
     "date": "2021-07-01",
     "airport": "ISTANBUL",
     "destination": "TIRANA",
@@ -72897,6 +75009,17 @@
     "freightTotal": 0.0
   },
   {
+    "date": "2025-10-01",
+    "airport": "JAFFNA",
+    "destination": "CHENNAI",
+    "paxTo": 4635.0,
+    "paxFrom": 3247.0,
+    "paxTotal": 7882.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
     "date": "2025-01-01",
     "airport": "JAFFNA",
     "destination": "TIRUCHIRAPALLY",
@@ -72925,6 +75048,17 @@
     "paxTo": 3015.0,
     "paxFrom": 2404.0,
     "paxTotal": 5419.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "JAFFNA",
+    "destination": "TIRUCHIRAPALLY",
+    "paxTo": 1856.0,
+    "paxFrom": 1362.0,
+    "paxTotal": 3218.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -73115,6 +75249,17 @@
     "freightTo": 0.0,
     "freightFrom": 53.86,
     "freightTotal": 53.86
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "JEDDAH",
+    "destination": "AHMEDABAD",
+    "paxTo": 23763.0,
+    "paxFrom": 23476.0,
+    "paxTotal": 47239.0,
+    "freightTo": 0.12,
+    "freightFrom": 21.01,
+    "freightTotal": 21.130000000000003
   },
   {
     "date": "2015-01-01",
@@ -73544,6 +75689,17 @@
     "freightTo": 14.58,
     "freightFrom": 213.37,
     "freightTotal": 227.95000000000002
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "JEDDAH",
+    "destination": "BENGALURU",
+    "paxTo": 37639.0,
+    "paxFrom": 36566.0,
+    "paxTotal": 74205.0,
+    "freightTo": 179.15,
+    "freightFrom": 496.63,
+    "freightTotal": 675.78
   },
   {
     "date": "2015-01-01",
@@ -74316,6 +76472,17 @@
     "freightTotal": 1631.48
   },
   {
+    "date": "2025-10-01",
+    "airport": "JEDDAH",
+    "destination": "DELHI",
+    "paxTo": 81008.0,
+    "paxFrom": 78898.0,
+    "paxTotal": 159906.0,
+    "freightTo": 229.26,
+    "freightFrom": 1891.36,
+    "freightTotal": 2120.62
+  },
+  {
     "date": "2020-04-01",
     "airport": "JEDDAH",
     "destination": "GAYA",
@@ -74800,6 +76967,17 @@
     "freightTotal": 762.26
   },
   {
+    "date": "2025-10-01",
+    "airport": "JEDDAH",
+    "destination": "HYDERABAD",
+    "paxTo": 46074.0,
+    "paxFrom": 45357.0,
+    "paxTotal": 91431.0,
+    "freightTo": 74.03,
+    "freightFrom": 710.57,
+    "freightTotal": 784.6
+  },
+  {
     "date": "2020-04-01",
     "airport": "JEDDAH",
     "destination": "JAIPUR",
@@ -74963,6 +77141,17 @@
     "freightTo": 11.52,
     "freightFrom": 255.78,
     "freightTotal": 267.3
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "JEDDAH",
+    "destination": "KANNUR",
+    "paxTo": 1107.0,
+    "paxFrom": 1146.0,
+    "paxTotal": 2253.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.24,
+    "freightTotal": 0.24
   },
   {
     "date": "2015-01-01",
@@ -75427,6 +77616,17 @@
     "freightTotal": 827.45
   },
   {
+    "date": "2025-10-01",
+    "airport": "JEDDAH",
+    "destination": "KOCHI",
+    "paxTo": 26788.0,
+    "paxFrom": 28624.0,
+    "paxTotal": 55412.0,
+    "freightTo": 173.18,
+    "freightFrom": 748.07,
+    "freightTotal": 921.25
+  },
+  {
     "date": "2015-01-01",
     "airport": "JEDDAH",
     "destination": "KOZHIKODE",
@@ -75865,6 +78065,17 @@
     "freightTo": 4.24,
     "freightFrom": 422.17,
     "freightTotal": 426.41
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "JEDDAH",
+    "destination": "KOZHIKODE",
+    "paxTo": 29955.0,
+    "paxFrom": 29112.0,
+    "paxTotal": 59067.0,
+    "freightTo": 15.31,
+    "freightFrom": 340.58,
+    "freightTotal": 355.89
   },
   {
     "date": "2015-01-01",
@@ -76340,6 +78551,17 @@
     "freightTotal": 266.17
   },
   {
+    "date": "2025-10-01",
+    "airport": "JEDDAH",
+    "destination": "LUCKNOW",
+    "paxTo": 23041.0,
+    "paxFrom": 20258.0,
+    "paxTotal": 43299.0,
+    "freightTo": 5.73,
+    "freightFrom": 263.5,
+    "freightTotal": 269.23
+  },
+  {
     "date": "2020-07-01",
     "airport": "JEDDAH",
     "destination": "MANGALORE",
@@ -76415,6 +78637,17 @@
     "freightTo": 48.36,
     "freightFrom": 0.0,
     "freightTotal": 48.36
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "JEDDAH",
+    "destination": "MANGALORE",
+    "paxTo": 4805.0,
+    "paxFrom": 5572.0,
+    "paxTotal": 10377.0,
+    "freightTo": 23.55,
+    "freightFrom": 0.0,
+    "freightTotal": 23.55
   },
   {
     "date": "2015-01-01",
@@ -76888,6 +79121,17 @@
     "freightTo": 181.02,
     "freightFrom": 1809.33,
     "freightTotal": 1990.35
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "JEDDAH",
+    "destination": "MUMBAI",
+    "paxTo": 111169.0,
+    "paxFrom": 109229.0,
+    "paxTotal": 220398.0,
+    "freightTo": 233.03,
+    "freightFrom": 1551.29,
+    "freightTotal": 1784.32
   },
   {
     "date": "2020-04-01",
@@ -77660,6 +79904,17 @@
     "freightTotal": 1053.49
   },
   {
+    "date": "2025-10-01",
+    "airport": "KABUL",
+    "destination": "DELHI",
+    "paxTo": 423.0,
+    "paxFrom": 481.0,
+    "paxTotal": 904.0,
+    "freightTo": 768.69,
+    "freightFrom": 291.11,
+    "freightTotal": 1059.8000000000002
+  },
+  {
     "date": "2024-04-01",
     "airport": "KABUL",
     "destination": "HYDERABAD",
@@ -78386,6 +80641,17 @@
     "freightTotal": 170.61
   },
   {
+    "date": "2025-10-01",
+    "airport": "KATHMANDU",
+    "destination": "BENGALURU",
+    "paxTo": 16743.0,
+    "paxFrom": 13468.0,
+    "paxTotal": 30211.0,
+    "freightTo": 45.69,
+    "freightFrom": 84.41,
+    "freightTotal": 130.1
+  },
+  {
     "date": "2015-01-01",
     "airport": "KATHMANDU",
     "destination": "DELHI",
@@ -78859,6 +81125,17 @@
     "freightTotal": 443.49
   },
   {
+    "date": "2025-10-01",
+    "airport": "KATHMANDU",
+    "destination": "DELHI",
+    "paxTo": 134153.0,
+    "paxFrom": 119728.0,
+    "paxTotal": 253881.0,
+    "freightTo": 227.87,
+    "freightFrom": 234.93,
+    "freightTotal": 462.8
+  },
+  {
     "date": "2015-01-01",
     "airport": "KATHMANDU",
     "destination": "KOLKATA",
@@ -79242,6 +81519,17 @@
     "freightTo": 0.9,
     "freightFrom": 0.2,
     "freightTotal": 1.1
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "KATHMANDU",
+    "destination": "KOLKATA",
+    "paxTo": 2116.0,
+    "paxFrom": 1895.0,
+    "paxTotal": 4011.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
   },
   {
     "date": "2015-01-01",
@@ -79629,6 +81917,17 @@
     "freightTotal": 25.830000000000002
   },
   {
+    "date": "2025-10-01",
+    "airport": "KATHMANDU",
+    "destination": "MUMBAI",
+    "paxTo": 18483.0,
+    "paxFrom": 16916.0,
+    "paxTotal": 35399.0,
+    "freightTo": 0.85,
+    "freightFrom": 33.05,
+    "freightTotal": 33.9
+  },
+  {
     "date": "2015-01-01",
     "airport": "KATHMANDU",
     "destination": "VARANASI",
@@ -79998,6 +82297,17 @@
     "paxTo": 922.0,
     "paxFrom": 846.0,
     "paxTotal": 1768.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "KATHMANDU",
+    "destination": "VARANASI",
+    "paxTo": 1873.0,
+    "paxFrom": 1834.0,
+    "paxTotal": 3707.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -80751,6 +83061,28 @@
     "freightTotal": 0.0
   },
   {
+    "date": "2025-10-01",
+    "airport": "KRABI",
+    "destination": "BENGALURU",
+    "paxTo": 7323.0,
+    "paxFrom": 5046.0,
+    "paxTotal": 12369.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "KRABI",
+    "destination": "DELHI",
+    "paxTo": 4104.0,
+    "paxFrom": 3366.0,
+    "paxTotal": 7470.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
     "date": "2025-01-01",
     "airport": "KRABI",
     "destination": "MUMBAI",
@@ -80779,6 +83111,17 @@
     "paxTo": 10133.0,
     "paxFrom": 9817.0,
     "paxTotal": 19950.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "KRABI",
+    "destination": "MUMBAI",
+    "paxTo": 12292.0,
+    "paxFrom": 13769.0,
+    "paxTotal": 26061.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -80881,6 +83224,17 @@
     "freightTo": 187.11,
     "freightFrom": 223.13,
     "freightTotal": 410.24
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "KUALALUMPUR",
+    "destination": "AHMEDABAD",
+    "paxTo": 18110.0,
+    "paxFrom": 15859.0,
+    "paxTotal": 33969.0,
+    "freightTo": 284.78,
+    "freightFrom": 345.86,
+    "freightTotal": 630.64
   },
   {
     "date": "2015-10-01",
@@ -81233,6 +83587,17 @@
     "freightTo": 354.38,
     "freightFrom": 373.6,
     "freightTotal": 727.98
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "KUALALUMPUR",
+    "destination": "AMRITSAR",
+    "paxTo": 25235.0,
+    "paxFrom": 21627.0,
+    "paxTotal": 46862.0,
+    "freightTo": 434.85,
+    "freightFrom": 412.23,
+    "freightTotal": 847.08
   },
   {
     "date": "2015-01-01",
@@ -81706,6 +84071,17 @@
     "freightTo": 605.11,
     "freightFrom": 726.59,
     "freightTotal": 1331.7
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "KUALALUMPUR",
+    "destination": "BENGALURU",
+    "paxTo": 51402.0,
+    "paxFrom": 48841.0,
+    "paxTotal": 100243.0,
+    "freightTo": 696.25,
+    "freightFrom": 702.83,
+    "freightTotal": 1399.08
   },
   {
     "date": "2017-04-01",
@@ -82346,6 +84722,17 @@
     "freightTotal": 1737.85
   },
   {
+    "date": "2025-10-01",
+    "airport": "KUALALUMPUR",
+    "destination": "CHENNAI",
+    "paxTo": 74327.0,
+    "paxFrom": 68457.0,
+    "paxTotal": 142784.0,
+    "freightTo": 742.42,
+    "freightFrom": 1059.49,
+    "freightTotal": 1801.9099999999999
+  },
+  {
     "date": "2015-01-01",
     "airport": "KUALALUMPUR",
     "destination": "DELHI",
@@ -82817,6 +85204,17 @@
     "freightTo": 1529.05,
     "freightFrom": 1821.63,
     "freightTotal": 3350.6800000000003
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "KUALALUMPUR",
+    "destination": "DELHI",
+    "paxTo": 77995.0,
+    "paxFrom": 73906.0,
+    "paxTotal": 151901.0,
+    "freightTo": 1566.63,
+    "freightFrom": 1858.93,
+    "freightTotal": 3425.5600000000004
   },
   {
     "date": "2015-07-01",
@@ -83369,6 +85767,17 @@
     "freightTotal": 942.1800000000001
   },
   {
+    "date": "2025-10-01",
+    "airport": "KUALALUMPUR",
+    "destination": "HYDERABAD",
+    "paxTo": 29144.0,
+    "paxFrom": 27611.0,
+    "paxTotal": 56755.0,
+    "freightTo": 444.72,
+    "freightFrom": 582.47,
+    "freightTotal": 1027.19
+  },
+  {
     "date": "2019-07-01",
     "airport": "KUALALUMPUR",
     "destination": "JAIPUR",
@@ -83463,6 +85872,17 @@
     "paxTo": 3659.0,
     "paxFrom": 3056.0,
     "paxTotal": 6715.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "KUALALUMPUR",
+    "destination": "JAIPUR",
+    "paxTo": 5143.0,
+    "paxFrom": 3922.0,
+    "paxTotal": 9065.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -83941,6 +86361,17 @@
     "freightTotal": 926.0
   },
   {
+    "date": "2025-10-01",
+    "airport": "KUALALUMPUR",
+    "destination": "KOCHI",
+    "paxTo": 46507.0,
+    "paxFrom": 38900.0,
+    "paxTotal": 85407.0,
+    "freightTo": 425.58,
+    "freightFrom": 521.53,
+    "freightTotal": 947.1099999999999
+  },
+  {
     "date": "2015-01-01",
     "airport": "KUALALUMPUR",
     "destination": "KOLKATA",
@@ -84359,6 +86790,17 @@
     "freightTotal": 778.51
   },
   {
+    "date": "2025-10-01",
+    "airport": "KUALALUMPUR",
+    "destination": "KOLKATA",
+    "paxTo": 25525.0,
+    "paxFrom": 24829.0,
+    "paxTotal": 50354.0,
+    "freightTo": 309.83,
+    "freightFrom": 438.5,
+    "freightTotal": 748.3299999999999
+  },
+  {
     "date": "2024-07-01",
     "airport": "KUALALUMPUR",
     "destination": "KOZHIKODE",
@@ -84409,6 +86851,17 @@
     "paxTo": 6636.0,
     "paxFrom": 6201.0,
     "paxTotal": 12837.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "KUALALUMPUR",
+    "destination": "KOZHIKODE",
+    "paxTo": 7138.0,
+    "paxFrom": 6059.0,
+    "paxTotal": 13197.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -84475,6 +86928,17 @@
     "paxTo": 4565.0,
     "paxFrom": 4889.0,
     "paxTotal": 9454.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "KUALALUMPUR",
+    "destination": "LUCKNOW",
+    "paxTo": 6824.0,
+    "paxFrom": 6556.0,
+    "paxTotal": 13380.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -84964,6 +87428,17 @@
     "freightTotal": 2832.98
   },
   {
+    "date": "2025-10-01",
+    "airport": "KUALALUMPUR",
+    "destination": "MUMBAI",
+    "paxTo": 41187.0,
+    "paxFrom": 41900.0,
+    "paxTotal": 83087.0,
+    "freightTo": 1345.73,
+    "freightFrom": 1244.04,
+    "freightTotal": 2589.77
+  },
+  {
     "date": "2015-01-01",
     "airport": "KUALALUMPUR",
     "destination": "TIRUCHIRAPALLY",
@@ -85437,6 +87912,17 @@
     "freightTotal": 406.40999999999997
   },
   {
+    "date": "2025-10-01",
+    "airport": "KUALALUMPUR",
+    "destination": "TIRUCHIRAPALLY",
+    "paxTo": 47828.0,
+    "paxFrom": 38991.0,
+    "paxTotal": 86819.0,
+    "freightTo": 3.8,
+    "freightFrom": 322.26,
+    "freightTotal": 326.06
+  },
+  {
     "date": "2015-07-01",
     "airport": "KUALALUMPUR",
     "destination": "TRIVANDRUM",
@@ -85732,6 +88218,17 @@
     "freightTo": 253.35,
     "freightFrom": 289.61,
     "freightTotal": 542.96
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "KUALALUMPUR",
+    "destination": "TRIVANDRUM",
+    "paxTo": 18786.0,
+    "paxFrom": 18306.0,
+    "paxTotal": 37092.0,
+    "freightTo": 339.55,
+    "freightFrom": 380.74,
+    "freightTotal": 720.29
   },
   {
     "date": "2019-10-01",
@@ -87263,6 +89760,17 @@
     "freightTotal": 131.35999999999999
   },
   {
+    "date": "2025-10-01",
+    "airport": "KUWAIT",
+    "destination": "AHMEDABAD",
+    "paxTo": 29571.0,
+    "paxFrom": 26959.0,
+    "paxTotal": 56530.0,
+    "freightTo": 0.51,
+    "freightFrom": 234.02,
+    "freightTotal": 234.53
+  },
+  {
     "date": "2020-04-01",
     "airport": "KUWAIT",
     "destination": "AMRITSAR",
@@ -87734,6 +90242,17 @@
     "freightTo": 0.13,
     "freightFrom": 111.24,
     "freightTotal": 111.36999999999999
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "KUWAIT",
+    "destination": "BENGALURU",
+    "paxTo": 14896.0,
+    "paxFrom": 15617.0,
+    "paxTotal": 30513.0,
+    "freightTo": 0.6,
+    "freightFrom": 318.25,
+    "freightTotal": 318.85
   },
   {
     "date": "2020-04-01",
@@ -88253,6 +90772,17 @@
     "freightTotal": 210.13
   },
   {
+    "date": "2025-10-01",
+    "airport": "KUWAIT",
+    "destination": "CHENNAI",
+    "paxTo": 18950.0,
+    "paxFrom": 17901.0,
+    "paxTotal": 36851.0,
+    "freightTo": 2.15,
+    "freightFrom": 155.19,
+    "freightTotal": 157.34
+  },
+  {
     "date": "2019-07-01",
     "airport": "KUWAIT",
     "destination": "COIMBATORE",
@@ -88746,6 +91276,17 @@
     "freightTo": 85.05,
     "freightFrom": 454.95,
     "freightTotal": 540.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "KUWAIT",
+    "destination": "DELHI",
+    "paxTo": 44963.0,
+    "paxFrom": 42101.0,
+    "paxTotal": 87064.0,
+    "freightTo": 13.54,
+    "freightFrom": 557.1,
+    "freightTotal": 570.64
   },
   {
     "date": "2020-04-01",
@@ -89527,6 +92068,17 @@
     "freightTo": 0.8,
     "freightFrom": 113.93,
     "freightTotal": 114.73
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "KUWAIT",
+    "destination": "HYDERABAD",
+    "paxTo": 29338.0,
+    "paxFrom": 29020.0,
+    "paxTotal": 58358.0,
+    "freightTo": 14.19,
+    "freightFrom": 137.02,
+    "freightTotal": 151.21
   },
   {
     "date": "2020-07-01",
@@ -90341,6 +92893,17 @@
     "freightTo": 0.27,
     "freightFrom": 1103.33,
     "freightTotal": 1103.6
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "KUWAIT",
+    "destination": "KOCHI",
+    "paxTo": 43590.0,
+    "paxFrom": 44139.0,
+    "paxTotal": 87729.0,
+    "freightTo": 8.49,
+    "freightFrom": 1048.01,
+    "freightTotal": 1056.5
   },
   {
     "date": "2020-04-01",
@@ -91388,6 +93951,17 @@
     "freightTotal": 99.46
   },
   {
+    "date": "2025-10-01",
+    "airport": "KUWAIT",
+    "destination": "MANGALORE",
+    "paxTo": 4405.0,
+    "paxFrom": 4553.0,
+    "paxTotal": 8958.0,
+    "freightTo": 10.58,
+    "freightFrom": 84.88,
+    "freightTotal": 95.46
+  },
+  {
     "date": "2015-01-01",
     "airport": "KUWAIT",
     "destination": "MUMBAI",
@@ -91859,6 +94433,17 @@
     "freightTo": 2.34,
     "freightFrom": 1258.57,
     "freightTotal": 1260.9099999999999
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "KUWAIT",
+    "destination": "MUMBAI",
+    "paxTo": 63535.0,
+    "paxFrom": 65072.0,
+    "paxTotal": 128607.0,
+    "freightTo": 2.68,
+    "freightFrom": 1454.57,
+    "freightTotal": 1457.25
   },
   {
     "date": "2020-04-01",
@@ -92576,6 +95161,17 @@
     "freightTotal": 106.13
   },
   {
+    "date": "2025-10-01",
+    "airport": "KUWAIT",
+    "destination": "TRIVANDRUM",
+    "paxTo": 10960.0,
+    "paxFrom": 11058.0,
+    "paxTotal": 22018.0,
+    "freightTo": 0.0,
+    "freightFrom": 121.78,
+    "freightTotal": 121.78
+  },
+  {
     "date": "2020-07-01",
     "airport": "KUWAIT",
     "destination": "VIJAYAWADA",
@@ -92934,6 +95530,17 @@
     "paxTo": 11144.0,
     "paxFrom": 10005.0,
     "paxTotal": 21149.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "LANGKAWI",
+    "destination": "BENGALURU",
+    "paxTo": 16474.0,
+    "paxFrom": 12893.0,
+    "paxTotal": 29367.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -93500,6 +96107,17 @@
     "freightTotal": 6096.27
   },
   {
+    "date": "2025-10-01",
+    "airport": "LEIPZIG",
+    "destination": "BENGALURU",
+    "paxTo": 0.0,
+    "paxFrom": 0.0,
+    "paxTotal": 0.0,
+    "freightTo": 0.0,
+    "freightFrom": 5831.68,
+    "freightTotal": 5831.68
+  },
+  {
     "date": "2015-01-01",
     "airport": "LEIPZIG",
     "destination": "DELHI",
@@ -93960,6 +96578,17 @@
     "freightTo": 2200.26,
     "freightFrom": 2367.92,
     "freightTotal": 4568.18
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "LEIPZIG",
+    "destination": "DELHI",
+    "paxTo": 0.0,
+    "paxFrom": 0.0,
+    "paxTotal": 0.0,
+    "freightTo": 3937.2,
+    "freightFrom": 1488.54,
+    "freightTotal": 5425.74
   },
   {
     "date": "2016-04-01",
@@ -94578,6 +97207,17 @@
     "freightTotal": 992.4100000000001
   },
   {
+    "date": "2025-10-01",
+    "airport": "LONDON",
+    "destination": "AHMEDABAD",
+    "paxTo": 9544.0,
+    "paxFrom": 7511.0,
+    "paxTotal": 17055.0,
+    "freightTo": 236.57,
+    "freightFrom": 316.48,
+    "freightTotal": 553.05
+  },
+  {
     "date": "2015-01-01",
     "airport": "LONDON",
     "destination": "AMRITSAR",
@@ -94928,6 +97568,17 @@
     "freightTo": 0.64,
     "freightFrom": 118.06,
     "freightTotal": 118.7
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "LONDON",
+    "destination": "AMRITSAR",
+    "paxTo": 7030.0,
+    "paxFrom": 5955.0,
+    "paxTotal": 12985.0,
+    "freightTo": 0.0,
+    "freightFrom": 66.69,
+    "freightTotal": 66.69
   },
   {
     "date": "2015-01-01",
@@ -95403,6 +98054,17 @@
     "freightTotal": 6377.21
   },
   {
+    "date": "2025-10-01",
+    "airport": "LONDON",
+    "destination": "BENGALURU",
+    "paxTo": 64331.0,
+    "paxFrom": 43189.0,
+    "paxTotal": 107520.0,
+    "freightTo": 2530.19,
+    "freightFrom": 3963.53,
+    "freightTotal": 6493.72
+  },
+  {
     "date": "2020-07-01",
     "airport": "LONDON",
     "destination": "BHUBANESWAR",
@@ -95863,6 +98525,17 @@
     "freightTo": 517.39,
     "freightFrom": 1249.37,
     "freightTotal": 1766.7599999999998
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "LONDON",
+    "destination": "CHENNAI",
+    "paxTo": 17652.0,
+    "paxFrom": 13748.0,
+    "paxTotal": 31400.0,
+    "freightTo": 542.7,
+    "freightFrom": 1273.29,
+    "freightTotal": 1815.99
   },
   {
     "date": "2015-01-01",
@@ -96336,6 +99009,17 @@
     "freightTo": 5787.18,
     "freightFrom": 12613.47,
     "freightTotal": 18400.65
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "LONDON",
+    "destination": "DELHI",
+    "paxTo": 216823.0,
+    "paxFrom": 177065.0,
+    "paxTotal": 393888.0,
+    "freightTo": 9723.29,
+    "freightFrom": 13775.77,
+    "freightTotal": 23499.06
   },
   {
     "date": "2020-04-01",
@@ -97185,6 +99869,17 @@
     "freightTotal": 1289.08
   },
   {
+    "date": "2025-10-01",
+    "airport": "LONDON",
+    "destination": "HYDERABAD",
+    "paxTo": 19414.0,
+    "paxFrom": 17920.0,
+    "paxTotal": 37334.0,
+    "freightTo": 393.73,
+    "freightFrom": 859.32,
+    "freightTotal": 1253.0500000000002
+  },
+  {
     "date": "2023-04-01",
     "airport": "LONDON",
     "destination": "JAIPUR",
@@ -97933,6 +100628,17 @@
     "freightTotal": 17623.64
   },
   {
+    "date": "2025-10-01",
+    "airport": "LONDON",
+    "destination": "MUMBAI",
+    "paxTo": 186388.0,
+    "paxFrom": 126965.0,
+    "paxTotal": 313353.0,
+    "freightTo": 8029.74,
+    "freightFrom": 12994.97,
+    "freightTotal": 21024.71
+  },
+  {
     "date": "2020-07-01",
     "airport": "LONDON",
     "destination": "VIJAYAWADA",
@@ -98492,6 +101198,17 @@
     "freightTo": 127.62,
     "freightFrom": 315.64,
     "freightTotal": 443.26
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "LUXEMBOURG",
+    "destination": "DELHI",
+    "paxTo": 0.0,
+    "paxFrom": 0.0,
+    "paxTotal": 0.0,
+    "freightTo": 187.95,
+    "freightFrom": 377.33,
+    "freightTotal": 565.28
   },
   {
     "date": "2016-04-01",
@@ -99462,6 +102179,17 @@
     "freightTotal": 328.46
   },
   {
+    "date": "2025-10-01",
+    "airport": "MALE",
+    "destination": "BENGALURU",
+    "paxTo": 18703.0,
+    "paxFrom": 17524.0,
+    "paxTotal": 36227.0,
+    "freightTo": 0.16,
+    "freightFrom": 322.43,
+    "freightTotal": 322.59000000000003
+  },
+  {
     "date": "2020-04-01",
     "airport": "MALE",
     "destination": "BHUBANESWAR",
@@ -100177,6 +102905,17 @@
     "freightTotal": 140.03
   },
   {
+    "date": "2025-10-01",
+    "airport": "MALE",
+    "destination": "DELHI",
+    "paxTo": 10988.0,
+    "paxFrom": 10802.0,
+    "paxTotal": 21790.0,
+    "freightTo": 0.61,
+    "freightFrom": 62.3,
+    "freightTotal": 62.91
+  },
+  {
     "date": "2019-04-01",
     "airport": "MALE",
     "destination": "DHAKA",
@@ -100804,6 +103543,17 @@
     "freightTotal": 255.79
   },
   {
+    "date": "2025-10-01",
+    "airport": "MALE",
+    "destination": "KOCHI",
+    "paxTo": 20504.0,
+    "paxFrom": 15751.0,
+    "paxTotal": 36255.0,
+    "freightTo": 1.31,
+    "freightFrom": 259.98,
+    "freightTotal": 261.29
+  },
+  {
     "date": "2020-04-01",
     "airport": "MALE",
     "destination": "KOLKATA",
@@ -101209,6 +103959,17 @@
     "freightTo": 20.52,
     "freightFrom": 131.97,
     "freightTotal": 152.49
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "MALE",
+    "destination": "MUMBAI",
+    "paxTo": 15040.0,
+    "paxFrom": 14441.0,
+    "paxTotal": 29481.0,
+    "freightTo": 0.19,
+    "freightFrom": 145.96,
+    "freightTotal": 146.15
   },
   {
     "date": "2020-10-01",
@@ -101737,6 +104498,17 @@
     "freightTo": 0.33,
     "freightFrom": 87.23,
     "freightTotal": 87.56
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "MALE",
+    "destination": "TRIVANDRUM",
+    "paxTo": 10112.0,
+    "paxFrom": 8471.0,
+    "paxTotal": 18583.0,
+    "freightTo": 0.16,
+    "freightFrom": 85.78,
+    "freightTotal": 85.94
   },
   {
     "date": "2020-07-01",
@@ -102388,6 +105160,17 @@
     "freightTotal": 35.45
   },
   {
+    "date": "2025-10-01",
+    "airport": "MANCHESTER",
+    "destination": "DELHI",
+    "paxTo": 8488.0,
+    "paxFrom": 4987.0,
+    "paxTotal": 13475.0,
+    "freightTo": 51.63,
+    "freightFrom": 374.05,
+    "freightTotal": 425.68
+  },
+  {
     "date": "2015-10-01",
     "airport": "MANCHESTER",
     "destination": "GOA",
@@ -102551,6 +105334,17 @@
     "freightTo": 243.78,
     "freightFrom": 218.15,
     "freightTotal": 461.93
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "MANCHESTER",
+    "destination": "MUMBAI",
+    "paxTo": 13116.0,
+    "paxFrom": 8724.0,
+    "paxTotal": 21840.0,
+    "freightTo": 216.33,
+    "freightFrom": 359.73,
+    "freightTotal": 576.0600000000001
   },
   {
     "date": "2015-01-01",
@@ -102771,6 +105565,17 @@
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "MANILA",
+    "destination": "DELHI",
+    "paxTo": 9871.0,
+    "paxFrom": 10928.0,
+    "paxTotal": 20799.0,
+    "freightTo": 84.47,
+    "freightFrom": 103.95,
+    "freightTotal": 188.42000000000002
   },
   {
     "date": "2020-04-01",
@@ -104643,6 +107448,17 @@
     "freightTotal": 0.0
   },
   {
+    "date": "2025-10-01",
+    "airport": "MEDINA",
+    "destination": "HYDERABAD",
+    "paxTo": 11733.0,
+    "paxFrom": 11461.0,
+    "paxTotal": 23194.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
     "date": "2015-01-01",
     "airport": "MEDINA",
     "destination": "KOCHI",
@@ -105004,6 +107820,17 @@
     "freightTo": 0.24,
     "freightFrom": 0.0,
     "freightTotal": 0.24
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "MEDINA",
+    "destination": "MUMBAI",
+    "paxTo": 7346.0,
+    "paxFrom": 7530.0,
+    "paxTotal": 14876.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
   },
   {
     "date": "2023-07-01",
@@ -105501,6 +108328,17 @@
     "freightTotal": 1862.6599999999999
   },
   {
+    "date": "2025-10-01",
+    "airport": "MELBOURNE",
+    "destination": "DELHI",
+    "paxTo": 27846.0,
+    "paxFrom": 26230.0,
+    "paxTotal": 54076.0,
+    "freightTo": 694.49,
+    "freightFrom": 1652.01,
+    "freightTotal": 2346.5
+  },
+  {
     "date": "2022-01-01",
     "airport": "MELBOURNE",
     "destination": "HONG KONG",
@@ -105842,6 +108680,17 @@
     "freightTotal": 0.0
   },
   {
+    "date": "2025-10-01",
+    "airport": "MILAN",
+    "destination": "AMRITSAR",
+    "paxTo": 326.0,
+    "paxFrom": 917.0,
+    "paxTotal": 1243.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
     "date": "2023-04-01",
     "airport": "MILAN",
     "destination": "DELHI",
@@ -105952,6 +108801,17 @@
     "freightTotal": 1819.2
   },
   {
+    "date": "2025-10-01",
+    "airport": "MILAN",
+    "destination": "DELHI",
+    "paxTo": 20134.0,
+    "paxFrom": 15720.0,
+    "paxTotal": 35854.0,
+    "freightTo": 2550.57,
+    "freightFrom": 3049.77,
+    "freightTotal": 5600.34
+  },
+  {
     "date": "2023-04-01",
     "airport": "MILAN",
     "destination": "MUMBAI",
@@ -105974,6 +108834,17 @@
     "freightTotal": 875.75
   },
   {
+    "date": "2025-10-01",
+    "airport": "MILAN",
+    "destination": "MUMBAI",
+    "paxTo": 0.0,
+    "paxFrom": 0.0,
+    "paxTotal": 0.0,
+    "freightTo": 0.0,
+    "freightFrom": 214.11,
+    "freightTotal": 214.11
+  },
+  {
     "date": "2024-07-01",
     "airport": "MILAN BERGAMO",
     "destination": "AMRITSAR",
@@ -105983,6 +108854,17 @@
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "MINSK",
+    "destination": "DELHI",
+    "paxTo": 1738.0,
+    "paxFrom": 1516.0,
+    "paxTotal": 3254.0,
+    "freightTo": 5.19,
+    "freightFrom": 13.14,
+    "freightTotal": 18.330000000000002
   },
   {
     "date": "2021-10-01",
@@ -106159,6 +109041,17 @@
     "freightTo": 19.62,
     "freightFrom": 100.55,
     "freightTotal": 120.17
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "MONTREAL",
+    "destination": "DELHI",
+    "paxTo": 18632.0,
+    "paxFrom": 14179.0,
+    "paxTotal": 32811.0,
+    "freightTo": 27.47,
+    "freightFrom": 231.22,
+    "freightTotal": 258.69
   },
   {
     "date": "2024-01-01",
@@ -106733,6 +109626,17 @@
     "freightTotal": 242.32
   },
   {
+    "date": "2025-10-01",
+    "airport": "MOSCOW",
+    "destination": "DELHI",
+    "paxTo": 25604.0,
+    "paxFrom": 24944.0,
+    "paxTotal": 50548.0,
+    "freightTo": 113.74,
+    "freightFrom": 353.9,
+    "freightTotal": 467.64
+  },
+  {
     "date": "2020-04-01",
     "airport": "MOSCOW",
     "destination": "GAYA",
@@ -107006,6 +109910,17 @@
     "freightTo": 6.99,
     "freightFrom": 177.85,
     "freightTotal": 184.84
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "MOSCOW",
+    "destination": "GOA",
+    "paxTo": 7844.0,
+    "paxFrom": 7272.0,
+    "paxTotal": 15116.0,
+    "freightTo": 10.15,
+    "freightFrom": 54.89,
+    "freightTotal": 65.04
   },
   {
     "date": "2020-04-01",
@@ -107910,6 +110825,17 @@
     "freightTotal": 1774.0500000000002
   },
   {
+    "date": "2025-10-01",
+    "airport": "MUNICH",
+    "destination": "BENGALURU",
+    "paxTo": 22290.0,
+    "paxFrom": 17352.0,
+    "paxTotal": 39642.0,
+    "freightTo": 788.75,
+    "freightFrom": 1252.36,
+    "freightTotal": 2041.11
+  },
+  {
     "date": "2023-04-01",
     "airport": "MUNICH",
     "destination": "DELHI",
@@ -108020,6 +110946,17 @@
     "freightTotal": 1336.8899999999999
   },
   {
+    "date": "2025-10-01",
+    "airport": "MUNICH",
+    "destination": "DELHI",
+    "paxTo": 37719.0,
+    "paxFrom": 32014.0,
+    "paxTotal": 69733.0,
+    "freightTo": 515.09,
+    "freightFrom": 1016.54,
+    "freightTotal": 1531.63
+  },
+  {
     "date": "2023-04-01",
     "airport": "MUNICH",
     "destination": "MUMBAI",
@@ -108128,6 +111065,17 @@
     "freightTo": 1174.13,
     "freightFrom": 1400.07,
     "freightTotal": 2574.2
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "MUNICH",
+    "destination": "MUMBAI",
+    "paxTo": 27349.0,
+    "paxFrom": 21134.0,
+    "paxTotal": 48483.0,
+    "freightTo": 1041.16,
+    "freightFrom": 1279.51,
+    "freightTotal": 2320.67
   },
   {
     "date": "2015-01-01",
@@ -108944,6 +111892,17 @@
     "freightTotal": 245.38
   },
   {
+    "date": "2025-10-01",
+    "airport": "MUSCAT",
+    "destination": "BENGALURU",
+    "paxTo": 21439.0,
+    "paxFrom": 18386.0,
+    "paxTotal": 39825.0,
+    "freightTo": 38.91,
+    "freightFrom": 204.79,
+    "freightTotal": 243.7
+  },
+  {
     "date": "2020-04-01",
     "airport": "MUSCAT",
     "destination": "BHUBANESWAR",
@@ -109426,6 +112385,17 @@
     "freightTo": 189.61,
     "freightFrom": 238.02,
     "freightTotal": 427.63
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "MUSCAT",
+    "destination": "CHENNAI",
+    "paxTo": 22975.0,
+    "paxFrom": 22171.0,
+    "paxTotal": 45146.0,
+    "freightTo": 173.47,
+    "freightFrom": 233.18,
+    "freightTotal": 406.65
   },
   {
     "date": "2020-04-01",
@@ -109912,6 +112882,17 @@
     "freightTotal": 411.20000000000005
   },
   {
+    "date": "2025-10-01",
+    "airport": "MUSCAT",
+    "destination": "DELHI",
+    "paxTo": 40838.0,
+    "paxFrom": 37828.0,
+    "paxTotal": 78666.0,
+    "freightTo": 117.2,
+    "freightFrom": 337.07,
+    "freightTotal": 454.27
+  },
+  {
     "date": "2023-10-01",
     "airport": "MUSCAT",
     "destination": "DOHA",
@@ -110350,6 +113331,17 @@
     "freightTo": 1.08,
     "freightFrom": 8.16,
     "freightTotal": 9.24
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "MUSCAT",
+    "destination": "GOA",
+    "paxTo": 5397.0,
+    "paxFrom": 3672.0,
+    "paxTotal": 9069.0,
+    "freightTo": 0.26,
+    "freightFrom": 14.01,
+    "freightTotal": 14.27
   },
   {
     "date": "2015-01-01",
@@ -110825,6 +113817,17 @@
     "freightTotal": 265.68
   },
   {
+    "date": "2025-10-01",
+    "airport": "MUSCAT",
+    "destination": "HYDERABAD",
+    "paxTo": 40795.0,
+    "paxFrom": 39990.0,
+    "paxTotal": 80785.0,
+    "freightTo": 5.38,
+    "freightFrom": 150.31,
+    "freightTotal": 155.69
+  },
+  {
     "date": "2015-01-01",
     "airport": "MUSCAT",
     "destination": "JAIPUR",
@@ -111254,6 +114257,17 @@
     "freightTotal": 0.21
   },
   {
+    "date": "2025-10-01",
+    "airport": "MUSCAT",
+    "destination": "JAIPUR",
+    "paxTo": 4719.0,
+    "paxFrom": 4929.0,
+    "paxTotal": 9648.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.07,
+    "freightTotal": 0.07
+  },
+  {
     "date": "2019-01-01",
     "airport": "MUSCAT",
     "destination": "KANNUR",
@@ -111549,6 +114563,17 @@
     "freightTo": 0.22,
     "freightFrom": 199.14,
     "freightTotal": 199.35999999999999
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "MUSCAT",
+    "destination": "KANNUR",
+    "paxTo": 9356.0,
+    "paxFrom": 10187.0,
+    "paxTotal": 19543.0,
+    "freightTo": 3.51,
+    "freightFrom": 143.04,
+    "freightTotal": 146.54999999999998
   },
   {
     "date": "2015-01-01",
@@ -112024,6 +115049,17 @@
     "freightTotal": 742.4699999999999
   },
   {
+    "date": "2025-10-01",
+    "airport": "MUSCAT",
+    "destination": "KOCHI",
+    "paxTo": 48634.0,
+    "paxFrom": 48685.0,
+    "paxTotal": 97319.0,
+    "freightTo": 161.3,
+    "freightFrom": 528.22,
+    "freightTotal": 689.52
+  },
+  {
     "date": "2015-01-01",
     "airport": "MUSCAT",
     "destination": "KOZHIKODE",
@@ -112497,6 +115533,17 @@
     "freightTotal": 304.04
   },
   {
+    "date": "2025-10-01",
+    "airport": "MUSCAT",
+    "destination": "KOZHIKODE",
+    "paxTo": 40178.0,
+    "paxFrom": 42513.0,
+    "paxTotal": 82691.0,
+    "freightTo": 54.54,
+    "freightFrom": 477.41,
+    "freightTotal": 531.95
+  },
+  {
     "date": "2015-01-01",
     "airport": "MUSCAT",
     "destination": "LUCKNOW",
@@ -112957,6 +116004,17 @@
     "freightTo": 1.2,
     "freightFrom": 132.07,
     "freightTotal": 133.26999999999998
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "MUSCAT",
+    "destination": "LUCKNOW",
+    "paxTo": 24377.0,
+    "paxFrom": 24861.0,
+    "paxTotal": 49238.0,
+    "freightTo": 1.95,
+    "freightFrom": 135.56,
+    "freightTotal": 137.51
   },
   {
     "date": "2015-01-01",
@@ -113905,6 +116963,17 @@
     "freightTotal": 1793.48
   },
   {
+    "date": "2025-10-01",
+    "airport": "MUSCAT",
+    "destination": "MUMBAI",
+    "paxTo": 70928.0,
+    "paxFrom": 70402.0,
+    "paxTotal": 141330.0,
+    "freightTo": 247.43,
+    "freightFrom": 1107.88,
+    "freightTotal": 1355.3100000000002
+  },
+  {
     "date": "2020-04-01",
     "airport": "MUSCAT",
     "destination": "SRINAGAR",
@@ -114167,6 +117236,17 @@
     "freightTo": 0.92,
     "freightFrom": 118.48,
     "freightTotal": 119.4
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "MUSCAT",
+    "destination": "TIRUCHIRAPALLY",
+    "paxTo": 3569.0,
+    "paxFrom": 3383.0,
+    "paxTotal": 6952.0,
+    "freightTo": 0.59,
+    "freightFrom": 52.37,
+    "freightTotal": 52.96
   },
   {
     "date": "2015-01-01",
@@ -114640,6 +117720,17 @@
     "freightTo": 5.26,
     "freightFrom": 393.54,
     "freightTotal": 398.8
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "MUSCAT",
+    "destination": "TRIVANDRUM",
+    "paxTo": 22546.0,
+    "paxFrom": 23216.0,
+    "paxTotal": 45762.0,
+    "freightTo": 6.39,
+    "freightFrom": 337.21,
+    "freightTotal": 343.59999999999997
   },
   {
     "date": "2020-04-01",
@@ -115742,6 +118833,17 @@
     "freightTotal": 74.86999999999999
   },
   {
+    "date": "2025-10-01",
+    "airport": "NAIROBI",
+    "destination": "MUMBAI",
+    "paxTo": 29347.0,
+    "paxFrom": 26014.0,
+    "paxTotal": 55361.0,
+    "freightTo": 17.09,
+    "freightFrom": 114.7,
+    "freightTotal": 131.79
+  },
+  {
     "date": "2023-04-01",
     "airport": "NAJF",
     "destination": "AHMEDABAD",
@@ -115781,6 +118883,17 @@
     "paxTo": 1044.0,
     "paxFrom": 416.0,
     "paxTotal": 1460.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "NAJF",
+    "destination": "AHMEDABAD",
+    "paxTo": 634.0,
+    "paxFrom": 812.0,
+    "paxTotal": 1446.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -115858,6 +118971,17 @@
     "paxTo": 652.0,
     "paxFrom": 994.0,
     "paxTotal": 1646.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "NAJF",
+    "destination": "MUMBAI",
+    "paxTo": 1104.0,
+    "paxFrom": 1350.0,
+    "paxTotal": 2454.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -117436,6 +120560,17 @@
     "freightTotal": 1011.74
   },
   {
+    "date": "2025-10-01",
+    "airport": "NEW YORK",
+    "destination": "DELHI",
+    "paxTo": 45093.0,
+    "paxFrom": 35228.0,
+    "paxTotal": 80321.0,
+    "freightTo": 1126.32,
+    "freightFrom": 1025.39,
+    "freightTotal": 2151.71
+  },
+  {
     "date": "2020-07-01",
     "airport": "NEW YORK",
     "destination": "HYDERABAD",
@@ -117830,6 +120965,17 @@
     "freightTo": 467.69,
     "freightFrom": 456.06,
     "freightTotal": 923.75
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "NEW YORK",
+    "destination": "MUMBAI",
+    "paxTo": 21685.0,
+    "paxFrom": 17087.0,
+    "paxTotal": 38772.0,
+    "freightTo": 1068.0,
+    "freightFrom": 541.22,
+    "freightTotal": 1609.22
   },
   {
     "date": "2015-01-01",
@@ -118987,6 +122133,17 @@
     "freightTotal": 994.05
   },
   {
+    "date": "2025-10-01",
+    "airport": "NEWARK, NEW YORK",
+    "destination": "DELHI",
+    "paxTo": 36590.0,
+    "paxFrom": 28555.0,
+    "paxTotal": 65145.0,
+    "freightTo": 410.31,
+    "freightFrom": 643.14,
+    "freightTotal": 1053.45
+  },
+  {
     "date": "2023-04-01",
     "airport": "NEWARK, NEW YORK",
     "destination": "MUMBAI",
@@ -119097,6 +122254,17 @@
     "freightTotal": 526.09
   },
   {
+    "date": "2025-10-01",
+    "airport": "NEWARK, NEW YORK",
+    "destination": "MUMBAI",
+    "paxTo": 10829.0,
+    "paxFrom": 7503.0,
+    "paxTotal": 18332.0,
+    "freightTo": 295.49,
+    "freightFrom": 381.79,
+    "freightTotal": 677.28
+  },
+  {
     "date": "2020-07-01",
     "airport": "NINGO LISHE",
     "destination": "DELHI",
@@ -119139,6 +122307,17 @@
     "freightTo": 0.0,
     "freightFrom": 1205.56,
     "freightTotal": 1205.56
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "NOTTIMGHAM",
+    "destination": "BENGALURU",
+    "paxTo": 0.0,
+    "paxFrom": 0.0,
+    "paxTotal": 0.0,
+    "freightTo": 0.0,
+    "freightFrom": 1219.66,
+    "freightTotal": 1219.66
   },
   {
     "date": "2024-07-01",
@@ -119194,6 +122373,28 @@
     "freightTo": 0.0,
     "freightFrom": 4854.73,
     "freightTotal": 4854.73
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "NOTTIMGHAM",
+    "destination": "DELHI",
+    "paxTo": 0.0,
+    "paxFrom": 0.0,
+    "paxTotal": 0.0,
+    "freightTo": 0.0,
+    "freightFrom": 1236.41,
+    "freightTotal": 1236.41
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "NOVOSIBIRSK",
+    "destination": "GOA",
+    "paxTo": 2529.0,
+    "paxFrom": 2410.0,
+    "paxTotal": 4939.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
   },
   {
     "date": "2021-04-01",
@@ -119867,6 +123068,17 @@
     "freightTotal": 0.0
   },
   {
+    "date": "2025-10-01",
+    "airport": "OSH",
+    "destination": "DELHI",
+    "paxTo": 61.0,
+    "paxFrom": 692.0,
+    "paxTotal": 753.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
     "date": "2021-07-01",
     "airport": "OSH",
     "destination": "MUMBAI",
@@ -120393,6 +123605,17 @@
     "freightTo": 532.9,
     "freightFrom": 1783.28,
     "freightTotal": 2316.18
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "PARIS",
+    "destination": "BENGALURU",
+    "paxTo": 23529.0,
+    "paxFrom": 19337.0,
+    "paxTotal": 42866.0,
+    "freightTo": 739.52,
+    "freightFrom": 1398.2,
+    "freightTotal": 2137.7200000000003
   },
   {
     "date": "2015-01-01",
@@ -121253,6 +124476,17 @@
     "freightTotal": 6907.6
   },
   {
+    "date": "2025-10-01",
+    "airport": "PARIS",
+    "destination": "DELHI",
+    "paxTo": 75224.0,
+    "paxFrom": 59124.0,
+    "paxTotal": 134348.0,
+    "freightTo": 7070.98,
+    "freightFrom": 6096.26,
+    "freightTotal": 13167.24
+  },
+  {
     "date": "2020-04-01",
     "airport": "PARIS",
     "destination": "HYDERABAD",
@@ -121759,6 +124993,17 @@
     "freightTotal": 1837.71
   },
   {
+    "date": "2025-10-01",
+    "airport": "PARIS",
+    "destination": "MUMBAI",
+    "paxTo": 30915.0,
+    "paxFrom": 26440.0,
+    "paxTotal": 57355.0,
+    "freightTo": 2091.99,
+    "freightFrom": 2610.13,
+    "freightTotal": 4702.12
+  },
+  {
     "date": "2022-07-01",
     "airport": "PARO",
     "destination": "BAGDOGRA",
@@ -121897,6 +125142,17 @@
     "paxTo": 227.0,
     "paxFrom": 383.0,
     "paxTotal": 610.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "PARO",
+    "destination": "BAGDOGRA",
+    "paxTo": 379.0,
+    "paxFrom": 575.0,
+    "paxTotal": 954.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -122309,6 +125565,17 @@
     "freightTotal": 19.009999999999998
   },
   {
+    "date": "2025-10-01",
+    "airport": "PARO",
+    "destination": "DELHI",
+    "paxTo": 9063.0,
+    "paxFrom": 8525.0,
+    "paxTotal": 17588.0,
+    "freightTo": 1.79,
+    "freightFrom": 20.86,
+    "freightTotal": 22.65
+  },
+  {
     "date": "2022-10-01",
     "airport": "PARO",
     "destination": "GAYA",
@@ -122381,6 +125648,17 @@
     "paxTo": 104.0,
     "paxFrom": 149.0,
     "paxTotal": 253.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "PARO",
+    "destination": "GAYA",
+    "paxTo": 474.0,
+    "paxFrom": 412.0,
+    "paxTotal": 886.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -122513,6 +125791,17 @@
     "paxTo": 284.0,
     "paxFrom": 289.0,
     "paxTotal": 573.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "PARO",
+    "destination": "GUWAHATI",
+    "paxTo": 320.0,
+    "paxFrom": 343.0,
+    "paxTotal": 663.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -122991,6 +126280,17 @@
     "freightTotal": 0.24
   },
   {
+    "date": "2025-10-01",
+    "airport": "PARO",
+    "destination": "KOLKATA",
+    "paxTo": 5553.0,
+    "paxFrom": 4733.0,
+    "paxTotal": 10286.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.37,
+    "freightTotal": 0.37
+  },
+  {
     "date": "2024-04-01",
     "airport": "PARO",
     "destination": "MUMBAI",
@@ -123299,6 +126599,17 @@
     "freightTotal": 73.42
   },
   {
+    "date": "2025-10-01",
+    "airport": "PENANG",
+    "destination": "CHENNAI",
+    "paxTo": 10519.0,
+    "paxFrom": 9858.0,
+    "paxTotal": 20377.0,
+    "freightTo": 91.83,
+    "freightFrom": 0.44,
+    "freightTotal": 92.27
+  },
+  {
     "date": "2020-04-01",
     "airport": "PHNOM PENH",
     "destination": "DELHI",
@@ -123341,6 +126652,17 @@
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "PHNOM PENH",
+    "destination": "DELHI",
+    "paxTo": 2855.0,
+    "paxFrom": 2810.0,
+    "paxTotal": 5665.0,
+    "freightTo": 22.68,
+    "freightFrom": 1.1,
+    "freightTotal": 23.78
   },
   {
     "date": "2020-07-01",
@@ -123574,6 +126896,17 @@
     "freightTotal": 5.53
   },
   {
+    "date": "2025-10-01",
+    "airport": "PHUKET",
+    "destination": "BENGALURU",
+    "paxTo": 24952.0,
+    "paxFrom": 25248.0,
+    "paxTotal": 50200.0,
+    "freightTo": 1.63,
+    "freightFrom": 0.0,
+    "freightTotal": 1.63
+  },
+  {
     "date": "2024-10-01",
     "airport": "PHUKET",
     "destination": "CHENNAI",
@@ -123616,6 +126949,17 @@
     "freightTo": 7.85,
     "freightFrom": 16.1,
     "freightTotal": 23.950000000000003
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "PHUKET",
+    "destination": "CHENNAI",
+    "paxTo": 5276.0,
+    "paxFrom": 6880.0,
+    "paxTotal": 12156.0,
+    "freightTo": 2.98,
+    "freightFrom": 43.67,
+    "freightTotal": 46.65
   },
   {
     "date": "2018-10-01",
@@ -123860,6 +127204,17 @@
     "freightTotal": 130.97
   },
   {
+    "date": "2025-10-01",
+    "airport": "PHUKET",
+    "destination": "DELHI",
+    "paxTo": 63155.0,
+    "paxFrom": 68092.0,
+    "paxTotal": 131247.0,
+    "freightTo": 344.6,
+    "freightFrom": 2.14,
+    "freightTotal": 346.74
+  },
+  {
     "date": "2025-01-01",
     "airport": "PHUKET",
     "destination": "HYDERABAD",
@@ -123893,6 +127248,17 @@
     "freightTotal": 180.66
   },
   {
+    "date": "2025-10-01",
+    "airport": "PHUKET",
+    "destination": "HYDERABAD",
+    "paxTo": 10695.0,
+    "paxFrom": 12588.0,
+    "paxTotal": 23283.0,
+    "freightTo": 32.05,
+    "freightFrom": 20.23,
+    "freightTotal": 52.28
+  },
+  {
     "date": "2025-04-01",
     "airport": "PHUKET",
     "destination": "KOCHI",
@@ -123910,6 +127276,17 @@
     "paxTo": 4404.0,
     "paxFrom": 4983.0,
     "paxTotal": 9387.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "PHUKET",
+    "destination": "KOCHI",
+    "paxTo": 4782.0,
+    "paxFrom": 5466.0,
+    "paxTotal": 10248.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -124012,6 +127389,17 @@
     "freightTo": 12.81,
     "freightFrom": 55.9,
     "freightTotal": 68.71
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "PHUKET",
+    "destination": "KOLKATA",
+    "paxTo": 12971.0,
+    "paxFrom": 13204.0,
+    "paxTotal": 26175.0,
+    "freightTo": 0.0,
+    "freightFrom": 1.01,
+    "freightTotal": 1.01
   },
   {
     "date": "2018-10-01",
@@ -124256,6 +127644,17 @@
     "freightTotal": 46.120000000000005
   },
   {
+    "date": "2025-10-01",
+    "airport": "PHUKET",
+    "destination": "MUMBAI",
+    "paxTo": 43472.0,
+    "paxFrom": 44906.0,
+    "paxTotal": 88378.0,
+    "freightTo": 41.64,
+    "freightFrom": 13.85,
+    "freightTotal": 55.49
+  },
+  {
     "date": "2021-07-01",
     "airport": "PITTSBURGH",
     "destination": "DELHI",
@@ -124465,6 +127864,17 @@
     "freightTotal": 21.75
   },
   {
+    "date": "2025-10-01",
+    "airport": "PORT LOUIS,MAURITIUS",
+    "destination": "BENGALURU",
+    "paxTo": 13116.0,
+    "paxFrom": 12329.0,
+    "paxTotal": 25445.0,
+    "freightTo": 0.79,
+    "freightFrom": 28.95,
+    "freightTotal": 29.74
+  },
+  {
     "date": "2024-04-01",
     "airport": "PORT LOUIS,MAURITIUS",
     "destination": "CHENNAI",
@@ -124529,6 +127939,17 @@
     "freightTo": 5.88,
     "freightFrom": 109.53,
     "freightTotal": 115.41
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "PORT LOUIS,MAURITIUS",
+    "destination": "CHENNAI",
+    "paxTo": 2805.0,
+    "paxFrom": 2735.0,
+    "paxTotal": 5540.0,
+    "freightTo": 4.61,
+    "freightFrom": 102.47,
+    "freightTotal": 107.08
   },
   {
     "date": "2023-04-01",
@@ -124641,6 +128062,17 @@
     "freightTotal": 132.51
   },
   {
+    "date": "2025-10-01",
+    "airport": "PORT LOUIS,MAURITIUS",
+    "destination": "DELHI",
+    "paxTo": 3010.0,
+    "paxFrom": 2714.0,
+    "paxTotal": 5724.0,
+    "freightTo": 3.68,
+    "freightFrom": 128.94,
+    "freightTotal": 132.62
+  },
+  {
     "date": "2023-04-01",
     "airport": "PORT LOUIS,MAURITIUS",
     "destination": "MUMBAI",
@@ -124749,6 +128181,17 @@
     "freightTo": 31.54,
     "freightFrom": 536.43,
     "freightTotal": 567.9699999999999
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "PORT LOUIS,MAURITIUS",
+    "destination": "MUMBAI",
+    "paxTo": 22490.0,
+    "paxFrom": 22408.0,
+    "paxTotal": 44898.0,
+    "freightTo": 40.07,
+    "freightFrom": 515.42,
+    "freightTotal": 555.49
   },
   {
     "date": "2021-04-01",
@@ -124966,6 +128409,17 @@
     "paxTo": 866.0,
     "paxFrom": 877.0,
     "paxTotal": 1743.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "RANGOON",
+    "destination": "CHENNAI",
+    "paxTo": 1681.0,
+    "paxFrom": 1619.0,
+    "paxTotal": 3300.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -125442,6 +128896,17 @@
     "freightTo": 4.95,
     "freightFrom": 0.43,
     "freightTotal": 5.38
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "RANGOON",
+    "destination": "DELHI",
+    "paxTo": 724.0,
+    "paxFrom": 1268.0,
+    "paxTotal": 1992.0,
+    "freightTo": 77.61,
+    "freightFrom": 7.06,
+    "freightTotal": 84.67
   },
   {
     "date": "2015-01-01",
@@ -126302,6 +129767,17 @@
     "freightTotal": 31.159999999999997
   },
   {
+    "date": "2025-10-01",
+    "airport": "RANGOON",
+    "destination": "KOLKATA",
+    "paxTo": 4171.0,
+    "paxFrom": 3678.0,
+    "paxTotal": 7849.0,
+    "freightTo": 2.31,
+    "freightFrom": 11.74,
+    "freightTotal": 14.05
+  },
+  {
     "date": "2020-07-01",
     "airport": "RANGOON",
     "destination": "LUCKNOW",
@@ -126522,6 +129998,17 @@
     "freightTotal": 0.0
   },
   {
+    "date": "2025-10-01",
+    "airport": "RAS AL-KHAIMAH",
+    "destination": "AHMEDABAD",
+    "paxTo": 4800.0,
+    "paxFrom": 4890.0,
+    "paxTotal": 9690.0,
+    "freightTo": 0.0,
+    "freightFrom": 66.14,
+    "freightTotal": 66.14
+  },
+  {
     "date": "2020-04-01",
     "airport": "RAS AL-KHAIMAH",
     "destination": "AMRITSAR",
@@ -126610,6 +130097,17 @@
     "freightTotal": 0.0
   },
   {
+    "date": "2025-10-01",
+    "airport": "RAS AL-KHAIMAH",
+    "destination": "BENGALURU",
+    "paxTo": 4711.0,
+    "paxFrom": 5017.0,
+    "paxTotal": 9728.0,
+    "freightTo": 2.32,
+    "freightFrom": 36.7,
+    "freightTotal": 39.02
+  },
+  {
     "date": "2020-07-01",
     "airport": "RAS AL-KHAIMAH",
     "destination": "BHUBANESWAR",
@@ -126674,6 +130172,28 @@
     "freightTo": 4.6,
     "freightFrom": 0.0,
     "freightTotal": 4.6
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "RAS AL-KHAIMAH",
+    "destination": "CHENNAI",
+    "paxTo": 4940.0,
+    "paxFrom": 4914.0,
+    "paxTotal": 9854.0,
+    "freightTo": 6.0,
+    "freightFrom": 45.41,
+    "freightTotal": 51.41
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "RAS AL-KHAIMAH",
+    "destination": "COIMBATORE",
+    "paxTo": 3721.0,
+    "paxFrom": 3676.0,
+    "paxTotal": 7397.0,
+    "freightTo": 0.59,
+    "freightFrom": 55.62,
+    "freightTotal": 56.21
   },
   {
     "date": "2020-04-01",
@@ -126764,6 +130284,17 @@
     "freightTotal": 38.31
   },
   {
+    "date": "2025-10-01",
+    "airport": "RAS AL-KHAIMAH",
+    "destination": "DELHI",
+    "paxTo": 9823.0,
+    "paxFrom": 9996.0,
+    "paxTotal": 19819.0,
+    "freightTo": 46.92,
+    "freightFrom": 123.91,
+    "freightTotal": 170.82999999999998
+  },
+  {
     "date": "2020-04-01",
     "airport": "RAS AL-KHAIMAH",
     "destination": "GAYA",
@@ -126795,6 +130326,17 @@
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "RAS AL-KHAIMAH",
+    "destination": "GOA",
+    "paxTo": 3326.0,
+    "paxFrom": 3464.0,
+    "paxTotal": 6790.0,
+    "freightTo": 0.52,
+    "freightFrom": 22.14,
+    "freightTotal": 22.66
   },
   {
     "date": "2020-04-01",
@@ -126940,6 +130482,17 @@
     "freightTotal": 20.42
   },
   {
+    "date": "2025-10-01",
+    "airport": "RAS AL-KHAIMAH",
+    "destination": "HYDERABAD",
+    "paxTo": 19985.0,
+    "paxFrom": 19799.0,
+    "paxTotal": 39784.0,
+    "freightTo": 4.43,
+    "freightFrom": 53.79,
+    "freightTotal": 58.22
+  },
+  {
     "date": "2021-01-01",
     "airport": "RAS AL-KHAIMAH",
     "destination": "IKEJA",
@@ -127039,6 +130592,17 @@
     "freightTotal": 0.0
   },
   {
+    "date": "2025-10-01",
+    "airport": "RAS AL-KHAIMAH",
+    "destination": "JAIPUR",
+    "paxTo": 5020.0,
+    "paxFrom": 5003.0,
+    "paxTotal": 10023.0,
+    "freightTo": 4.36,
+    "freightFrom": 35.89,
+    "freightTotal": 40.25
+  },
+  {
     "date": "2020-04-01",
     "airport": "RAS AL-KHAIMAH",
     "destination": "KANNUR",
@@ -127125,6 +130689,17 @@
     "freightTo": 17.95,
     "freightFrom": 171.42,
     "freightTotal": 189.36999999999998
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "RAS AL-KHAIMAH",
+    "destination": "KANNUR",
+    "paxTo": 4269.0,
+    "paxFrom": 4831.0,
+    "paxTotal": 9100.0,
+    "freightTo": 0.59,
+    "freightFrom": 53.89,
+    "freightTotal": 54.480000000000004
   },
   {
     "date": "2020-04-01",
@@ -127312,6 +130887,17 @@
     "freightTo": 0.0,
     "freightFrom": 116.66,
     "freightTotal": 116.66
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "RAS AL-KHAIMAH",
+    "destination": "KOCHI",
+    "paxTo": 25178.0,
+    "paxFrom": 24573.0,
+    "paxTotal": 49751.0,
+    "freightTo": 18.93,
+    "freightFrom": 250.41,
+    "freightTotal": 269.34
   },
   {
     "date": "2020-04-01",
@@ -127556,6 +131142,17 @@
     "freightTotal": 591.03
   },
   {
+    "date": "2025-10-01",
+    "airport": "RAS AL-KHAIMAH",
+    "destination": "KOZHIKODE",
+    "paxTo": 30013.0,
+    "paxFrom": 31823.0,
+    "paxTotal": 61836.0,
+    "freightTo": 6.94,
+    "freightFrom": 567.04,
+    "freightTotal": 573.98
+  },
+  {
     "date": "2020-04-01",
     "airport": "RAS AL-KHAIMAH",
     "destination": "LUCKNOW",
@@ -127664,6 +131261,17 @@
     "freightTo": 31.18,
     "freightFrom": 1.38,
     "freightTotal": 32.56
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "RAS AL-KHAIMAH",
+    "destination": "LUCKNOW",
+    "paxTo": 1416.0,
+    "paxFrom": 1611.0,
+    "paxTotal": 3027.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
   },
   {
     "date": "2020-04-01",
@@ -127974,6 +131582,28 @@
     "freightTotal": 64.09
   },
   {
+    "date": "2025-10-01",
+    "airport": "RAS AL-KHAIMAH",
+    "destination": "MUMBAI",
+    "paxTo": 22566.0,
+    "paxFrom": 24378.0,
+    "paxTotal": 46944.0,
+    "freightTo": 22.07,
+    "freightFrom": 133.15,
+    "freightTotal": 155.22
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "RAS AL-KHAIMAH",
+    "destination": "NAGPUR",
+    "paxTo": 1377.0,
+    "paxFrom": 1369.0,
+    "paxTotal": 2746.0,
+    "freightTo": 0.16,
+    "freightFrom": 0.36,
+    "freightTotal": 0.52
+  },
+  {
     "date": "2021-10-01",
     "airport": "RAS AL-KHAIMAH",
     "destination": "SURAT",
@@ -128027,6 +131657,17 @@
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "RAS AL-KHAIMAH",
+    "destination": "TRIVANDRUM",
+    "paxTo": 10037.0,
+    "paxFrom": 10040.0,
+    "paxTotal": 20077.0,
+    "freightTo": 0.43,
+    "freightFrom": 159.83,
+    "freightTotal": 160.26000000000002
   },
   {
     "date": "2020-04-01",
@@ -129129,6 +132770,17 @@
     "freightTotal": 103.49000000000001
   },
   {
+    "date": "2025-10-01",
+    "airport": "RIYADH",
+    "destination": "BENGALURU",
+    "paxTo": 9474.0,
+    "paxFrom": 8766.0,
+    "paxTotal": 18240.0,
+    "freightTo": 0.66,
+    "freightFrom": 74.03,
+    "freightTotal": 74.69
+  },
+  {
     "date": "2020-04-01",
     "airport": "RIYADH",
     "destination": "BHUBANESWAR",
@@ -129877,6 +133529,17 @@
     "freightTotal": 1365.91
   },
   {
+    "date": "2025-10-01",
+    "airport": "RIYADH",
+    "destination": "DELHI",
+    "paxTo": 54624.0,
+    "paxFrom": 51998.0,
+    "paxTotal": 106622.0,
+    "freightTo": 87.23,
+    "freightFrom": 1047.74,
+    "freightTotal": 1134.97
+  },
+  {
     "date": "2020-07-01",
     "airport": "RIYADH",
     "destination": "GAYA",
@@ -130372,6 +134035,17 @@
     "freightTotal": 124.32000000000001
   },
   {
+    "date": "2025-10-01",
+    "airport": "RIYADH",
+    "destination": "HYDERABAD",
+    "paxTo": 25097.0,
+    "paxFrom": 24746.0,
+    "paxTotal": 49843.0,
+    "freightTo": 1.85,
+    "freightFrom": 169.48,
+    "freightTotal": 171.32999999999998
+  },
+  {
     "date": "2020-04-01",
     "airport": "RIYADH",
     "destination": "JAIPUR",
@@ -130700,6 +134374,17 @@
     "freightTo": 14.59,
     "freightFrom": 63.98,
     "freightTotal": 78.57
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "RIYADH",
+    "destination": "KANNUR",
+    "paxTo": 3756.0,
+    "paxFrom": 4013.0,
+    "paxTotal": 7769.0,
+    "freightTo": 5.64,
+    "freightFrom": 57.44,
+    "freightTotal": 63.08
   },
   {
     "date": "2015-01-01",
@@ -131175,6 +134860,17 @@
     "freightTotal": 770.6800000000001
   },
   {
+    "date": "2025-10-01",
+    "airport": "RIYADH",
+    "destination": "KOCHI",
+    "paxTo": 15644.0,
+    "paxFrom": 15898.0,
+    "paxTotal": 31542.0,
+    "freightTo": 163.31,
+    "freightFrom": 524.87,
+    "freightTotal": 688.1800000000001
+  },
+  {
     "date": "2015-01-01",
     "airport": "RIYADH",
     "destination": "KOZHIKODE",
@@ -131648,6 +135344,17 @@
     "freightTotal": 451.35
   },
   {
+    "date": "2025-10-01",
+    "airport": "RIYADH",
+    "destination": "KOZHIKODE",
+    "paxTo": 29586.0,
+    "paxFrom": 29372.0,
+    "paxTotal": 58958.0,
+    "freightTo": 24.3,
+    "freightFrom": 406.72,
+    "freightTotal": 431.02000000000004
+  },
+  {
     "date": "2015-01-01",
     "airport": "RIYADH",
     "destination": "LUCKNOW",
@@ -132119,6 +135826,17 @@
     "freightTo": 0.0,
     "freightFrom": 92.35,
     "freightTotal": 92.35
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "RIYADH",
+    "destination": "LUCKNOW",
+    "paxTo": 19685.0,
+    "paxFrom": 18670.0,
+    "paxTotal": 38355.0,
+    "freightTo": 5.67,
+    "freightFrom": 90.82,
+    "freightTotal": 96.49
   },
   {
     "date": "2020-07-01",
@@ -132638,6 +136356,17 @@
     "freightTotal": 826.19
   },
   {
+    "date": "2025-10-01",
+    "airport": "RIYADH",
+    "destination": "MUMBAI",
+    "paxTo": 51967.0,
+    "paxFrom": 53102.0,
+    "paxTotal": 105069.0,
+    "freightTo": 36.18,
+    "freightFrom": 838.97,
+    "freightTotal": 875.15
+  },
+  {
     "date": "2020-04-01",
     "airport": "RIYADH",
     "destination": "SRINAGAR",
@@ -133067,6 +136796,17 @@
     "freightTotal": 143.42000000000002
   },
   {
+    "date": "2025-10-01",
+    "airport": "RIYADH",
+    "destination": "TRIVANDRUM",
+    "paxTo": 4586.0,
+    "paxFrom": 4455.0,
+    "paxTotal": 9041.0,
+    "freightTo": 147.67,
+    "freightFrom": 91.4,
+    "freightTotal": 239.07
+  },
+  {
     "date": "2020-04-01",
     "airport": "RIYADH",
     "destination": "VIJAYAWADA",
@@ -133282,6 +137022,17 @@
     "paxTo": 1670.0,
     "paxFrom": 4012.0,
     "paxTotal": 5682.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ROME",
+    "destination": "AMRITSAR",
+    "paxTo": 1059.0,
+    "paxFrom": 0.0,
+    "paxTotal": 1059.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -133648,6 +137399,17 @@
     "freightTo": 505.49,
     "freightFrom": 863.96,
     "freightTotal": 1369.45
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ROME",
+    "destination": "DELHI",
+    "paxTo": 23748.0,
+    "paxFrom": 18355.0,
+    "paxTotal": 42103.0,
+    "freightTo": 476.81,
+    "freightFrom": 631.59,
+    "freightTotal": 1108.4
   },
   {
     "date": "2020-04-01",
@@ -134354,6 +138116,17 @@
     "freightTotal": 75.47
   },
   {
+    "date": "2025-10-01",
+    "airport": "SALALAH",
+    "destination": "KOCHI",
+    "paxTo": 521.0,
+    "paxFrom": 592.0,
+    "paxTotal": 1113.0,
+    "freightTo": 46.37,
+    "freightFrom": 0.0,
+    "freightTotal": 46.37
+  },
+  {
     "date": "2015-01-01",
     "airport": "SALALAH",
     "destination": "KOZHIKODE",
@@ -134825,6 +138598,17 @@
     "freightTo": 193.84,
     "freightFrom": 165.38,
     "freightTotal": 359.22
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SALALAH",
+    "destination": "KOZHIKODE",
+    "paxTo": 951.0,
+    "paxFrom": 1045.0,
+    "paxTotal": 1996.0,
+    "freightTo": 9.12,
+    "freightFrom": 2.06,
+    "freightTotal": 11.18
   },
   {
     "date": "2022-07-01",
@@ -135597,6 +139381,17 @@
     "freightTotal": 573.06
   },
   {
+    "date": "2025-10-01",
+    "airport": "SAN FRANCISCO",
+    "destination": "BENGALURU",
+    "paxTo": 9132.0,
+    "paxFrom": 4726.0,
+    "paxTotal": 13858.0,
+    "freightTo": 328.22,
+    "freightFrom": 562.33,
+    "freightTotal": 890.5500000000001
+  },
+  {
     "date": "2020-07-01",
     "airport": "SAN FRANCISCO",
     "destination": "CHENNAI",
@@ -136048,6 +139843,17 @@
     "freightTotal": 820.94
   },
   {
+    "date": "2025-10-01",
+    "airport": "SAN FRANCISCO",
+    "destination": "DELHI",
+    "paxTo": 22304.0,
+    "paxFrom": 22073.0,
+    "paxTotal": 44377.0,
+    "freightTo": 331.42,
+    "freightFrom": 324.3,
+    "freightTotal": 655.72
+  },
+  {
     "date": "2020-04-01",
     "airport": "SAN FRANCISCO",
     "destination": "HYDERABAD",
@@ -136222,6 +140028,17 @@
     "freightTo": 275.85,
     "freightFrom": 244.13,
     "freightTotal": 519.98
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SAN FRANCISCO",
+    "destination": "MUMBAI",
+    "paxTo": 10829.0,
+    "paxFrom": 6362.0,
+    "paxTotal": 17191.0,
+    "freightTo": 250.4,
+    "freightFrom": 600.39,
+    "freightTotal": 850.79
   },
   {
     "date": "2015-01-01",
@@ -137014,6 +140831,17 @@
     "freightTo": 1802.15,
     "freightFrom": 955.7,
     "freightTotal": 2757.8500000000004
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SEOUL",
+    "destination": "DELHI",
+    "paxTo": 23935.0,
+    "paxFrom": 25694.0,
+    "paxTotal": 49629.0,
+    "freightTo": 2746.91,
+    "freightFrom": 1278.59,
+    "freightTotal": 4025.5
   },
   {
     "date": "2020-10-01",
@@ -137918,6 +141746,17 @@
     "freightTotal": 21.8
   },
   {
+    "date": "2025-10-01",
+    "airport": "SEYCHELLES",
+    "destination": "MUMBAI",
+    "paxTo": 6720.0,
+    "paxFrom": 6402.0,
+    "paxTotal": 13122.0,
+    "freightTo": 0.0,
+    "freightFrom": 24.93,
+    "freightTotal": 24.93
+  },
+  {
     "date": "2015-01-01",
     "airport": "SHANGHAI",
     "destination": "DELHI",
@@ -138191,6 +142030,17 @@
     "freightTo": 117.5,
     "freightFrom": 0.0,
     "freightTotal": 117.5
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SHANGHAI",
+    "destination": "DELHI",
+    "paxTo": 5708.0,
+    "paxFrom": 5208.0,
+    "paxTotal": 10916.0,
+    "freightTo": 237.58,
+    "freightFrom": 50.34,
+    "freightTotal": 287.92
   },
   {
     "date": "2020-04-01",
@@ -138952,6 +142802,17 @@
     "freightTotal": 221.29
   },
   {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "AHMEDABAD",
+    "paxTo": 9817.0,
+    "paxFrom": 9351.0,
+    "paxTotal": 19168.0,
+    "freightTo": 2.72,
+    "freightFrom": 149.66,
+    "freightTotal": 152.38
+  },
+  {
     "date": "2016-07-01",
     "airport": "SHARJAH",
     "destination": "AMRITSAR",
@@ -139247,6 +143108,17 @@
     "freightTo": 2.26,
     "freightFrom": 40.25,
     "freightTotal": 42.51
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "AMRITSAR",
+    "paxTo": 30012.0,
+    "paxFrom": 27926.0,
+    "paxTotal": 57938.0,
+    "freightTo": 2.34,
+    "freightFrom": 159.92,
+    "freightTotal": 162.26
   },
   {
     "date": "2020-07-01",
@@ -139731,6 +143603,17 @@
     "freightTo": 3.12,
     "freightFrom": 142.86,
     "freightTotal": 145.98000000000002
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "BENGALURU",
+    "paxTo": 9539.0,
+    "paxFrom": 9582.0,
+    "paxTotal": 19121.0,
+    "freightTo": 0.68,
+    "freightFrom": 96.38,
+    "freightTotal": 97.06
   },
   {
     "date": "2020-04-01",
@@ -140536,6 +144419,17 @@
     "freightTotal": 150.30999999999997
   },
   {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "CHENNAI",
+    "paxTo": 9581.0,
+    "paxFrom": 9741.0,
+    "paxTotal": 19322.0,
+    "freightTo": 12.71,
+    "freightFrom": 108.77,
+    "freightTotal": 121.47999999999999
+  },
+  {
     "date": "2015-01-01",
     "airport": "SHARJAH",
     "destination": "COIMBATORE",
@@ -141009,6 +144903,17 @@
     "freightTotal": 142.09
   },
   {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "COIMBATORE",
+    "paxTo": 6704.0,
+    "paxFrom": 6580.0,
+    "paxTotal": 13284.0,
+    "freightTo": 0.34,
+    "freightFrom": 89.38,
+    "freightTotal": 89.72
+  },
+  {
     "date": "2015-01-01",
     "airport": "SHARJAH",
     "destination": "DELHI",
@@ -141480,6 +145385,17 @@
     "freightTo": 114.84,
     "freightFrom": 363.85,
     "freightTotal": 478.69000000000005
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "DELHI",
+    "paxTo": 34210.0,
+    "paxFrom": 34102.0,
+    "paxTotal": 68312.0,
+    "freightTo": 85.11,
+    "freightFrom": 240.96,
+    "freightTotal": 326.07
   },
   {
     "date": "2020-07-01",
@@ -141988,6 +145904,17 @@
     "freightTotal": 57.1
   },
   {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "GOA",
+    "paxTo": 6794.0,
+    "paxFrom": 6259.0,
+    "paxTotal": 13053.0,
+    "freightTo": 2.47,
+    "freightFrom": 59.43,
+    "freightTotal": 61.9
+  },
+  {
     "date": "2015-01-01",
     "airport": "SHARJAH",
     "destination": "HYDERABAD",
@@ -142461,6 +146388,17 @@
     "freightTotal": 207.74
   },
   {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "HYDERABAD",
+    "paxTo": 24835.0,
+    "paxFrom": 24137.0,
+    "paxTotal": 48972.0,
+    "freightTo": 6.96,
+    "freightFrom": 154.31,
+    "freightTotal": 161.27
+  },
+  {
     "date": "2020-07-01",
     "airport": "SHARJAH",
     "destination": "INDORE",
@@ -142591,6 +146529,17 @@
     "freightTo": 218.43,
     "freightFrom": 0.0,
     "freightTotal": 218.43
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "INDORE",
+    "paxTo": 11849.0,
+    "paxFrom": 12011.0,
+    "paxTotal": 23860.0,
+    "freightTo": 132.22,
+    "freightFrom": 3.83,
+    "freightTotal": 136.05
   },
   {
     "date": "2015-01-01",
@@ -143055,6 +147004,17 @@
     "freightTotal": 133.79
   },
   {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "JAIPUR",
+    "paxTo": 9805.0,
+    "paxFrom": 9745.0,
+    "paxTotal": 19550.0,
+    "freightTo": 2.83,
+    "freightFrom": 172.49,
+    "freightTotal": 175.32000000000002
+  },
+  {
     "date": "2018-10-01",
     "airport": "SHARJAH",
     "destination": "KANNUR",
@@ -143361,6 +147321,17 @@
     "freightTo": 82.34,
     "freightFrom": 333.04,
     "freightTotal": 415.38
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "KANNUR",
+    "paxTo": 17114.0,
+    "paxFrom": 17684.0,
+    "paxTotal": 34798.0,
+    "freightTo": 60.22,
+    "freightFrom": 151.74,
+    "freightTotal": 211.96
   },
   {
     "date": "2015-01-01",
@@ -143834,6 +147805,17 @@
     "freightTo": 268.71,
     "freightFrom": 610.84,
     "freightTotal": 879.55
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "KOCHI",
+    "paxTo": 35000.0,
+    "paxFrom": 34111.0,
+    "paxTotal": 69111.0,
+    "freightTo": 63.19,
+    "freightFrom": 427.3,
+    "freightTotal": 490.49
   },
   {
     "date": "2020-04-01",
@@ -144331,6 +148313,17 @@
     "freightTotal": 620.1700000000001
   },
   {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "KOZHIKODE",
+    "paxTo": 24708.0,
+    "paxFrom": 24699.0,
+    "paxTotal": 49407.0,
+    "freightTo": 10.46,
+    "freightFrom": 486.75,
+    "freightTotal": 497.21
+  },
+  {
     "date": "2016-07-01",
     "airport": "SHARJAH",
     "destination": "LUCKNOW",
@@ -144714,6 +148707,17 @@
     "freightTo": 0.2,
     "freightFrom": 267.86,
     "freightTotal": 268.06
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "LUCKNOW",
+    "paxTo": 16287.0,
+    "paxFrom": 15636.0,
+    "paxTotal": 31923.0,
+    "freightTo": 0.0,
+    "freightFrom": 206.07,
+    "freightTotal": 206.07
   },
   {
     "date": "2018-01-01",
@@ -145497,6 +149501,17 @@
     "freightTotal": 789.4
   },
   {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "MUMBAI",
+    "paxTo": 34056.0,
+    "paxFrom": 32446.0,
+    "paxTotal": 66502.0,
+    "freightTo": 159.58,
+    "freightFrom": 456.39,
+    "freightTotal": 615.97
+  },
+  {
     "date": "2022-10-01",
     "airport": "SHARJAH",
     "destination": "MUSCAT",
@@ -145924,6 +149939,17 @@
     "freightTo": 0.18,
     "freightFrom": 12.01,
     "freightTotal": 12.19
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "NAGPUR",
+    "paxTo": 2564.0,
+    "paxFrom": 2563.0,
+    "paxTotal": 5127.0,
+    "freightTo": 0.35,
+    "freightFrom": 3.73,
+    "freightTotal": 4.08
   },
   {
     "date": "2019-01-01",
@@ -146476,6 +150502,17 @@
     "freightTotal": 229.03
   },
   {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "SURAT",
+    "paxTo": 6071.0,
+    "paxFrom": 6535.0,
+    "paxTotal": 12606.0,
+    "freightTo": 160.06,
+    "freightFrom": 15.91,
+    "freightTotal": 175.97
+  },
+  {
     "date": "2016-07-01",
     "airport": "SHARJAH",
     "destination": "TIRUCHIRAPALLY",
@@ -146881,6 +150918,17 @@
     "freightTo": 204.84,
     "freightFrom": 66.39,
     "freightTotal": 271.23
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "TIRUCHIRAPALLY",
+    "paxTo": 13284.0,
+    "paxFrom": 13541.0,
+    "paxTotal": 26825.0,
+    "freightTo": 89.48,
+    "freightFrom": 133.8,
+    "freightTotal": 223.28000000000003
   },
   {
     "date": "2015-01-01",
@@ -147356,6 +151404,17 @@
     "freightTotal": 895.88
   },
   {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "TRIVANDRUM",
+    "paxTo": 51304.0,
+    "paxFrom": 49631.0,
+    "paxTotal": 100935.0,
+    "freightTo": 10.07,
+    "freightFrom": 606.6,
+    "freightTotal": 616.6700000000001
+  },
+  {
     "date": "2015-07-01",
     "airport": "SHARJAH",
     "destination": "VARANASI",
@@ -147796,6 +151855,17 @@
     "freightTotal": 71.5
   },
   {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "VARANASI",
+    "paxTo": 20983.0,
+    "paxFrom": 20065.0,
+    "paxTotal": 41048.0,
+    "freightTo": 201.39,
+    "freightFrom": 290.7,
+    "freightTotal": 492.09
+  },
+  {
     "date": "2020-01-01",
     "airport": "SHARJAH",
     "destination": "VIJAYAWADA",
@@ -147981,6 +152051,17 @@
     "freightTo": 97.17,
     "freightFrom": 256.51,
     "freightTotal": 353.68
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SHARJAH",
+    "destination": "VIJAYAWADA",
+    "paxTo": 4022.0,
+    "paxFrom": 4042.0,
+    "paxTotal": 8064.0,
+    "freightTo": 33.72,
+    "freightFrom": 66.06,
+    "freightTotal": 99.78
   },
   {
     "date": "2016-07-01",
@@ -148192,6 +152273,17 @@
     "freightTotal": 4292.18
   },
   {
+    "date": "2025-10-01",
+    "airport": "SHENZHEN",
+    "destination": "BENGALURU",
+    "paxTo": 0.0,
+    "paxFrom": 0.0,
+    "paxTotal": 0.0,
+    "freightTo": 2466.04,
+    "freightFrom": 0.0,
+    "freightTotal": 2466.04
+  },
+  {
     "date": "2022-01-01",
     "airport": "SHENZHEN",
     "destination": "BIRMINGHAM",
@@ -148300,6 +152392,17 @@
     "freightTo": 1370.11,
     "freightFrom": 490.07,
     "freightTotal": 1860.1799999999998
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SHENZHEN",
+    "destination": "DELHI",
+    "paxTo": 0.0,
+    "paxFrom": 0.0,
+    "paxTotal": 0.0,
+    "freightTo": 1530.25,
+    "freightFrom": 0.0,
+    "freightTotal": 1530.25
   },
   {
     "date": "2015-01-01",
@@ -148432,6 +152535,17 @@
     "freightTo": 1.34,
     "freightFrom": 0.0,
     "freightTotal": 1.34
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SIEM REAP",
+    "destination": "KOLKATA",
+    "paxTo": 2327.0,
+    "paxFrom": 2565.0,
+    "paxTotal": 4892.0,
+    "freightTo": 3.4,
+    "freightFrom": 0.0,
+    "freightTotal": 3.4
   },
   {
     "date": "2015-01-01",
@@ -148863,6 +152977,17 @@
     "freightTotal": 2822.85
   },
   {
+    "date": "2025-10-01",
+    "airport": "SINGAPORE",
+    "destination": "AHMEDABAD",
+    "paxTo": 25621.0,
+    "paxFrom": 23835.0,
+    "paxTotal": 49456.0,
+    "freightTo": 1050.21,
+    "freightFrom": 1374.58,
+    "freightTotal": 2424.79
+  },
+  {
     "date": "2016-04-01",
     "airport": "SINGAPORE",
     "destination": "AMRITSAR",
@@ -149224,6 +153349,17 @@
     "freightTo": 80.56,
     "freightFrom": 28.51,
     "freightTotal": 109.07000000000001
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SINGAPORE",
+    "destination": "AMRITSAR",
+    "paxTo": 19612.0,
+    "paxFrom": 18473.0,
+    "paxTotal": 38085.0,
+    "freightTo": 38.11,
+    "freightFrom": 32.03,
+    "freightTotal": 70.14
   },
   {
     "date": "2015-01-01",
@@ -149699,6 +153835,17 @@
     "freightTotal": 4122.96
   },
   {
+    "date": "2025-10-01",
+    "airport": "SINGAPORE",
+    "destination": "BENGALURU",
+    "paxTo": 75858.0,
+    "paxFrom": 66663.0,
+    "paxTotal": 142521.0,
+    "freightTo": 2043.48,
+    "freightFrom": 2264.59,
+    "freightTotal": 4308.07
+  },
+  {
     "date": "2020-07-01",
     "airport": "SINGAPORE",
     "destination": "BHUBANESWAR",
@@ -149818,6 +153965,17 @@
     "freightTo": 0.26,
     "freightFrom": 0.0,
     "freightTotal": 0.26
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SINGAPORE",
+    "destination": "BHUBANESWAR",
+    "paxTo": 3185.0,
+    "paxFrom": 2093.0,
+    "paxTotal": 5278.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
   },
   {
     "date": "2015-01-01",
@@ -150293,6 +154451,17 @@
     "freightTotal": 5811.57
   },
   {
+    "date": "2025-10-01",
+    "airport": "SINGAPORE",
+    "destination": "CHENNAI",
+    "paxTo": 135102.0,
+    "paxFrom": 117977.0,
+    "paxTotal": 253079.0,
+    "freightTo": 2598.76,
+    "freightFrom": 3127.73,
+    "freightTotal": 5726.49
+  },
+  {
     "date": "2015-01-01",
     "airport": "SINGAPORE",
     "destination": "COIMBATORE",
@@ -150720,6 +154889,17 @@
     "freightTo": 2.82,
     "freightFrom": 275.25,
     "freightTotal": 278.07
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SINGAPORE",
+    "destination": "COIMBATORE",
+    "paxTo": 20028.0,
+    "paxFrom": 19296.0,
+    "paxTotal": 39324.0,
+    "freightTo": 80.55,
+    "freightFrom": 159.17,
+    "freightTotal": 239.71999999999997
   },
   {
     "date": "2015-01-01",
@@ -151195,6 +155375,17 @@
     "freightTotal": 8100.889999999999
   },
   {
+    "date": "2025-10-01",
+    "airport": "SINGAPORE",
+    "destination": "DELHI",
+    "paxTo": 134190.0,
+    "paxFrom": 124013.0,
+    "paxTotal": 258203.0,
+    "freightTo": 5437.93,
+    "freightFrom": 5743.48,
+    "freightTotal": 11181.41
+  },
+  {
     "date": "2022-10-01",
     "airport": "SINGAPORE",
     "destination": "GUWAHATI",
@@ -151322,6 +155513,17 @@
     "paxTo": 236.0,
     "paxFrom": 270.0,
     "paxTotal": 506.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SINGAPORE",
+    "destination": "GUWAHATI",
+    "paxTo": 386.0,
+    "paxFrom": 284.0,
+    "paxTotal": 670.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -151798,6 +156000,17 @@
     "freightTo": 894.68,
     "freightFrom": 946.0,
     "freightTotal": 1840.6799999999998
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SINGAPORE",
+    "destination": "HYDERABAD",
+    "paxTo": 47752.0,
+    "paxFrom": 41805.0,
+    "paxTotal": 89557.0,
+    "freightTo": 1004.28,
+    "freightFrom": 929.86,
+    "freightTotal": 1934.1399999999999
   },
   {
     "date": "2017-04-01",
@@ -152317,6 +156530,17 @@
     "freightTotal": 129.95
   },
   {
+    "date": "2025-10-01",
+    "airport": "SINGAPORE",
+    "destination": "KOCHI",
+    "paxTo": 21595.0,
+    "paxFrom": 20444.0,
+    "paxTotal": 42039.0,
+    "freightTo": 51.9,
+    "freightFrom": 94.19,
+    "freightTotal": 146.09
+  },
+  {
     "date": "2015-01-01",
     "airport": "SINGAPORE",
     "destination": "KOLKATA",
@@ -152755,6 +156979,17 @@
     "freightTo": 593.64,
     "freightFrom": 846.58,
     "freightTotal": 1440.22
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SINGAPORE",
+    "destination": "KOLKATA",
+    "paxTo": 33962.0,
+    "paxFrom": 32227.0,
+    "paxTotal": 66189.0,
+    "freightTo": 658.01,
+    "freightFrom": 917.42,
+    "freightTotal": 1575.4299999999998
   },
   {
     "date": "2021-10-01",
@@ -153747,6 +157982,17 @@
     "freightTotal": 4666.46
   },
   {
+    "date": "2025-10-01",
+    "airport": "SINGAPORE",
+    "destination": "MUMBAI",
+    "paxTo": 118495.0,
+    "paxFrom": 110966.0,
+    "paxTotal": 229461.0,
+    "freightTo": 2459.6,
+    "freightFrom": 1843.13,
+    "freightTotal": 4302.73
+  },
+  {
     "date": "2019-10-01",
     "airport": "SINGAPORE",
     "destination": "PORT BLAIR",
@@ -154385,6 +158631,17 @@
     "freightTotal": 499.78000000000003
   },
   {
+    "date": "2025-10-01",
+    "airport": "SINGAPORE",
+    "destination": "TIRUCHIRAPALLY",
+    "paxTo": 77539.0,
+    "paxFrom": 67829.0,
+    "paxTotal": 145368.0,
+    "freightTo": 127.74,
+    "freightFrom": 498.89,
+    "freightTotal": 626.63
+  },
+  {
     "date": "2015-01-01",
     "airport": "SINGAPORE",
     "destination": "TRIVANDRUM",
@@ -154803,6 +159060,17 @@
     "freightTotal": 76.37
   },
   {
+    "date": "2025-10-01",
+    "airport": "SINGAPORE",
+    "destination": "TRIVANDRUM",
+    "paxTo": 16537.0,
+    "paxFrom": 16402.0,
+    "paxTotal": 32939.0,
+    "freightTo": 20.64,
+    "freightFrom": 47.76,
+    "freightTotal": 68.4
+  },
+  {
     "date": "2018-10-01",
     "airport": "SINGAPORE",
     "destination": "VIJAYAWADA",
@@ -154897,6 +159165,17 @@
     "paxTo": 280.0,
     "paxFrom": 0.0,
     "paxTotal": 280.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SINGAPORE",
+    "destination": "VIJAYAWADA",
+    "paxTo": 2745.0,
+    "paxFrom": 1648.0,
+    "paxTotal": 4393.0,
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
@@ -155309,6 +159588,17 @@
     "freightTotal": 0.0
   },
   {
+    "date": "2025-10-01",
+    "airport": "SINGAPORE",
+    "destination": "VISAKHAPATNAM",
+    "paxTo": 8157.0,
+    "paxFrom": 7917.0,
+    "paxTotal": 16074.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
     "date": "2021-07-01",
     "airport": "SOFIA",
     "destination": "BARCELONA",
@@ -155703,6 +159993,17 @@
     "freightTo": 73.73,
     "freightFrom": 218.21,
     "freightTotal": 291.94
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SYDNEY",
+    "destination": "BENGALURU",
+    "paxTo": 15986.0,
+    "paxFrom": 15239.0,
+    "paxTotal": 31225.0,
+    "freightTo": 97.44,
+    "freightFrom": 344.01,
+    "freightTotal": 441.45
   },
   {
     "date": "2020-04-01",
@@ -156187,6 +160488,17 @@
     "freightTo": 671.25,
     "freightFrom": 707.92,
     "freightTotal": 1379.17
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "SYDNEY",
+    "destination": "DELHI",
+    "paxTo": 21092.0,
+    "paxFrom": 18964.0,
+    "paxTotal": 40056.0,
+    "freightTo": 691.17,
+    "freightFrom": 1190.49,
+    "freightTotal": 1881.6599999999999
   },
   {
     "date": "2020-04-01",
@@ -156739,6 +161051,17 @@
     "freightTotal": 841.69
   },
   {
+    "date": "2025-10-01",
+    "airport": "TAIPAE",
+    "destination": "DELHI",
+    "paxTo": 0.0,
+    "paxFrom": 0.0,
+    "paxTotal": 0.0,
+    "freightTo": 738.49,
+    "freightFrom": 279.37,
+    "freightTotal": 1017.86
+  },
+  {
     "date": "2015-01-01",
     "airport": "TAIPAE",
     "destination": "MUMBAI",
@@ -157188,6 +161511,17 @@
     "freightTo": 3.71,
     "freightFrom": 0.29,
     "freightTotal": 4.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "TANGERANG",
+    "destination": "MUMBAI",
+    "paxTo": 15603.0,
+    "paxFrom": 14254.0,
+    "paxTotal": 29857.0,
+    "freightTo": 3.22,
+    "freightFrom": 0.09,
+    "freightTotal": 3.31
   },
   {
     "date": "2015-01-01",
@@ -157905,6 +162239,17 @@
     "freightTotal": 1158.6399999999999
   },
   {
+    "date": "2025-10-01",
+    "airport": "TASHKENT",
+    "destination": "DELHI",
+    "paxTo": 15837.0,
+    "paxFrom": 18282.0,
+    "paxTotal": 34119.0,
+    "freightTo": 573.17,
+    "freightFrom": 379.57,
+    "freightTotal": 952.74
+  },
+  {
     "date": "2018-10-01",
     "airport": "TASHKENT",
     "destination": "MUMBAI",
@@ -158035,6 +162380,17 @@
     "freightTo": 0.0,
     "freightFrom": 0.02,
     "freightTotal": 0.02
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "TASHKENT",
+    "destination": "MUMBAI",
+    "paxTo": 13693.0,
+    "paxFrom": 16417.0,
+    "paxTotal": 30110.0,
+    "freightTo": 104.05,
+    "freightFrom": 222.04,
+    "freightTotal": 326.09
   },
   {
     "date": "2020-10-01",
@@ -158301,6 +162657,17 @@
     "freightTotal": 14.09
   },
   {
+    "date": "2025-10-01",
+    "airport": "TBILISI",
+    "destination": "DELHI",
+    "paxTo": 13761.0,
+    "paxFrom": 11131.0,
+    "paxTotal": 24892.0,
+    "freightTo": 1.63,
+    "freightFrom": 17.36,
+    "freightTotal": 18.99
+  },
+  {
     "date": "2020-04-01",
     "airport": "TBILISI",
     "destination": "KOCHI",
@@ -158365,6 +162732,17 @@
     "freightTo": 0.0,
     "freightFrom": 0.0,
     "freightTotal": 0.0
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "TBILISI",
+    "destination": "MUMBAI",
+    "paxTo": 5341.0,
+    "paxFrom": 5926.0,
+    "paxTotal": 11267.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.03,
+    "freightTotal": 0.03
   },
   {
     "date": "2021-07-01",
@@ -158851,6 +163229,17 @@
     "freightTotal": 386.99
   },
   {
+    "date": "2025-10-01",
+    "airport": "TEHRAN",
+    "destination": "DELHI",
+    "paxTo": 5256.0,
+    "paxFrom": 6038.0,
+    "paxTotal": 11294.0,
+    "freightTo": 22.65,
+    "freightFrom": 441.81,
+    "freightTotal": 464.46
+  },
+  {
     "date": "2015-01-01",
     "airport": "TEHRAN",
     "destination": "MUMBAI",
@@ -159300,6 +163689,17 @@
     "freightTo": 24.0,
     "freightFrom": 27.7,
     "freightTotal": 51.7
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "TEHRAN",
+    "destination": "MUMBAI",
+    "paxTo": 2294.0,
+    "paxFrom": 2425.0,
+    "paxTotal": 4719.0,
+    "freightTo": 43.64,
+    "freightFrom": 30.92,
+    "freightTotal": 74.56
   },
   {
     "date": "2019-04-01",
@@ -160457,6 +164857,17 @@
     "freightTotal": 5551.5
   },
   {
+    "date": "2025-10-01",
+    "airport": "TOKYO",
+    "destination": "DELHI",
+    "paxTo": 54576.0,
+    "paxFrom": 56951.0,
+    "paxTotal": 111527.0,
+    "freightTo": 3382.23,
+    "freightFrom": 1932.7,
+    "freightTotal": 5314.93
+  },
+  {
     "date": "2020-04-01",
     "airport": "TORONTO",
     "destination": "AHMEDABAD",
@@ -161018,6 +165429,17 @@
     "freightTotal": 3143.4300000000003
   },
   {
+    "date": "2025-10-01",
+    "airport": "TORONTO",
+    "destination": "DELHI",
+    "paxTo": 56800.0,
+    "paxFrom": 50242.0,
+    "paxTotal": 107042.0,
+    "freightTo": 1282.31,
+    "freightFrom": 2578.95,
+    "freightTotal": 3861.2599999999998
+  },
+  {
     "date": "2020-07-01",
     "airport": "TORONTO",
     "destination": "HYDERABAD",
@@ -161357,6 +165779,17 @@
     "freightTo": 96.17,
     "freightFrom": 382.11,
     "freightTotal": 478.28000000000003
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "VANCOUVER",
+    "destination": "DELHI",
+    "paxTo": 25954.0,
+    "paxFrom": 22480.0,
+    "paxTotal": 48434.0,
+    "freightTo": 201.94,
+    "freightFrom": 808.61,
+    "freightTotal": 1010.55
   },
   {
     "date": "2023-10-01",
@@ -161764,6 +166197,17 @@
     "freightTo": 420.97,
     "freightFrom": 1272.93,
     "freightTotal": 1693.9
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "VIENNA",
+    "destination": "DELHI",
+    "paxTo": 12876.0,
+    "paxFrom": 9182.0,
+    "paxTotal": 22058.0,
+    "freightTo": 1172.91,
+    "freightFrom": 1769.64,
+    "freightTotal": 2942.55
   },
   {
     "date": "2019-04-01",
@@ -162226,6 +166670,17 @@
     "freightTo": 212.12,
     "freightFrom": 586.0,
     "freightTotal": 798.12
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "WARSAW",
+    "destination": "DELHI",
+    "paxTo": 15928.0,
+    "paxFrom": 12874.0,
+    "paxTotal": 28802.0,
+    "freightTo": 210.09,
+    "freightFrom": 807.8,
+    "freightTotal": 1017.89
   },
   {
     "date": "2020-04-01",
@@ -162921,6 +167376,17 @@
     "freightTotal": 0.04
   },
   {
+    "date": "2025-10-01",
+    "airport": "YEKATERINBURG",
+    "destination": "GOA",
+    "paxTo": 3963.0,
+    "paxFrom": 3467.0,
+    "paxTotal": 7430.0,
+    "freightTo": 0.0,
+    "freightFrom": 0.0,
+    "freightTotal": 0.0
+  },
+  {
     "date": "2021-07-01",
     "airport": "YEREVAN",
     "destination": "AMRITSAR",
@@ -163537,6 +168003,17 @@
     "freightTotal": 3299.95
   },
   {
+    "date": "2025-10-01",
+    "airport": "ZURICH",
+    "destination": "DELHI",
+    "paxTo": 33190.0,
+    "paxFrom": 27607.0,
+    "paxTotal": 60797.0,
+    "freightTo": 1430.3,
+    "freightFrom": 1682.22,
+    "freightTotal": 3112.52
+  },
+  {
     "date": "2015-01-01",
     "airport": "ZURICH",
     "destination": "MUMBAI",
@@ -164008,5 +168485,16 @@
     "freightTo": 973.46,
     "freightFrom": 1463.13,
     "freightTotal": 2436.59
+  },
+  {
+    "date": "2025-10-01",
+    "airport": "ZURICH",
+    "destination": "MUMBAI",
+    "paxTo": 18784.0,
+    "paxFrom": 16389.0,
+    "paxTotal": 35173.0,
+    "freightTo": 993.03,
+    "freightFrom": 1490.37,
+    "freightTotal": 2483.3999999999996
   }
 ]
