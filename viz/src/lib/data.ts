@@ -198,7 +198,7 @@ export async function getAirportDestinations(
 	year?: number
 ): Promise<Array<{ destination: string; value: number }>> {
 	const destinations = await loadAirportDestinationsPrecalc();
-	const defaultYear = year || 2025;
+	const defaultYear = year || 2026;
 	// Convert year to string since JSON keys are strings
 	const yearKey = String(defaultYear);
 

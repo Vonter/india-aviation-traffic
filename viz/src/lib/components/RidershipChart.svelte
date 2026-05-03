@@ -154,7 +154,7 @@
 		return year.toString();
 	};
 
-	// Format date as quarter (e.g., "Q1 2024")
+	// Format date as quarter (e.g., "Q1 2026")
 	const formatQuarter = (date: Date): string => {
 		const year = date.getUTCFullYear();
 		const month = date.getUTCMonth(); // 0-11

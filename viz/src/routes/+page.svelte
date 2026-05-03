@@ -77,7 +77,7 @@
 	let treemapDomestic = $state(true);
 	let treemapInternational = $state(true);
 	let treemapMetric = $state<string>('paxTotal');
-	let treemapYear = $state<number>(2024);
+	let treemapYear = $state<number>(2026);
 	let treemapLoading = $state(false);
 	let treemapAirportPopoverOpen = $state(false);
 	let treemapMetricPopoverOpen = $state(false);
@@ -698,7 +698,7 @@
 							<span slot="content">
 								<Command>
 									<div slot="list" class="max-h-[300px] overflow-y-auto">
-										{#each Array.from({ length: 2025 - 2015 + 1 }, (_, i) => 2015 + i).reverse() as year}
+										{#each Array.from({ length: 2026 - 2015 + 1 }, (_, i) => 2015 + i).reverse() as year}
 											<button
 												type="button"
 												class="relative flex w-full cursor-default items-center rounded-md px-4 py-2 text-left text-sm outline-none hover:bg-accent"
