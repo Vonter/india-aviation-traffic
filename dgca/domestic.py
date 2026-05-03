@@ -36,8 +36,8 @@ def domestic_table_city():
 
     combined_df.columns = ['City1', 'City2', 'PaxToCity2', 'PaxFromCity2', 'FreightToCity2', 'FreightFromCity2', 'MailToCity2', 'MailFromCity2', 'Year', 'Month']
 
-    combined_df['City1'] = combined_df['City1'].str.lstrip()
-    combined_df['City2'] = combined_df['City2'].str.lstrip()
+    combined_df['City1'] = combined_df['City1'].map(lambda x: x.lstrip().upper() if isinstance(x, str) else x)
+    combined_df['City2'] = combined_df['City2'].map(lambda x: x.lstrip().upper() if isinstance(x, str) else x)
 
     combined_df.sort_values(by=['City1', 'City2', 'Year', 'Month'], inplace=True)
 
@@ -85,7 +85,7 @@ def domestic_table_carrier():
               'JUNE', 'JULY']
     combined_df = combined_df[combined_df[combined_df.columns[0]].str.contains('|'.join(months), na=False)]
 
-    combined_df = combined_df.iloc[:, :20]
+    combined_df = combined_df[list(range(17)) + ['Year', 'Airline', 'Type']]
     fingerprint_columns = combined_df.columns[:4].tolist()
     combined_df = combined_df.dropna(subset=fingerprint_columns, how='any')
 
@@ -93,7 +93,7 @@ def domestic_table_carrier():
 
     combined_df['Month'] = combined_df['Month'].str.rstrip()
     combined_df['Month'] = combined_df['Month'].replace(month_mapping)
-    combined_df['Airline'] = combined_df['Airline'].str.replace('\d+', '', regex=True)
+    combined_df['Airline'] = combined_df['Airline'].map(lambda x: re.sub(r'\d+', '', x) if isinstance(x, str) else x)
     combined_df['Airline'] = combined_df['Airline'].replace(airline_mapping)
 
     combined_df.sort_values(by=['Type', 'Airline', 'Year', 'Month'], inplace=True)
