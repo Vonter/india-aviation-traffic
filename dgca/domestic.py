@@ -80,7 +80,7 @@ def domestic_table_carrier():
     # Filter rows where the first column contains any month name
     months = ['january', 'february', 'march', 'april', 'may', 'june',
               'july', 'august', 'september', 'october', 'november', 'december',
-              'JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN'
+              'JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN',
               'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC',
               'JUNE', 'JULY']
     combined_df = combined_df[combined_df[combined_df.columns[0]].str.contains('|'.join(months), na=False)]
