@@ -4992,6 +4992,22 @@
     "freightTotal": 0.0
   },
   {
+    "date": "2026-05-01",
+    "airline": "Air India Express",
+    "aircraftNumber": 34.0,
+    "aircraftHours": 90.333,
+    "aircraftKilometres": 119.51,
+    "passengerNumber": 5688.0,
+    "passengerKilometers": 19994.226,
+    "seatKilometers": 22587.39,
+    "passengerLoadFactor": 88.52,
+    "freight": 0.0,
+    "mail": 0.0,
+    "totalCargo": 0.0,
+    "paxTotal": 5688.0,
+    "freightTotal": 0.0
+  },
+  {
     "date": "2022-02-01",
     "airline": "AirAsia India",
     "aircraftNumber": 2.0,
@@ -5053,6 +5069,22 @@
     "mail": 0.0,
     "totalCargo": 0.0,
     "paxTotal": 4745.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2026-05-01",
+    "airline": "Akasa Air",
+    "aircraftNumber": 82.0,
+    "aircraftHours": 462.833,
+    "aircraftKilometres": 298.913,
+    "passengerNumber": 11622.0,
+    "passengerKilometers": 42348.933,
+    "seatKilometers": 43342.385,
+    "passengerLoadFactor": 97.71,
+    "freight": 0.0,
+    "mail": 0.0,
+    "totalCargo": 0.0,
+    "paxTotal": 11622.0,
     "freightTotal": 0.0
   },
   {
@@ -6942,6 +6974,22 @@
     "totalCargo": 1197.557,
     "paxTotal": 0.0,
     "freightTotal": 1197.557
+  },
+  {
+    "date": "2026-05-01",
+    "airline": "IndiGo",
+    "aircraftNumber": 87.0,
+    "aircraftHours": 225.867,
+    "aircraftKilometres": 134.021,
+    "passengerNumber": 0.0,
+    "passengerKilometers": 0.0,
+    "seatKilometers": 0.0,
+    "passengerLoadFactor": 0.0,
+    "freight": 1124.767,
+    "mail": 0.0,
+    "totalCargo": 1124.767,
+    "paxTotal": 0.0,
+    "freightTotal": 1124.767
   },
   {
     "date": "2015-01-01",
@@ -12912,6 +12960,22 @@
     "freightTotal": 17766.24
   },
   {
+    "date": "2026-05-01",
+    "airline": "Air India",
+    "aircraftNumber": 15510.0,
+    "aircraftHours": 32343.79,
+    "aircraftKilometres": 16385.437,
+    "passengerNumber": 2144363.0,
+    "passengerKilometers": 2254574.498,
+    "seatKilometers": 2777049.926,
+    "passengerLoadFactor": 81.19,
+    "freight": 18967.529,
+    "mail": 1205.028,
+    "totalCargo": 20172.557,
+    "paxTotal": 2144363.0,
+    "freightTotal": 18967.529
+  },
+  {
     "date": "2015-01-01",
     "airline": "Air India Express",
     "aircraftNumber": 71.0,
@@ -14750,6 +14814,22 @@
     "totalCargo": 6905.595,
     "paxTotal": 1460627.0,
     "freightTotal": 6905.595
+  },
+  {
+    "date": "2026-05-01",
+    "airline": "Air India Express",
+    "aircraftNumber": 11616.0,
+    "aircraftHours": 21999.683,
+    "aircraftKilometres": 11556.961,
+    "passengerNumber": 1788544.0,
+    "passengerKilometers": 1829036.811,
+    "seatKilometers": 2114765.7,
+    "passengerLoadFactor": 86.49,
+    "freight": 7837.479,
+    "mail": 0.0,
+    "totalCargo": 7837.479,
+    "paxTotal": 1788544.0,
+    "freightTotal": 7837.479
   },
   {
     "date": "2018-02-01",
@@ -17616,6 +17696,22 @@
     "freightTotal": 4262.188
   },
   {
+    "date": "2026-05-01",
+    "airline": "Akasa Air",
+    "aircraftNumber": 5172.0,
+    "aircraftHours": 11896.4,
+    "aircraftKilometres": 6212.849,
+    "passengerNumber": 889666.0,
+    "passengerKilometers": 1084782.622,
+    "seatKilometers": 1172646.503,
+    "passengerLoadFactor": 92.51,
+    "freight": 5474.618,
+    "mail": 309.839,
+    "totalCargo": 5784.457,
+    "paxTotal": 889666.0,
+    "freightTotal": 5474.618
+  },
+  {
     "date": "2015-01-01",
     "airline": "Alliance Air",
     "aircraftNumber": 581.0,
@@ -19776,6 +19872,22 @@
     "freightTotal": 0.0
   },
   {
+    "date": "2026-05-01",
+    "airline": "Alliance Air",
+    "aircraftNumber": 1400.0,
+    "aircraftHours": 1887.0,
+    "aircraftKilometres": 541.463,
+    "passengerNumber": 50348.0,
+    "passengerKilometers": 20946.758,
+    "seatKilometers": 34227.084,
+    "passengerLoadFactor": 61.2,
+    "freight": 6.641,
+    "mail": 0.0,
+    "totalCargo": 6.641,
+    "paxTotal": 50348.0,
+    "freightTotal": 6.641
+  },
+  {
     "date": "2016-01-01",
     "airline": "Blue Dart Aviation",
     "aircraftNumber": 455.0,
@@ -21760,6 +21872,22 @@
     "freightTotal": 10101.138
   },
   {
+    "date": "2026-05-01",
+    "airline": "Blue Dart Aviation",
+    "aircraftNumber": 551.0,
+    "aircraftHours": 727.85,
+    "aircraftKilometres": 520.697,
+    "passengerNumber": 0.0,
+    "passengerKilometers": 0.0,
+    "seatKilometers": 0.0,
+    "passengerLoadFactor": 0.0,
+    "freight": 9952.353,
+    "mail": 0.0,
+    "totalCargo": 9952.353,
+    "paxTotal": 0.0,
+    "freightTotal": 9952.353
+  },
+  {
     "date": "2024-03-01",
     "airline": "Fly91",
     "aircraftNumber": 38.0,
@@ -22173,6 +22301,22 @@
     "mail": 0.0,
     "totalCargo": 0.0,
     "paxTotal": 38616.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2026-05-01",
+    "airline": "Fly91",
+    "aircraftNumber": 1128.0,
+    "aircraftHours": 1272.983,
+    "aircraftKilometres": 445.44,
+    "passengerNumber": 54496.0,
+    "passengerKilometers": 21912.12,
+    "seatKilometers": 31626.45,
+    "passengerLoadFactor": 69.28,
+    "freight": 0.0,
+    "mail": 0.0,
+    "totalCargo": 0.0,
+    "paxTotal": 54496.0,
     "freightTotal": 0.0
   },
   {
@@ -26832,6 +26976,22 @@
     "freightTotal": 28480.355
   },
   {
+    "date": "2026-05-01",
+    "airline": "IndiGo",
+    "aircraftNumber": 62993.0,
+    "aircraftHours": 113100.6,
+    "aircraftKilometres": 56001.829,
+    "passengerNumber": 9991048.0,
+    "passengerKilometers": 9603478.0,
+    "seatKilometers": 11112753.0,
+    "passengerLoadFactor": 86.42,
+    "freight": 31854.671,
+    "mail": 2581.588,
+    "totalCargo": 34436.259,
+    "paxTotal": 9991048.0,
+    "freightTotal": 31854.671
+  },
+  {
     "date": "2022-10-01",
     "airline": "India One Air",
     "aircraftNumber": 2.0,
@@ -27517,6 +27677,22 @@
     "mail": 0.0,
     "totalCargo": 0.0,
     "paxTotal": 1687.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2026-05-01",
+    "airline": "India One Air",
+    "aircraftNumber": 406.0,
+    "aircraftHours": 518.0,
+    "aircraftKilometres": 121.528,
+    "passengerNumber": 1835.0,
+    "passengerKilometers": 585.408,
+    "seatKilometers": 1093.752,
+    "passengerLoadFactor": 53.52,
+    "freight": 0.0,
+    "mail": 0.0,
+    "totalCargo": 0.0,
+    "paxTotal": 1835.0,
     "freightTotal": 0.0
   },
   {
@@ -30672,6 +30848,22 @@
     "freightTotal": 857.738
   },
   {
+    "date": "2026-05-01",
+    "airline": "QuikJet Cargo",
+    "aircraftNumber": 85.0,
+    "aircraftHours": 190.967,
+    "aircraftKilometres": 104.463,
+    "passengerNumber": 0.0,
+    "passengerKilometers": 0.0,
+    "seatKilometers": 0.0,
+    "passengerLoadFactor": 0.0,
+    "freight": 963.692,
+    "mail": 0.0,
+    "totalCargo": 963.692,
+    "paxTotal": 0.0,
+    "freightTotal": 963.692
+  },
+  {
     "date": "2015-01-01",
     "airline": "SpiceJet",
     "aircraftNumber": 5667.0,
@@ -32832,6 +33024,22 @@
     "freightTotal": 2293.51
   },
   {
+    "date": "2026-05-01",
+    "airline": "SpiceJet",
+    "aircraftNumber": 2660.0,
+    "aircraftHours": 4246.35,
+    "aircraftKilometres": 2604.064,
+    "passengerNumber": 386405.0,
+    "passengerKilometers": 402727.361,
+    "seatKilometers": 460657.629,
+    "passengerLoadFactor": 87.42,
+    "freight": 2021.127,
+    "mail": 0.0,
+    "totalCargo": 2021.127,
+    "paxTotal": 386405.0,
+    "freightTotal": 2021.127
+  },
+  {
     "date": "2019-01-01",
     "airline": "Star Air",
     "aircraftNumber": 24.0,
@@ -34221,6 +34429,22 @@
     "mail": 0.0,
     "totalCargo": 0.0,
     "paxTotal": 77772.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2026-05-01",
+    "airline": "Star Air",
+    "aircraftNumber": 1432.0,
+    "aircraftHours": 1791.75,
+    "aircraftKilometres": 735.529,
+    "passengerNumber": 82996.0,
+    "passengerKilometers": 46605.468,
+    "seatKilometers": 61260.472,
+    "passengerLoadFactor": 76.08,
+    "freight": 0.0,
+    "mail": 0.0,
+    "totalCargo": 0.0,
+    "paxTotal": 82996.0,
     "freightTotal": 0.0
   },
   {
@@ -40816,6 +41040,38 @@
     "freightTotal": 0.0
   },
   {
+    "date": "2026-05-01",
+    "airline": "Air India",
+    "aircraftNumber": 3957.0,
+    "aircraftHours": 28643.02,
+    "aircraftKilometres": 19053.648,
+    "passengerNumber": 668908.0,
+    "passengerKilometers": 3577107.238,
+    "seatKilometers": 4875203.734,
+    "passengerLoadFactor": 73.37,
+    "freight": 18929.443,
+    "mail": 330.049,
+    "totalCargo": 19259.492,
+    "paxTotal": 668908.0,
+    "freightTotal": 18929.443
+  },
+  {
+    "date": "2026-05-01",
+    "airline": "Air India",
+    "aircraftNumber": 244.0,
+    "aircraftHours": 346.55,
+    "aircraftKilometres": 130.028,
+    "passengerNumber": 37447.0,
+    "passengerKilometers": 20741.036,
+    "seatKilometers": 22433.136,
+    "passengerLoadFactor": 92.46,
+    "freight": 0.1,
+    "mail": 0.0,
+    "totalCargo": 0.1,
+    "paxTotal": 37447.0,
+    "freightTotal": 0.1
+  },
+  {
     "date": "2015-01-01",
     "airline": "Air India Express",
     "aircraftNumber": 1615.0,
@@ -42976,6 +43232,38 @@
     "freightTotal": 0.0
   },
   {
+    "date": "2026-05-01",
+    "airline": "Air India Express",
+    "aircraftNumber": 2111.0,
+    "aircraftHours": 8743.333,
+    "aircraftKilometres": 5658.688,
+    "passengerNumber": 292149.0,
+    "passengerKilometers": 770842.434,
+    "seatKilometers": 1029354.807,
+    "passengerLoadFactor": 74.89,
+    "freight": 1581.847,
+    "mail": 0.0,
+    "totalCargo": 1581.847,
+    "paxTotal": 292149.0,
+    "freightTotal": 1581.847
+  },
+  {
+    "date": "2026-05-01",
+    "airline": "Air India Express",
+    "aircraftNumber": 34.0,
+    "aircraftHours": 35.75,
+    "aircraftKilometres": 14.353,
+    "passengerNumber": 3972.0,
+    "passengerKilometers": 1540.844,
+    "seatKilometers": 2712.717,
+    "passengerLoadFactor": 56.8,
+    "freight": 0.0,
+    "mail": 0.0,
+    "totalCargo": 0.0,
+    "paxTotal": 3972.0,
+    "freightTotal": 0.0
+  },
+  {
     "date": "2021-07-01",
     "airline": "Air Taxi",
     "aircraftNumber": 1.0,
@@ -44416,6 +44704,38 @@
     "freightTotal": 0.0
   },
   {
+    "date": "2026-05-01",
+    "airline": "Akasa Air",
+    "aircraftNumber": 377.0,
+    "aircraftHours": 1595.633,
+    "aircraftKilometres": 1026.717,
+    "passengerNumber": 58095.0,
+    "passengerKilometers": 158180.574,
+    "seatKilometers": 195662.417,
+    "passengerLoadFactor": 80.84,
+    "freight": 199.866,
+    "mail": 0.0,
+    "totalCargo": 199.866,
+    "paxTotal": 58095.0,
+    "freightTotal": 199.866
+  },
+  {
+    "date": "2026-05-01",
+    "airline": "Akasa Air",
+    "aircraftNumber": 6.0,
+    "aircraftHours": 11.167,
+    "aircraftKilometres": 4.829,
+    "passengerNumber": 730.0,
+    "passengerKilometers": 548.774,
+    "seatKilometers": 771.441,
+    "passengerLoadFactor": 71.14,
+    "freight": 0.0,
+    "mail": 0.0,
+    "totalCargo": 0.0,
+    "paxTotal": 730.0,
+    "freightTotal": 0.0
+  },
+  {
     "date": "2019-10-01",
     "airline": "Alliance Air",
     "aircraftNumber": 2.0,
@@ -45261,6 +45581,22 @@
     "mail": 0.0,
     "totalCargo": 0.0,
     "paxTotal": 15.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2026-05-01",
+    "airline": "Alliance Air",
+    "aircraftNumber": 8.0,
+    "aircraftHours": 7.0,
+    "aircraftKilometres": 2.086,
+    "passengerNumber": 4.0,
+    "passengerKilometers": 0.692,
+    "seatKilometers": 146.02,
+    "passengerLoadFactor": 0.47,
+    "freight": 0.0,
+    "mail": 0.0,
+    "totalCargo": 0.0,
+    "paxTotal": 4.0,
     "freightTotal": 0.0
   },
   {
@@ -46528,6 +46864,22 @@
     "freightTotal": 1126.458
   },
   {
+    "date": "2026-05-01",
+    "airline": "Blue Dart Aviation",
+    "aircraftNumber": 109.0,
+    "aircraftHours": 179.533,
+    "aircraftKilometres": 130.475,
+    "passengerNumber": 0.0,
+    "passengerKilometers": 0.0,
+    "seatKilometers": 0.0,
+    "passengerLoadFactor": 0.0,
+    "freight": 1500.099,
+    "mail": 0.0,
+    "totalCargo": 1500.099,
+    "paxTotal": 0.0,
+    "freightTotal": 1500.099
+  },
+  {
     "date": "2024-11-01",
     "airline": "Fly91",
     "aircraftNumber": 1.0,
@@ -46621,6 +46973,22 @@
     "mail": 0.0,
     "totalCargo": 0.0,
     "paxTotal": 68.0,
+    "freightTotal": 0.0
+  },
+  {
+    "date": "2026-05-01",
+    "airline": "Fly91",
+    "aircraftNumber": 1.0,
+    "aircraftHours": 4.167,
+    "aircraftKilometres": 1.67,
+    "passengerNumber": 58.0,
+    "passengerKilometers": 96.8,
+    "seatKilometers": 120.17,
+    "passengerLoadFactor": 80.55,
+    "freight": 0.0,
+    "mail": 0.0,
+    "totalCargo": 0.0,
+    "paxTotal": 58.0,
     "freightTotal": 0.0
   },
   {
@@ -51120,6 +51488,38 @@
     "freightTotal": 132.998
   },
   {
+    "date": "2026-05-01",
+    "airline": "IndiGo",
+    "aircraftNumber": 7254.0,
+    "aircraftHours": 29394.867,
+    "aircraftKilometres": 19806.709,
+    "passengerNumber": 1195547.0,
+    "passengerKilometers": 3349700.0,
+    "seatKilometers": 4178539.0,
+    "passengerLoadFactor": 80.16,
+    "freight": 5629.28,
+    "mail": 10.122,
+    "totalCargo": 5639.402,
+    "paxTotal": 1195547.0,
+    "freightTotal": 5629.28
+  },
+  {
+    "date": "2026-05-01",
+    "airline": "IndiGo",
+    "aircraftNumber": 142.0,
+    "aircraftHours": 236.833,
+    "aircraftKilometres": 100.935,
+    "passengerNumber": 10423.0,
+    "passengerKilometers": 7328.0,
+    "seatKilometers": 8928.0,
+    "passengerLoadFactor": 82.08,
+    "freight": 271.526,
+    "mail": 0.041,
+    "totalCargo": 271.567,
+    "paxTotal": 10423.0,
+    "freightTotal": 271.526
+  },
+  {
     "date": "2022-08-01",
     "airline": "India One Air",
     "aircraftNumber": 58.0,
@@ -52894,6 +53294,22 @@
     "totalCargo": 153.654,
     "paxTotal": 0.0,
     "freightTotal": 153.654
+  },
+  {
+    "date": "2026-05-01",
+    "airline": "QuikJet Cargo",
+    "aircraftNumber": 8.0,
+    "aircraftHours": 15.55,
+    "aircraftKilometres": 8.378,
+    "passengerNumber": 0.0,
+    "passengerKilometers": 0.0,
+    "seatKilometers": 0.0,
+    "passengerLoadFactor": 0.0,
+    "freight": 61.607,
+    "mail": 0.0,
+    "totalCargo": 61.607,
+    "paxTotal": 0.0,
+    "freightTotal": 61.607
   },
   {
     "date": "2015-01-01",
@@ -56286,6 +56702,38 @@
     "totalCargo": 0.525,
     "paxTotal": 1258.0,
     "freightTotal": 0.525
+  },
+  {
+    "date": "2026-05-01",
+    "airline": "SpiceJet",
+    "aircraftNumber": 296.0,
+    "aircraftHours": 866.3,
+    "aircraftKilometres": 605.506,
+    "passengerNumber": 43603.0,
+    "passengerKilometers": 89314.158,
+    "seatKilometers": 113783.3,
+    "passengerLoadFactor": 78.49,
+    "freight": 334.575,
+    "mail": 0.0,
+    "totalCargo": 334.575,
+    "paxTotal": 43603.0,
+    "freightTotal": 334.575
+  },
+  {
+    "date": "2026-05-01",
+    "airline": "SpiceJet",
+    "aircraftNumber": 10.0,
+    "aircraftHours": 10.433,
+    "aircraftKilometres": 5.737,
+    "passengerNumber": 812.0,
+    "passengerKilometers": 518.845,
+    "seatKilometers": 1057.192,
+    "passengerLoadFactor": 49.08,
+    "freight": 0.0,
+    "mail": 0.0,
+    "totalCargo": 0.0,
+    "paxTotal": 812.0,
+    "freightTotal": 0.0
   },
   {
     "date": "2019-08-01",
