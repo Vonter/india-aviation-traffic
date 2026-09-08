@@ -27,7 +27,7 @@ def domestic_table_city():
     fingerprint_columns = combined_df.columns[:4].tolist()
     combined_df = combined_df.dropna(subset=fingerprint_columns, how='any')
 
-    combined_df.drop(columns=combined_df.columns[0], axis=1, inplace=True)
+    combined_df.drop(columns=combined_df.columns[0], inplace=True)
 
     moved_column = combined_df.pop('Year')
     combined_df['Year'] = moved_column

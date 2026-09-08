@@ -163,7 +163,8 @@ def generate_dataframe():
     extracted_data = []
 
     # Find all HTML files recursively
-    for html_file in glob(os.path.join(html_dir, "**/*.html"), recursive=True):
+    # Snapshot paths are timestamped; keep='last' must prefer the newest capture.
+    for html_file in sorted(glob(os.path.join(html_dir, "**/*.html"), recursive=True)):
         
         print("Parsing {}".format(html_file))
 
@@ -193,7 +194,9 @@ def generate_dataframe():
     return df
 
 def parse_dataframe(df):
-    df = df.astype(str)
+    # pandas 3 preserves missing values when casting to str; the merge helpers
+    # concatenate strings, so normalize missing cells before converting.
+    df = df.fillna('').astype(str)
 
     # Rename column headers
     df = replace_column_names(df)
@@ -250,7 +253,7 @@ def parse_dataframe(df):
     df = merge_columns(df, ['Passenger Load Factor (GoAir)', 'Passenger Load Factor (Goair)'], 'Passenger Load Factor (GoAir)')
     
     # Remove duplicate rows
-    df = retain_last_row(df, 'Date')
+    df = retain_last_row(df, 'Date').sort_values('Date')
 
     # Remove commas
     df = df.apply(lambda x: x.str.replace(',', '') if isinstance(x, str) else x)

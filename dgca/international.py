@@ -27,8 +27,11 @@ def international_table(table):
     combined_df = combined_df[~combined_df.map(lambda x: isinstance(x, str) and "NAME OF THE AIRLINE" in x)]
     combined_df = combined_df[~combined_df.map(lambda x: isinstance(x, str) and "FROM INDIA" in x)]
     combined_df = combined_df[~combined_df.map(lambda x: isinstance(x, str) and "FROM CITY" in x)]
-    combined_df = combined_df.dropna()
-    combined_df.drop(columns=combined_df.columns[0], axis=1, inplace=True)
+    # Keep partially reported airlines; blank months must not discard the
+    # populated months in the same source row.
+    combined_df = combined_df.dropna(subset=combined_df.columns[:2])
+    combined_df = combined_df[pd.to_numeric(combined_df.iloc[:, 0], errors='coerce').notna()]
+    combined_df.drop(columns=combined_df.columns[0], inplace=True)
 
     # Assign columns based on table type
     if table == '1':

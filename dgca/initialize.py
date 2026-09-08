@@ -8,6 +8,7 @@ import requests
 import shutil
 from pathlib import Path
 from html.parser import HTMLParser
+from datetime import date
 
 # Constants
 BASE_URL = "https://www.dgca.gov.in/digigov-portal/scan?"
@@ -34,7 +35,7 @@ CITY_PAIR_PATTERN = r'city.*?pair|CITYPAIR'
 def make_request(content_id: str, service_name: str) -> str:
     """Make a POST request to DGCA API and return response text."""
     data = {**REQUEST_DATA, "contentId": content_id, "serviceName": service_name}
-    response = requests.post(BASE_URL, data=data)
+    response = requests.post(BASE_URL, data=data, timeout=60)
     response.raise_for_status()
     return response.text
 
@@ -248,6 +249,7 @@ def recursively_extract_urls(content_id: str, visited: set = None, depth: int = 
     
     except Exception as e:
         print(f"    {'  ' * depth}Error processing contentId {content_id}: {e}")
+        raise
     
     return all_urls
 
@@ -287,8 +289,11 @@ def process_international_data():
     print("Generating international URLs...")
     international_urls = []
     for table in range(1, 5):  # 1 to 4
-        for year in range(15, 26):  # 15 to 25
+        for year in range(15, date.today().year - 2000 + 1):
             for quarter in range(1, 5):  # 1 to 4
+                # Only probe completed quarters; publication can lag behind.
+                if (2000 + year, quarter) >= (date.today().year, (date.today().month - 1) // 3 + 1):
+                    continue
                 url = f"https://public-prd-dgca.s3.ap-south-1.amazonaws.com/InventoryList/dataReports/aviationDataStatistics/airTransport/international/quaterly/{year}Q{quarter}_{table}.xlsx"
                 international_urls.append(url)
     return international_urls
@@ -304,6 +309,8 @@ def main():
     """Main execution function."""
     # Process domestic data
     domestic_urls = process_domestic_data()
+    if not domestic_urls:
+        raise RuntimeError("DGCA discovery returned no domestic workbook URLs")
     save_urls(domestic_urls, "urls/domestic.txt")
     
     # Process international data

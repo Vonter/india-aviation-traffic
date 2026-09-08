@@ -130,7 +130,9 @@ def append_columns(df, filename, domestic, table):
             row = df.loc[matching_indices[index]]
             for pattern, value in pattern_mapping.items():
                 if any(re.search(pattern, str(cell), re.IGNORECASE) for cell in row):
-                    df.loc[matching_indices[index]:matching_indices[index + 1], 'Type'] = value
+                    # The next header must not inherit this section's Type: it
+                    # would then be matched as if it were source header text.
+                    df.loc[matching_indices[index]:matching_indices[index + 1] - 1, 'Type'] = value
                     break
 
     if not domestic:
