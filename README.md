@@ -5,10 +5,10 @@ Dataset of Indian aviation traffic. Sourced from [DGCA](https://www.dgca.gov.in/
 Visualize the data on [India Aviation Traffic](https://india-aviation-traffic.pages.dev/).
 
 Explore the raw data:
-- [Daily Summary](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/daily.csv&stickyColumnName=Date) (Ministry of Civil Aviation)
-- Carrier-wise: [Domestic](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/domestic/carrier.csv&stickyColumnName=Airline&sort=Year%2Cdesc) or [International](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/carrier.csv&stickyColumnName=Airline&sort=Year%2Cdesc) (DGCA)
-- City-wise: [Domestic](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/domestic/city.csv&stickyColumnName=City1&sort=Year%2Cdesc) or [International](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/city.csv&stickyColumnName=City1&sort=Year%2Cdesc) (DGCA)
-- [Country-wise](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/country.csv&stickyColumnName=Country) (DGCA)
+- [Daily Summary](https://lite.datasette.io/?csv=https://raw.githubusercontent.com/Vonter/india-aviation-traffic/main/aggregated/daily.csv#/data/daily?_sort_desc=Date) (Ministry of Civil Aviation)
+- Carrier-wise: [Domestic](https://lite.datasette.io/?csv=https://raw.githubusercontent.com/Vonter/india-aviation-traffic/main/aggregated/domestic/carrier.csv#/data/carrier?_sort_desc=Year) or [International](https://lite.datasette.io/?csv=https://raw.githubusercontent.com/Vonter/india-aviation-traffic/main/aggregated/international/carrier.csv#/data/carrier?_sort_desc=Year) (DGCA)
+- City-wise: [Domestic](https://lite.datasette.io/?csv=https://raw.githubusercontent.com/Vonter/india-aviation-traffic/main/aggregated/domestic/city.csv#/data/city?_sort_desc=Year) or [International](https://lite.datasette.io/?csv=https://raw.githubusercontent.com/Vonter/india-aviation-traffic/main/aggregated/international/city.csv#/data/city?_sort_desc=Year) (DGCA)
+- [Country-wise](https://lite.datasette.io/?csv=https://raw.githubusercontent.com/Vonter/india-aviation-traffic/main/aggregated/international/country.csv#/data/country?_sort_desc=Year) (DGCA)
 
 ## Visualizations
 
